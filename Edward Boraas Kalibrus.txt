@@ -1,0 +1,13 @@
+Scope	Edward Boraas	ca.boraas.Kalibrus
+//Map	_control_	Output Level
+//Map	_control_	HPF Freq
+//Map	_control_	LPF Freq
+//Map	_control_	Stereo Width
+//Map	_control_	Balance
+//Map	_control_	Noise Type
+//Map	_control_	Channel Mode
+//Map	_control_	Engage
+//Map	_control_	Output Peak L
+//Map	_control_	Output Peak R
+//Map	_control_	Output RMS L
+//Map	_control_	Output RMS R
