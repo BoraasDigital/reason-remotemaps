@@ -4,7 +4,7 @@ Scope	Edward Boraas	ca.boraas.Kalibrus
 // Primary Continuous Controls (Knobs / Rotary Encoders)
 // Standard 8-Control Bank: Pots 1–5
 // ==============================================================================
-//Map	_pot_1_	Noise Level
+//Map	_pot_1_	Output Level
 //Map	_pot_2_	HPF Freq
 //Map	_pot_3_	LPF Freq
 //Map	_pot_4_	Stereo Width
@@ -21,7 +21,7 @@ Scope	Edward Boraas	ca.boraas.Kalibrus
 // Transport & Voice Buttons (Pushbuttons / Toggles)
 // Standard 8-Control Bank: Pot 8 / Buttons 1–2
 // ==============================================================================
-//Map	_button_1_	Manual Engage
+//Map	_button_1_	Engage
 //Map	_button_2_	Auto Engage
 
 // ==============================================================================
