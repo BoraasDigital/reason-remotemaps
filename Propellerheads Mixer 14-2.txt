@@ -1,0 +1,354 @@
+Scope	Propellerheads	Mixer 14:2
+//Map	_control_	Master Level
+//Map	_control_	Channel 1 Level
+//Map	_control_	Channel 2 Level
+//Map	_control_	Channel 3 Level
+//Map	_control_	Channel 4 Level
+//Map	_control_	Channel 5 Level
+//Map	_control_	Channel 6 Level
+//Map	_control_	Channel 7 Level
+//Map	_control_	Channel 1 Mute
+//Map	_control_	Channel 2 Mute
+//Map	_control_	Channel 3 Mute
+//Map	_control_	Channel 4 Mute
+//Map	_control_	Channel 5 Mute
+//Map	_control_	Channel 6 Mute
+//Map	_control_	Channel 7 Mute
+//Map	_control_	Channel 8 Level
+//Map	_control_	Channel 9 Level
+//Map	_control_	Channel 10 Level
+//Map	_control_	Channel 11 Level
+//Map	_control_	Channel 12 Level
+//Map	_control_	Channel 13 Level
+//Map	_control_	Channel 14 Level
+//Map	_control_	Channel 8 Mute
+//Map	_control_	Channel 9 Mute
+//Map	_control_	Channel 10 Mute
+//Map	_control_	Channel 11 Mute
+//Map	_control_	Channel 12 Mute
+//Map	_control_	Channel 13 Mute
+//Map	_control_	Channel 14 Mute
+//Map	_control_	Channel 1 Pan
+//Map	_control_	Channel 2 Pan
+//Map	_control_	Channel 3 Pan
+//Map	_control_	Channel 4 Pan
+//Map	_control_	Channel 5 Pan
+//Map	_control_	Channel 6 Pan
+//Map	_control_	Channel 7 Pan
+//Map	_control_	Channel 8 Pan
+//Map	_control_	Channel 9 Pan
+//Map	_control_	Channel 10 Pan
+//Map	_control_	Channel 11 Pan
+//Map	_control_	Channel 12 Pan
+//Map	_control_	Channel 13 Pan
+//Map	_control_	Channel 14 Pan
+//Map	_control_	Channel 1 Aux 1 Send
+//Map	_control_	Channel 2 Aux 1 Send
+//Map	_control_	Channel 3 Aux 1 Send
+//Map	_control_	Channel 4 Aux 1 Send
+//Map	_control_	Channel 5 Aux 1 Send
+//Map	_control_	Channel 6 Aux 1 Send
+//Map	_control_	Channel 7 Aux 1 Send
+//Map	_control_	Channel 8 Aux 1 Send
+//Map	_control_	Channel 9 Aux 1 Send
+//Map	_control_	Channel 10 Aux 1 Send
+//Map	_control_	Channel 11 Aux 1 Send
+//Map	_control_	Channel 12 Aux 1 Send
+//Map	_control_	Channel 13 Aux 1 Send
+//Map	_control_	Channel 14 Aux 1 Send
+//Map	_control_	Channel 1 Aux 2 Send
+//Map	_control_	Channel 2 Aux 2 Send
+//Map	_control_	Channel 3 Aux 2 Send
+//Map	_control_	Channel 4 Aux 2 Send
+//Map	_control_	Channel 5 Aux 2 Send
+//Map	_control_	Channel 6 Aux 2 Send
+//Map	_control_	Channel 7 Aux 2 Send
+//Map	_control_	Channel 8 Aux 2 Send
+//Map	_control_	Channel 9 Aux 2 Send
+//Map	_control_	Channel 10 Aux 2 Send
+//Map	_control_	Channel 11 Aux 2 Send
+//Map	_control_	Channel 12 Aux 2 Send
+//Map	_control_	Channel 13 Aux 2 Send
+//Map	_control_	Channel 14 Aux 2 Send
+//Map	_control_	Channel 1 Aux 3 Send
+//Map	_control_	Channel 2 Aux 3 Send
+//Map	_control_	Channel 3 Aux 3 Send
+//Map	_control_	Channel 4 Aux 3 Send
+//Map	_control_	Channel 5 Aux 3 Send
+//Map	_control_	Channel 6 Aux 3 Send
+//Map	_control_	Channel 7 Aux 3 Send
+//Map	_control_	Channel 8 Aux 3 Send
+//Map	_control_	Channel 9 Aux 3 Send
+//Map	_control_	Channel 10 Aux 3 Send
+//Map	_control_	Channel 11 Aux 3 Send
+//Map	_control_	Channel 12 Aux 3 Send
+//Map	_control_	Channel 13 Aux 3 Send
+//Map	_control_	Channel 14 Aux 3 Send
+//Map	_control_	Channel 1 Aux 4 Send
+//Map	_control_	Channel 2 Aux 4 Send
+//Map	_control_	Channel 3 Aux 4 Send
+//Map	_control_	Channel 4 Aux 4 Send
+//Map	_control_	Channel 5 Aux 4 Send
+//Map	_control_	Channel 6 Aux 4 Send
+//Map	_control_	Channel 7 Aux 4 Send
+//Map	_control_	Channel 8 Aux 4 Send
+//Map	_control_	Channel 9 Aux 4 Send
+//Map	_control_	Channel 10 Aux 4 Send
+//Map	_control_	Channel 11 Aux 4 Send
+//Map	_control_	Channel 12 Aux 4 Send
+//Map	_control_	Channel 13 Aux 4 Send
+//Map	_control_	Channel 14 Aux 4 Send
+//Map	_control_	Aux 1 Return Level
+//Map	_control_	Aux 3 Return Level
+//Map	_control_	Aux 4 Return Level
+//Map	_control_	Aux 2 Return Level
+//Map	_control_	Channel 1 Solo
+//Map	_control_	Channel 2 Solo
+//Map	_control_	Channel 3 Solo
+//Map	_control_	Channel 4 Solo
+//Map	_control_	Channel 5 Solo
+//Map	_control_	Channel 6 Solo
+//Map	_control_	Channel 7 Solo
+//Map	_control_	Channel 8 Solo
+//Map	_control_	Channel 9 Solo
+//Map	_control_	Channel 10 Solo
+//Map	_control_	Channel 11 Solo
+//Map	_control_	Channel 12 Solo
+//Map	_control_	Channel 13 Solo
+//Map	_control_	Channel 14 Solo
+//Map	_control_	Device Name
+//Map	_control_	Channels=Ch1-7
+//Map	_control_	Channels=Ch8-14
+//Map	_control_	Channel 1 Peak Meter
+//Map	_control_	Channel 2 Peak Meter
+//Map	_control_	Channel 3 Peak Meter
+//Map	_control_	Channel 4 Peak Meter
+//Map	_control_	Channel 5 Peak Meter
+//Map	_control_	Channel 6 Peak Meter
+//Map	_control_	Channel 7 Peak Meter
+//Map	_control_	Master Left Peak Meter
+//Map	_control_	Channel 8 Peak Meter
+//Map	_control_	Channel 9 Peak Meter
+//Map	_control_	Channel 10 Peak Meter
+//Map	_control_	Channel 11 Peak Meter
+//Map	_control_	Channel 12 Peak Meter
+//Map	_control_	Channel 13 Peak Meter
+//Map	_control_	Channel 14 Peak Meter
+//Map	_control_	Channel 1 Bass Amount
+//Map	_control_	Channel 2 Bass Amount
+//Map	_control_	Channel 3 Bass Amount
+//Map	_control_	Channel 4 Bass Amount
+//Map	_control_	Channel 5 Bass Amount
+//Map	_control_	Channel 6 Bass Amount
+//Map	_control_	Channel 7 Bass Amount
+//Map	_control_	Channel 8 Bass Amount
+//Map	_control_	Channel 9 Bass Amount
+//Map	_control_	Channel 10 Bass Amount
+//Map	_control_	Channel 11 Bass Amount
+//Map	_control_	Channel 12 Bass Amount
+//Map	_control_	Channel 13 Bass Amount
+//Map	_control_	Channel 14 Bass Amount
+//Map	_control_	Channel 1 EQ On/Off
+//Map	_control_	Channel 2 EQ On/Off
+//Map	_control_	Channel 3 EQ On/Off
+//Map	_control_	Channel 4 EQ On/Off
+//Map	_control_	Channel 5 EQ On/Off
+//Map	_control_	Channel 6 EQ On/Off
+//Map	_control_	Channel 7 EQ On/Off
+//Map	_control_	Channel 8 EQ On/Off
+//Map	_control_	Channel 9 EQ On/Off
+//Map	_control_	Channel 10 EQ On/Off
+//Map	_control_	Channel 11 EQ On/Off
+//Map	_control_	Channel 12 EQ On/Off
+//Map	_control_	Channel 13 EQ On/Off
+//Map	_control_	Channel 14 EQ On/Off
+//Map	_control_	Channel 1 Treble Amount
+//Map	_control_	Channel 2 Treble Amount
+//Map	_control_	Channel 3 Treble Amount
+//Map	_control_	Channel 4 Treble Amount
+//Map	_control_	Channel 5 Treble Amount
+//Map	_control_	Channel 6 Treble Amount
+//Map	_control_	Channel 7 Treble Amount
+//Map	_control_	Channel 8 Treble Amount
+//Map	_control_	Channel 9 Treble Amount
+//Map	_control_	Channel 10 Treble Amount
+//Map	_control_	Channel 11 Treble Amount
+//Map	_control_	Channel 12 Treble Amount
+//Map	_control_	Channel 13 Treble Amount
+//Map	_control_	Channel 14 Treble Amount
+//Map	_control_	Channels=Ch1-8
+//Map	_control_	Channels=Ch9-14
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	Mixer Mode=Pan
+//Map	_control_	Mixer Mode=Aux
+//Map	_control_	Mixer Mode=Aux2
+//Map	_control_	Mixer Mode=EQ
+//Map	_control_	Master Right Peak Meter
+//Map	_control_	Channel 1 Name
+//Map	_control_	Channel 2 Name
+//Map	_control_	Channel 3 Name
+//Map	_control_	Channel 4 Name
+//Map	_control_	Channel 5 Name
+//Map	_control_	Channel 6 Name
+//Map	_control_	Channel 7 Name
+//Map	_control_	Channel 8 Name
+//Map	_control_	Channel 9 Name
+//Map	_control_	Channel 10 Name
+//Map	_control_	Channel 11 Name
+//Map	_control_	Channel 12 Name
+//Map	_control_	Channel 13 Name
+//Map	_control_	Channel 14 Name
+//Map	_control_	Solo LED
+//Map	_control_	Channel 1 Aux 4 Pre Fader On/Off
+//Map	_control_	Channel 2 Aux 4 Pre Fader On/Off
+//Map	_control_	Channel 3 Aux 4 Pre Fader On/Off
+//Map	_control_	Channel 4 Aux 4 Pre Fader On/Off
+//Map	_control_	Channel 5 Aux 4 Pre Fader On/Off
+//Map	_control_	Channel 6 Aux 4 Pre Fader On/Off
+//Map	_control_	Channel 7 Aux 4 Pre Fader On/Off
+//Map	_control_	Channel 8 Aux 4 Pre Fader On/Off
+//Map	_control_	Channel 9 Aux 4 Pre Fader On/Off
+//Map	_control_	Channel 10 Aux 4 Pre Fader On/Off
+//Map	_control_	Channel 11 Aux 4 Pre Fader On/Off
+//Map	_control_	Channel 12 Aux 4 Pre Fader On/Off
+//Map	_control_	Channel 13 Aux 4 Pre Fader On/Off
+//Map	_control_	Channel 14 Aux 4 Pre Fader On/Off
+//Map	_control_	Encoders=Pan
+//Map	_control_	Encoders=Send1
+//Map	_control_	Encoders=Send2
+//Map	_control_	Encoders=Send3
+//Map	_control_	Channels=ch8-14
+//Map	_control_	Channels=ch1-7
+//Map	_control_	Keyboard Shortcut Variations=Level 1-7
+//Map	_control_	Keyboard Shortcut Variations=Level 8-14
+//Map	_control_	Keyboard Shortcut Variations=Send 1 1-7
+//Map	_control_	Keyboard Shortcut Variations=Send 1 8-14
+//Map	_control_	Keyboard Shortcut Variations=v1
+//Map	_control_	Keyboard Shortcut Variations=v2
+//Map	_control_	Keyboard Shortcut Variations=v3
+//Map	_control_	Keyboard Shortcut Variations=Pan_1-7
+//Map	_control_	Keyboard Shortcut Variations=Pan_8-14
+//Map	_control_	Keyboard Shortcut Variations=Sends_1-7
+//Map	_control_	Keyboard Shortcut Variations=Sends_8-14
+//Map	_control_	Keyboard Shortcut Variations=Volume_1-7
+//Map	_control_	Keyboard Shortcut Variations=Volume_8-14
+//Map	_control_	Keyboard Shortcut Variations=Chan 1-7
+//Map	_control_	Keyboard Shortcut Variations=Chan 8-14
+//Map	_control_	Keyboard Shortcut Variations=Aux 1-7
+//Map	_control_	Keyboard Shortcut Variations=Aux 8-14
+//Map	_control_	Keyboard Shortcut Variations=Vol 1-7
+//Map	_control_	Keyboard Shortcut Variations=Vol 8-14
+//Map	_control_	Channels=Chan 1
+//Map	_control_	Channels=Chan 2
+//Map	_control_	Layers=Level
+//Map	_control_	Layers=Pan
+//Map	_control_	Layers=EQ
+//Map	_control_	Layers=Aux
+//Map	_control_	EQ_vars=Bass
+//Map	_control_	EQ_vars=Treble
+//Map	_control_	EQ_vars=Enable
+//Map	_control_	Aux_vars=Aux 2
+//Map	_control_	Aux_vars=Aux 3
+//Map	_control_	Aux_vars=Aux 4
+//Map	_control_	Aux_vars=Rtn
+//Map	_control_	Aux_vars=Aux 1
+//Map	_control_	Aux 1 Return Name
+//Map	_control_	Aux 2 Return Name
+//Map	_control_	Aux 3 Return Name
+//Map	_control_	Aux 4 Return Name
+//Map	_control_	Butn_mode=Solo
+//Map	_control_	Butn_mode=Mute
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	Layers=EQ_Bass
+//Map	_control_	Layers=EQ_Treb
+//Map	_control_	Layers=Aux 1 Send
+//Map	_control_	Layers=Aux 2 Send
+//Map	_control_	Layers=Aux 3 Send
+//Map	_control_	Layers=Aux 4 Send
+//Map	_control_	Butn_mode=EQ
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	3 Rec Bank 1
+//Map	_control_	4 Rec Bank 1
+//Map	_control_	5 Rec Bank 1
+//Map	_control_	6 Rec Bank 1
+//Map	_control_	7 Rec Bank 1
+//Map	_control_	8 Rec Bank 1
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Rotaries=Send1
+//Map	_control_	Rotaries=Send2
+//Map	_control_	Rotaries=Pan
+//Map	_control_	Rotaries=Returns
+//Map	_control_	Rotaries=Treble
+//Map	_control_	Rotaries=Bass
+//Map	_control_	Rotaries=Select1
+//Map	_control_	Rotaries=Select2
+//Map	_control_	Rotaries=Select3
+//Map	_control_	Rotaries=Select4
+//Map	_control_	Rotaries=Select5
+//Map	_control_	Rotaries=Select6
+//Map	_control_	Rotaries=Select7
+//Map	_control_	Rotaries=Select8
+//Map	_control_	Rotaries=Send1-2
+//Map	_control_	Rotaries=Send3-4
+//Map	_control_	Rotaries=EQ
+//Map	_control_	Row 2 Channel 8
+//Map	_control_	Rotaries=Select9
+//Map	_control_	Rotaries=Select10
+//Map	_control_	Rotaries=Select11
+//Map	_control_	Rotaries=Select12
+//Map	_control_	Rotaries=Select13
+//Map	_control_	Rotaries=Select14
+//Map	_control_	Keyboard Shortcut Variations=Send2
+//Map	_control_	Keyboard Shortcut Variations=Treble
+//Map	_control_	Keyboard Shortcut Variations=Pan
+//Map	_control_	Keyboard Shortcut Variations=Bass
+//Map	_control_	Keyboard Shortcut Variations=Send1
+//Map	_control_	ChSelect=Select1
+//Map	_control_	ChSelect=None
+//Map	_control_	ChSelect=Select2
+//Map	_control_	ChSelect=Select3
+//Map	_control_	ChSelect=Select4
+//Map	_control_	ChSelect=Select5
+//Map	_control_	ChSelect=Select6
+//Map	_control_	ChSelect=Select7
+//Map	_control_	Channels=Chan 3
+//Map	_control_	Channels=Chan 4
+//Map	_control_	Channels=Chan 5
+//Map	_control_	Channels=Chan 6
+//Map	_control_	Channels=Chan 7
+//Map	_control_	Channels=Chan 8
+//Map	_control_	Channels=Chan 9
+//Map	_control_	Channels=Chan 10
+//Map	_control_	Channels=Chan 11
+//Map	_control_	Channels=Chan 12
+//Map	_control_	Channels=Chan 13
+//Map	_control_	Channels=Chan 14
+//Map	_control_	Type=Simple
+//Map	_control_	Type=Complex
+//Map	_control_	Bank=Bank 1
+//Map	_control_	Bank=Bank 2
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF
+//Map	_control_	ControlSet=Main
+//Map	_control_	ControlSet=Level1-3
+//Map	_control_	ControlSet=Level4-6
+//Map	_control_	ControlSet=Level7-10
+//Map	_control_	ControlSet=Level11-14
+//Map	_control_	ControlSet=EQ1-3
+//Map	_control_	ControlSet=EQ4-6
+//Map	_control_	ControlSet=EQ7-10
+//Map	_control_	ControlSet=EQ11-14

@@ -1,0 +1,46 @@
+Scope	Propellerheads	MClass Maximizer
+//Map	_control_	Input Gain
+//Map	_control_	Attack Speed
+//Map	_control_	Release Speed
+//Map	_control_	Output Gain
+//Map	_control_	Soft Clip Amount
+//Map	_control_	Limiter Enable
+//Map	_control_	Soft Clip Enable
+//Map	_control_	Output Level Meter Mode
+//Map	_control_	Look Ahead Enable
+//Map	_control_	Enabled
+//Map	_control_	Device Name
+//Map	_control_	Gain Meter
+//Map	_control_	Peak Meter
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	C0
+//Map	_control_	C#0
+//Map	_control_	D0
+//Map	_control_	D#0
+//Map	_control_	Select Patch Delta
+//Map	_control_	Output Level Left
+//Map	_control_	Output Level Right
+//Map	_control_	Flip=Flip Off
+//Map	_control_	Flip=Flip On
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	X
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	3 Rec Bank 1
+//Map	_control_	4 Rec Bank 1
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF

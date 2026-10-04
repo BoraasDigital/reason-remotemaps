@@ -1,0 +1,13 @@
+Scope	Propellerhead Software	se.propellerheads.Arpeggio
+//Map	_control_	Patch Name
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	Gate Length 1
+//Map	_control_	Gate Length 2
+//Map	_control_	Arpeggio On 1
+//Map	_control_	Repeat 1
+//Map	_control_	Direction 1
+//Map	_control_	Arpeggio On 2
+//Map	_control_	Repeat 2
+//Map	_control_	Direction 2
+//Map	_control_	Hold

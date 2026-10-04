@@ -1,0 +1,21 @@
+Scope	Propellerhead Software	se.propellerheads.ReasonAmp
+//Map	_control_	Gain
+//Map	_control_	Bass
+//Map	_control_	Mid
+//Map	_control_	Treble
+//Map	_control_	Amp Switch
+//Map	_control_	Cab Switch
+//Map	_control_	Poweramp Gain
+//Map	_control_	Volume
+//Map	_control_	Boost
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	Enabled
+//Map	_control_	Gate
+//Map	_control_	Device Name
+//Map	_control_	Patch Name
+//Map	_control_	Select Patch Delta
+//Map	_control_	7 Rec Bank 1
+//Map	_control_	8 Rec Bank 1
+//Map	_control_	X
+//Map	_control_	1 Rec Bank 1

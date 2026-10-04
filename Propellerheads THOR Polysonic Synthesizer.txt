@@ -1,0 +1,483 @@
+Scope	Propellerheads	THOR Polysonic Synthesizer
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	Button 1
+//Map	_control_	Button 2
+//Map	_control_	Portamento Mode
+//Map	_control_	Key Mode
+//Map	_control_	Delay On
+//Map	_control_	Chorus On
+//Map	_control_	Rotary 1
+//Map	_control_	Rotary 2
+//Map	_control_	Filter 1 Freq
+//Map	_control_	Filter 1 Res
+//Map	_control_	Filter 2 Freq
+//Map	_control_	Filter 2 Res
+//Map	_control_	Filter 3 Freq
+//Map	_control_	Filter 3 Res
+//Map	_control_	Filter Env Attack
+//Map	_control_	Filter Env Decay
+//Map	_control_	Filter Env Sustain
+//Map	_control_	Filter Env Release
+//Map	_control_	Amp Env Attack
+//Map	_control_	Amp Env Decay
+//Map	_control_	Amp Env Sustain
+//Map	_control_	Amp Env Release
+//Map	_control_	LFO 1 Rate
+//Map	_control_	LFO 2 Rate
+//Map	_control_	Delay Dry Wet
+//Map	_control_	Delay Time
+//Map	_control_	Chorus Dry Wet
+//Map	_control_	Chorus Delay
+//Map	_control_	Chorus Rate
+//Map	_control_	Chorus Feedback
+//Map	_control_	Osc 1 And 2 Balance
+//Map	_control_	Osc 1 And 2 Level
+//Map	_control_	Osc 3 Level
+//Map	_control_	Master Level
+//Map	_control_	Delay Feedback
+//Map	_control_	Portamento
+//Map	_control_	Filter 1 Drive
+//Map	_control_	Filter 1 Env Amount
+//Map	_control_	Filter 2 Drive
+//Map	_control_	Filter 2 Env Amount
+//Map	_control_	Filter 3 Drive
+//Map	_control_	Filter 3 Global Env Amount
+//Map	_control_	Osc 1 Type
+//Map	_control_	Osc 1 Oct
+//Map	_control_	Osc 1 Semi
+//Map	_control_	Osc 1 Mod
+//Map	_control_	Osc 2 Type
+//Map	_control_	Osc 2 Oct
+//Map	_control_	Osc 2 Semi
+//Map	_control_	Osc 2 Mod
+//Map	_control_	Osc 3 Type
+//Map	_control_	Osc 3 Oct
+//Map	_control_	Osc 3 Semi
+//Map	_control_	Osc 3 Mod
+//Map	_control_	LFO 1 Waveform
+//Map	_control_	LFO 1 Delay
+//Map	_control_	LFO 1 KbdFollow
+//Map	_control_	LFO 2 Waveform
+//Map	_control_	LFO 2 Delay
+//Map	_control_	Osc 1 To Filter 1 Enable
+//Map	_control_	Osc 2 To Filter 1 Enable
+//Map	_control_	Osc 3 To Filter 1 Enable
+//Map	_control_	Osc 1 To Filter 2 Enable
+//Map	_control_	Osc 2 To Filter 2 Enable
+//Map	_control_	Osc 3 To Filter 2 Enable
+//Map	_control_	Mod Env Delay
+//Map	_control_	Mod Env Attack
+//Map	_control_	Mod Env Decay
+//Map	_control_	Mod Env Release
+//Map	_control_	Global Env Attack
+//Map	_control_	Global Env Decay
+//Map	_control_	Global Env Sustain
+//Map	_control_	Global Env Release
+//Map	_control_	Osc 1 AM From Osc 2
+//Map	_control_	Osc 2 Sync BW
+//Map	_control_	Osc 3 Sync BW
+//Map	_control_	Delay Rate
+//Map	_control_	Delay Amt
+//Map	_control_	Shaper Drive
+//Map	_control_	Osc 2 Sync To Osc 1
+//Map	_control_	Osc 3 Sync To Osc 1
+//Map	_control_	Delay Sync
+//Map	_control_	Shaper On
+//Map	_control_	Shaper Output Dest
+//Map	_control_	Mod Wheel
+//Map	_control_	Amplifier Gain
+//Map	_control_	Amplifier Velocity
+//Map	_control_	Amplifier Pan
+//Map	_control_	Section=Osc
+//Map	_control_	Section=Filters
+//Map	_control_	Osc 1 Param B
+//Map	_control_	Osc 1 Param C
+//Map	_control_	Osc 2 Param B
+//Map	_control_	Osc 2 Param C
+//Map	_control_	Osc 3 Param B
+//Map	_control_	Osc 3 Param C
+//Map	_control_	Filter 1 Type
+//Map	_control_	Filter 1 Kbd
+//Map	_control_	Filter 1 Self Osc
+//Map	_control_	Filter 1 Env Invert
+//Map	_control_	Filter 2 Type
+//Map	_control_	Filter 2 Kbd
+//Map	_control_	Filter 2 Self Osc
+//Map	_control_	Filter 2 Env Invert
+//Map	_control_	Filter 3 Type
+//Map	_control_	Filter 3 Kbd
+//Map	_control_	Filter 3 Self Osc
+//Map	_control_	Filter 3 Global Env Invert
+//Map	_control_	Delay dry wet
+//Map	_control_	Device Name
+//Map	_control_	Filter 1 Param X
+//Map	_control_	Filter 1 Param Y
+//Map	_control_	Patch Name
+//Map	_control_	Shaper Type
+//Map	_control_	Mod Env Gate Trig On
+//Map	_control_	Step Sequencer Run
+//Map	_control_	Global Env Gate Trig On
+//Map	_control_	Step Sequencer Run Mode
+//Map	_control_	Step Sequencer Direction
+//Map	_control_	Step Sequencer Rate
+//Map	_control_	Filter Env Gate Trig On
+//Map	_control_	Osc 1 Kbd
+//Map	_control_	Osc 2 Kbd
+//Map	_control_	Osc 3 Kbd
+//Map	_control_	Global Env Delay
+//Map	_control_	Global Env Hold
+//Map	_control_	Pattern Step Note 1
+//Map	_control_	Pattern Step Note 2
+//Map	_control_	Pattern Step Note 3
+//Map	_control_	Pattern Step Note 4
+//Map	_control_	Pattern Step Note 5
+//Map	_control_	Pattern Step Note 6
+//Map	_control_	Pattern Step Note 7
+//Map	_control_	Pattern Step Note 8
+//Map	_control_	Pattern Step Vel 1
+//Map	_control_	Pattern Step Vel 2
+//Map	_control_	Pattern Step Vel 3
+//Map	_control_	Pattern Step Vel 4
+//Map	_control_	Pattern Step Vel 5
+//Map	_control_	Pattern Step Vel 6
+//Map	_control_	Pattern Step Vel 7
+//Map	_control_	Pattern Step Vel 8
+//Map	_control_	Pattern Step Note 9
+//Map	_control_	Pattern Step Note 10
+//Map	_control_	Pattern Step Note 11
+//Map	_control_	Pattern Step Note 12
+//Map	_control_	Pattern Step Note 13
+//Map	_control_	Pattern Step Note 14
+//Map	_control_	Pattern Step Note 15
+//Map	_control_	Pattern Step Note 16
+//Map	_control_	Pattern Step Vel 9
+//Map	_control_	Pattern Step Vel 10
+//Map	_control_	Pattern Step Vel 11
+//Map	_control_	Pattern Step Vel 12
+//Map	_control_	Pattern Step Vel 13
+//Map	_control_	Pattern Step Vel 14
+//Map	_control_	Pattern Step Vel 15
+//Map	_control_	Pattern Step Vel 16
+//Map	_control_	Filter 2 Param X
+//Map	_control_	Filter2ToAmplifier Enable
+//Map	_control_	LFO 1 Tempo Sync
+//Map	_control_	LFO 2 Tempo Sync
+//Map	_control_	Step Sequencer Octave Range
+//Map	_control_	Step Sequencer Synced
+//Map	_control_	Pattern Step Gate 1
+//Map	_control_	Pattern Step Gate 2
+//Map	_control_	Pattern Step Gate 3
+//Map	_control_	Pattern Step Gate 4
+//Map	_control_	Pattern Step Gate 5
+//Map	_control_	Pattern Step Gate 6
+//Map	_control_	Pattern Step Gate 7
+//Map	_control_	Pattern Step Gate 8
+//Map	_control_	Pattern Step Gate 9
+//Map	_control_	Pattern Step Gate 10
+//Map	_control_	Pattern Step Gate 11
+//Map	_control_	Pattern Step Gate 12
+//Map	_control_	Pattern Step Gate 13
+//Map	_control_	Pattern Step Gate 14
+//Map	_control_	Pattern Step Gate 15
+//Map	_control_	Pattern Step Gate 16
+//Map	_control_	1 (Send 1)
+//Map	_control_	2 (Send 1)
+//Map	_control_	1 (Send 2)
+//Map	_control_	2 (Send 2)
+//Map	_control_	Amp Env Gate Trig On
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	Button 1 MIDI Key On
+//Map	_control_	Button 2 MIDI Key On
+//Map	_control_	Osc 1 Tune
+//Map	_control_	Osc 2 Tune
+//Map	_control_	Osc 3 Tune
+//Map	_control_	Pitch Bend
+//Map	_control_	Step Sequencer Step Count
+//Map	_control_	C-1
+//Map	_control_	C#-1
+//Map	_control_	Variation=Filters
+//Map	_control_	Variation=Osc & Amp
+//Map	_control_	Variation=Modulation
+//Map	_control_	Variation=Sequencer1
+//Map	_control_	Variation=Sequencer2
+//Map	_control_	Variation=Env
+//Map	_control_	Variation=Osc & Mod
+//Map	_control_	Variation=Step Sequencer
+//Map	_control_	Steps=1-8
+//Map	_control_	Steps=9-16
+//Map	_control_	Mod Env Tempo Sync
+//Map	_control_	Mod Env Loop
+//Map	_control_	Chorus Amt
+//Map	_control_	Filter 3 Velocity
+//Map	_control_	Pattern Step Knob 1
+//Map	_control_	Pattern Step Knob 2
+//Map	_control_	Pattern Step Knob 3
+//Map	_control_	Pattern Step Knob 4
+//Map	_control_	Pattern Step Knob 5
+//Map	_control_	Pattern Step Knob 6
+//Map	_control_	Pattern Step Knob 7
+//Map	_control_	Pattern Step Knob 8
+//Map	_control_	Pattern Step Knob 9
+//Map	_control_	Pattern Step Knob 10
+//Map	_control_	Pattern Step Knob 11
+//Map	_control_	Pattern Step Knob 12
+//Map	_control_	Pattern Step Knob 13
+//Map	_control_	Pattern Step Knob 14
+//Map	_control_	Pattern Step Knob 15
+//Map	_control_	Pattern Step Knob 16
+//Map	_control_	Step Sequencer Edit Mode
+//Map	_control_	Mod 1 Dest Amount
+//Map	_control_	Mod 1 Scale Amount
+//Map	_control_	Mod 2 Dest Amount
+//Map	_control_	Mod 2 Scale Amount
+//Map	_control_	Mod 3 Dest Amount
+//Map	_control_	Mod 3 Scale Amount
+//Map	_control_	Mod 4 Dest Amount
+//Map	_control_	Mod 4 Scale Amount
+//Map	_control_	Mod 5 Dest Amount
+//Map	_control_	Mod 5 Scale Amount
+//Map	_control_	Mod 6 Dest Amount
+//Map	_control_	Mod 6 Scale Amount
+//Map	_control_	Mod 7 Dest Amount
+//Map	_control_	Mod 7 Scale Amount
+//Map	_control_	Mod 8 Dest Amount
+//Map	_control_	Mod 8 Dest 2 Amount
+//Map	_control_	Mod 8 Scale Amount
+//Map	_control_	Mod 9 Dest Amount
+//Map	_control_	Mod 9 Dest 2 Amount
+//Map	_control_	Mod 9 Scale Amount
+//Map	_control_	Mod 10 Dest Amount
+//Map	_control_	Mod 10 Dest 2 Amount
+//Map	_control_	Mod 10 Scale Amount
+//Map	_control_	Mod 11 Dest Amount
+//Map	_control_	Mod 11 Dest 2 Amount
+//Map	_control_	Mod 11 Scale Amount
+//Map	_control_	Mod 12 Dest Amount
+//Map	_control_	Mod 12 Scale Amount
+//Map	_control_	Mod 12 Scale 2 Amount
+//Map	_control_	Mod 13 Dest Amount
+//Map	_control_	Mod 13 Scale Amount
+//Map	_control_	Mod 13 Scale 2 Amount
+//Map	_control_	Keyboard Shortcut Variations=FilterMod
+//Map	_control_	Keyboard Shortcut Variations=Env
+//Map	_control_	Keyboard Shortcut Variations=Osc
+//Map	_control_	Keyboard Shortcut Variations=FX
+//Map	_control_	Select Patch Delta
+//Map	_control_	Keyboard Shortcut Variations=v1
+//Map	_control_	Keyboard Shortcut Variations=v2
+//Map	_control_	Keyboard Shortcut Variations=v3
+//Map	_control_	7_2
+//Map	_control_	Osc 1 AM from Osc 2
+//Map	_control_	Global Env Tempo Sync
+//Map	_control_	Global Env Loop
+//Map	_control_	Pattern Step Duration 1
+//Map	_control_	Pattern Step Duration 3
+//Map	_control_	Pattern Step Duration 5
+//Map	_control_	Pattern Step Duration 7
+//Map	_control_	Pattern Step Duration 9
+//Map	_control_	Pattern Step Duration 11
+//Map	_control_	Pattern Step Duration 13
+//Map	_control_	Pattern Step Duration 15
+//Map	_control_	Keyboard Shortcut Variations=Filters
+//Map	_control_	Keyboard Shortcut Variations=Envelopes
+//Map	_control_	Keyboard Shortcut Variations=Effects
+//Map	_control_	Keyboard Shortcut Variations=Step
+//Map	_control_	Keyboard Shortcut Variations=ModMatrix
+//Map	_control_	Polyphony
+//Map	_control_	Release Polyphony
+//Map	_control_	Note Trigger MIDI
+//Map	_control_	Note Trigger Step Seq
+//Map	_control_	Mute
+//Map	_control_	Filter 1 Velocity
+//Map	_control_	Filter 2 Velocity
+//Map	_control_	Filter 2 Param Y
+//Map	_control_	LFO 1 Key Sync
+//Map	_control_	Filter 3 Param X
+//Map	_control_	Filter 3 Param Y
+//Map	_control_	LFO 2 Key Sync
+//Map	_control_	Pattern Reset All
+//Map	_control_	Pattern Step Value
+//Map	_control_	Step Sequencer Step Index
+//Map	_control_	Step LED 1
+//Map	_control_	Step LED 2
+//Map	_control_	Step LED 3
+//Map	_control_	Step LED 4
+//Map	_control_	Step LED 5
+//Map	_control_	Step LED 6
+//Map	_control_	Step LED 7
+//Map	_control_	Step LED 8
+//Map	_control_	Step LED 9
+//Map	_control_	Step LED 10
+//Map	_control_	Step LED 11
+//Map	_control_	Step LED 12
+//Map	_control_	Step LED 13
+//Map	_control_	Step LED 14
+//Map	_control_	Step LED 15
+//Map	_control_	Step LED 16
+//Map	_control_	Mod 1 Source
+//Map	_control_	Mod 1 Dest
+//Map	_control_	Mod 2 Source
+//Map	_control_	Mod 2 Dest
+//Map	_control_	Mod 3 Source
+//Map	_control_	Mod 3 Dest
+//Map	_control_	Mod 4 Source
+//Map	_control_	Mod 4 Dest
+//Map	_control_	Mod 5 Source
+//Map	_control_	Mod 5 Dest
+//Map	_control_	Mod 6 Source
+//Map	_control_	Mod 6 Dest
+//Map	_control_	Keyboard Shortcut Variations=Step1-8
+//Map	_control_	Keyboard Shortcut Variations=Step9-16
+//Map	_control_	Keyboard Shortcut Variations=Main
+//Map	_control_	Keyboard Shortcut Variations=OSC
+//Map	_control_	Keyboard Shortcut Variations=Filter
+//Map	_control_	Keyboard Shortcut Variations=Mod
+//Map	_control_	Keyboard Shortcut Variations=Seq
+//Map	_control_	Note Trigger Midi
+//Map	_control_	28         Button 2 MIDI Key On
+//Map	_control_	31         Note On Indicator
+//Map	_control_	Osc 1 and 2 Balance
+//Map	_control_	Osc 1 and 2 Level
+//Map	_control_	Filter 3 GLobal Env Amount
+//Map	_control_	Mod 1 Res
+//Map	_control_	Mod 1 Kbd
+//Map	_control_	Mod 1 Param X
+//Map	_control_	Mod 1 Param Y
+//Map	_control_	Mod 3 Drive
+//Map	_control_	Layers=Synth
+//Map	_control_	Layers=FX
+//Map	_control_	Layers=Mods
+//Map	_control_	Layers=Arp
+//Map	_control_	Layers=Home
+//Map	_control_	Synth_vars=Osc
+//Map	_control_	Synth_vars=Filter
+//Map	_control_	Synth_vars=Mod
+//Map	_control_	FX_vars=Delay
+//Map	_control_	FX_vars=Chorus
+//Map	_control_	Mods_vars=Dest
+//Map	_control_	Mods_vars=Scale
+//Map	_control_	Arp_vars=Ctrls
+//Map	_control_	Arp_vars=Steps
+//Map	_control_	Osc_vars=Osc2
+//Map	_control_	Osc_vars=Osc3
+//Map	_control_	Osc_vars=Osc1
+//Map	_control_	Filter_vars=Filter2
+//Map	_control_	Filter_vars=Filter3
+//Map	_control_	Filter_vars=FilterEnv
+//Map	_control_	Filter_vars=Filter1
+//Map	_control_	Mod_vars=ModEnv
+//Map	_control_	Mod_vars=AmpEnv
+//Map	_control_	Mod Env Gate Trig on
+//Map	_control_	Mod_vars=GlobEnv
+//Map	_control_	Amp Env Gate Trig on
+//Map	_control_	Mod_vars=LFO1
+//Map	_control_	Dest_vars=Dest 8-13
+//Map	_control_	Dest_vars=Dest 1-7
+//Map	_control_	Scale_vars=Scale 8-13
+//Map	_control_	Scale_vars=Scale 1-7
+//Map	_control_	Step_vars=st9-16
+//Map	_control_	Step_vars=st1-8
+//Map	_control_	Flip=Flip Off
+//Map	_control_	Flip=Flip On
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	Layers=Filter
+//Map	_control_	Layers=Osc1
+//Map	_control_	Layers=Osc2
+//Map	_control_	Layers=LFO
+//Map	_control_	Layers=Env1
+//Map	_control_	Layers=Env2
+//Map	_control_	Layers=Global
+//Map	_control_	Osc 1 to Filter 1 Enable
+//Map	_control_	Osc 3 to Filter 2 Enable
+//Map	_control_	7 Rec Bank 1
+//Map	_control_	8 Rec Bank 1
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	3 Rec Bank 1
+//Map	_control_	4 Rec Bank 1
+//Map	_control_	Variation=Synth
+//Map	_control_	Variation=Seq 1
+//Map	_control_	Variation=Seq 2
+//Map	_control_	Pattern Step Curve
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Keyboard Shortcut Variations=Osc & Mod
+//Map	_control_	Bank=Bank1
+//Map	_control_	Bank=Bank2
+//Map	_control_	Note On Indicator
+//Map	_control_	Pattern Step LED 1
+//Map	_control_	Pattern Step LED 2
+//Map	_control_	Pattern Step LED 3
+//Map	_control_	Pattern Step LED 4
+//Map	_control_	Pattern Step LED 5
+//Map	_control_	Pattern Step LED 6
+//Map	_control_	Pattern Step LED 7
+//Map	_control_	Pattern Step LED 8
+//Map	_control_	Pattern Step LED 9
+//Map	_control_	Pattern Step LED 10
+//Map	_control_	Pattern Step LED 11
+//Map	_control_	Pattern Step LED 12
+//Map	_control_	Pattern Step LED 13
+//Map	_control_	Pattern Step LED 14
+//Map	_control_	Pattern Step LED 15
+//Map	_control_	Pattern Step LED 16
+//Map	_control_	Pitch Bend Range
+//Map	_control_	Pattern Step Gate Length 1
+//Map	_control_	Pattern Step Gate Length 2
+//Map	_control_	Pattern Step Gate Length 3
+//Map	_control_	Pattern Step Gate Length 4
+//Map	_control_	Pattern Step Gate Length 5
+//Map	_control_	Pattern Step Gate Length 6
+//Map	_control_	Pattern Step Gate Length 7
+//Map	_control_	Pattern Step Gate Length 8
+//Map	_control_	Pattern Step Gate Length 9
+//Map	_control_	Pattern Step Gate Length 10
+//Map	_control_	Pattern Step Gate Length 11
+//Map	_control_	Pattern Step Gate Length 12
+//Map	_control_	Pattern Step Gate Length 13
+//Map	_control_	Pattern Step Gate Length 14
+//Map	_control_	Pattern Step Gate Length 15
+//Map	_control_	Pattern Step Gate Length 16
+//Map	_control_	Pattern Step Duration 2
+//Map	_control_	Pattern Step Duration 4
+//Map	_control_	Pattern Step Duration 6
+//Map	_control_	Pattern Step Duration 8
+//Map	_control_	Pattern Step Duration 10
+//Map	_control_	Pattern Step Duration 12
+//Map	_control_	Pattern Step Duration 14
+//Map	_control_	Pattern Step Duration 16
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF
+//Map	_control_	ControlSet=Main
+//Map	_control_	ControlSet=GEnv
+//Map	_control_	ControlSet=Osc 1
+//Map	_control_	ControlSet=Amp
+//Map	_control_	ControlSet=Filter
+//Map	_control_	ControlSet=LFO
+//Map	_control_	ControlSet=Osc 2
+//Map	_control_	ControlSet=Osc 3
+//Map	_control_	ControlSet=ModEnv
+//Map	_control_	ControlSet=Filters
+//Map	_control_	Filter2toAmplifier Enable
+//Map	_control_	Osc 1 to Filter 2 Enable
+//Map	_control_	Osc 2 Sync to Osc 1
+//Map	_control_	Osc 2 to Filter 1 Enable
+//Map	_control_	Osc 2 to Filter 2 Enable
+//Map	_control_	Osc 3 to Filter 1 Enable
+//Map	_control_	Osc 3 Sync to Osc 1
+//Map	_control_	Filter 1 Cutoff
+//Map	_control_	Filter 1 Resonance
+//Map	_control_	Delay Wet

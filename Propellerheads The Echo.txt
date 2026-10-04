@@ -1,0 +1,76 @@
+Scope	Propellerheads	The Echo
+//Map	_control_	Select Next Patch
+//Map	_control_	Select Previous Patch
+//Map	_control_	Trig
+//Map	_control_	Keep Pitch
+//Map	_control_	Sync
+//Map	_control_	Ping-Pong Mode
+//Map	_control_	Diffuse On
+//Map	_control_	Filter On
+//Map	_control_	Enabled
+//Map	_control_	Input Mode
+//Map	_control_	Delay Time
+//Map	_control_	Right Ch Time Offset
+//Map	_control_	Ping-Pong Pan
+//Map	_control_	Feedback
+//Map	_control_	Right Ch Feedback Offset
+//Map	_control_	Drive Type
+//Map	_control_	Drive Amount
+//Map	_control_	Envelope
+//Map	_control_	Wobble
+//Map	_control_	Filter Frequency
+//Map	_control_	Filter Resonance
+//Map	_control_	Diffuse Spread
+//Map	_control_	Diffuse Amount
+//Map	_control_	LFO Rate
+//Map	_control_	LFO Amount
+//Map	_control_	Ducking
+//Map	_control_	Dry/Wet Balance
+//Map	_control_	Roll Enabled
+//Map	_control_	Device Name
+//Map	_control_	Patch Name
+//Map	_control_	Input Peak Meter
+//Map	_control_	TheGroup=Default
+//Map	_control_	TheGroup=Delay
+//Map	_control_	TheGroup=Feed
+//Map	_control_	TheGroup=Color
+//Map	_control_	TheGroup=Mod
+//Map	_control_	Button
+//Map	_control_	TheGroup=Diff
+//Map	_control_	TheGroup=Filter
+//Map	_control_	TheGroup=LFO
+//Map	_control_	Variation=Var0
+//Map	_control_	Variation=Var1
+//Map	_control_	Keyboard Shortcut Variations=Delay
+//Map	_control_	Keyboard Shortcut Variations=FilterMod
+//Map	_control_	Keyboard Shortcut Variations=
+//Map	_control_	Select Patch Delta
+//Map	_control_	Layers=Main
+//Map	_control_	Layers=SetA
+//Map	_control_	Layers=SetB
+//Map	_control_	Layers=SetC
+//Map	_control_	Layers=Diffuse
+//Map	_control_	Layers=Var1
+//Map	_control_	Layers=Var2
+//Map	_control_	7 Rec Bank 1
+//Map	_control_	8 Rec Bank 1
+//Map	_control_	X
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	3 Rec Bank 1
+//Map	_control_	4 Rec Bank 1
+//Map	_control_	5 Rec Bank 1
+//Map	_control_	6 Rec Bank 1
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF
+//Map	_control_	ControlSet=Main
+//Map	_control_	ControlSet=Diffusion
+//Map	_control_	ControlSet=Filter & LFO

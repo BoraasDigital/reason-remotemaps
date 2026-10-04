@@ -1,0 +1,83 @@
+Scope	Propellerhead Software	se.propellerheads.DMFC
+//Map	_control_	Master_Filter
+//Map	_control_	Master_Pitch
+//Map	_control_	Master_Delay
+//Map	_control_	Master_Reverb
+//Map	_control_	Master_Decay
+//Map	_control_	Master_Distortion
+//Map	_control_	Master_Volume
+//Map	_control_	Reverb_Decay
+//Map	_control_	Drum_1_Volume
+//Map	_control_	Drum_2_Volume
+//Map	_control_	Drum_3_Volume
+//Map	_control_	Drum_4_Volume
+//Map	_control_	Drum_1_Mute
+//Map	_control_	Drum_2_Mute
+//Map	_control_	Drum_3_Mute
+//Map	_control_	Drum_4_Mute
+//Map	_control_	Drum_5_Mute
+//Map	_control_	Drum_6_Mute
+//Map	_control_	Drum_7_Mute
+//Map	_control_	Drum_8_Mute
+//Map	_control_	Drum_1_Solo
+//Map	_control_	Drum_2_Solo
+//Map	_control_	Drum_3_Solo
+//Map	_control_	Drum_4_Solo
+//Map	_control_	Drum_5_Solo
+//Map	_control_	Drum_6_Solo
+//Map	_control_	Drum_7_Solo
+//Map	_control_	Drum_8_Solo
+//Map	_control_	Drum_5_Volume
+//Map	_control_	Drum_6_Volume
+//Map	_control_	Drum_7_Volume
+//Map	_control_	Drum_8_Volume
+//Map	_control_	Drum_1_Pitch
+//Map	_control_	Drum_2_Pitch
+//Map	_control_	Drum_3_Pitch
+//Map	_control_	Drum_4_Pitch
+//Map	_control_	Drum_5_Pitch
+//Map	_control_	Drum_6_Pitch
+//Map	_control_	Drum_7_Pitch
+//Map	_control_	Drum_8_Pitch
+//Map	_control_	Drum_1_Dist_Drive
+//Map	_control_	Drum_2_Dist_Drive
+//Map	_control_	Drum_3_Dist_Drive
+//Map	_control_	Drum_4_Dist_Drive
+//Map	_control_	Drum_5_Dist_Drive
+//Map	_control_	Drum_6_Dist_Drive
+//Map	_control_	Drum_7_Dist_Drive
+//Map	_control_	Drum_8_Dist_Drive
+//Map	_control_	Variation=A
+//Map	_control_	Variation=B
+//Map	_control_	Compressor_Ratio
+//Map	_control_	Compressor_Threshold
+//Map	_control_	Delay_Time
+//Map	_control_	Delay_Feedback
+//Map	_control_	Device Name
+//Map	_control_	Patch Name
+//Map	_control_	Varation=M
+//Map	_control_	Varation=P
+//Map	_control_	Varation=DD
+//Map	_control_	Varation=V
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	Drum_1_Pan
+//Map	_control_	Drum_2_Pan
+//Map	_control_	Drum_3_Pan
+//Map	_control_	Drum_4_Pan
+//Map	_control_	Drum_5_Pan
+//Map	_control_	Drum_6_Pan
+//Map	_control_	Drum_7_Pan
+//Map	_control_	Drum_8_Pan
+//Map	_control_	Drum_1_Delay_Amount
+//Map	_control_	Drum_2_Delay_Amount
+//Map	_control_	Drum_3_Delay_Amount
+//Map	_control_	Drum_4_Delay_Amount
+//Map	_control_	Drum_5_Delay_Amount
+//Map	_control_	Drum_6_Delay_Amount
+//Map	_control_	Drum_7_Delay_Amount
+//Map	_control_	Drum_8_Delay_Amount
+//Map	_control_	7 Rec Bank 1
+//Map	_control_	8 Rec Bank 1
+//Map	_control_	Variation=Master
+//Map	_control_	Variation=Pitch_Dist

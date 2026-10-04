@@ -1,0 +1,103 @@
+Scope	Propellerheads	Record Document
+//Map	_control_	Stop
+//Map	_control_	Play
+//Map	_control_	Record
+//Map	_control_	Target Next Track
+//Map	_control_	Click On/Off
+//Map	_control_	Loop On/Off
+//Map	_control_	Auto-quantize
+//Map	_control_	Target Previous Track
+//Map	_control_	Select Prev Patch for Target Device
+//Map	_control_	Select Next Patch for Target Device
+//Map	_control_	Select Previous Keyboard Shortcut Variation
+//Map	_control_	Select Next Keyboard Shortcut Variation
+//Map	_control_	Rewind
+//Map	_control_	Fast Forward
+//Map	_control_	Goto Left Locator
+//Map	_control_	Bar Position Down
+//Map	_control_	Bar Position Up
+//Map	_control_	Select Prev Patch For Target Device
+//Map	_control_	Select Next Patch For Target Device
+//Map	_control_	Target Track (Delta)
+//Map	_control_	Encoder=Track
+//Map	_control_	Encoder=Patch
+//Map	_control_	Encoder=Variation
+//Map	_control_	Encoder=Position
+//Map	_control_	Select Patch for Target Device (Delta)
+//Map	_control_	Select Keyboard Shortcut Variation (Delta)
+//Map	_control_	Bar Position
+//Map	_control_	Return To Zero
+//Map	_control_	New Overdub
+//Map	_control_	New Alternative Take
+//Map	_control_	Goto Right Locator
+//Map	_control_	Tempo BPM Down
+//Map	_control_	Tempo BPM Up
+//Map	_control_	Reset Automation Override
+//Map	_control_	A9
+//Map	_control_	B9
+//Map	_control_	Click Level
+//Map	_control_	Undo
+//Map	_control_	Redo
+//Map	_control_	LocalShift=LocalShiftDown
+//Map	_control_	LocalShift=LocalShiftUp
+//Map	_control_	TimeControl=Song
+//Map	_control_	TimeControl=Left
+//Map	_control_	TimeControl=Right
+//Map	_control_	Song Position
+//Map	_control_	Left Loop
+//Map	_control_	Right Loop
+//Map	_control_	Target Track Enable Automation Recording
+//Map	_control_	Button
+//Map	_control_	Target Track Mute
+//Map	_control_	Any Track Mute
+//Map	_control_	Target Track Solo
+//Map	_control_	Any Track Solo
+//Map	_control_	Punched-in
+//Map	_control_	Shift=Shift Down
+//Map	_control_	Shift=Shift Up
+//Map	_control_	Target Track Name
+//Map	_control_	Beat Position
+//Map	_control_	Sixteenth Position
+//Map	_control_	Audio Left Peak Meter
+//Map	_control_	Audio Right Peak Meter
+//Map	_control_	U9
+//Map	_control_	L9
+//Map	_control_	Second Dn
+//Map	_control_	Second Up
+//Map	_control_	Reset Meter Clipping
+//Map	_control_	Precount On/Off
+//Map	_control_	LOOP On/Off
+//Map	_control_	Tempo BPM
+//Map	_control_	Left Loop Bar
+//Map	_control_	Left Loop Beat
+//Map	_control_	Right Loop Bar
+//Map	_control_	Right Loop Beat
+//Map	_control_	Wheel=Coarse
+//Map	_control_	Wheel=Fine
+//Map	_control_	Pos=Song
+//Map	_control_	Pos=Left
+//Map	_control_	Pos=Right
+//Map	_control_	Show=Pos
+//Map	_control_	Show=Parameters
+//Map	_control_	Left Loop 16th
+//Map	_control_	Right Loop 16th
+//Map	_control_	Pos Display=BarsBeats
+//Map	_control_	Pos Display=Time
+//Map	_control_	Hour Position
+//Map	_control_	Minute Position
+//Map	_control_	Second Position
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF
+//Map	_control_	Tempo Decimal
+//Map	_control_	Tap Tempo
+//Map	_control_	Auto-Quantize

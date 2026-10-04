@@ -1,0 +1,16 @@
+Scope	Propellerhead Software	se.propellerheads.MasterCompressor
+//Map	_control_	Input Gain
+//Map	_control_	Threshold
+//Map	_control_	Ratio
+//Map	_control_	Make-Up Gain
+//Map	_control_	Mix
+//Map	_control_	Attack
+//Map	_control_	Release
+//Map	_control_	Enabled
+//Map	_control_	Sidechain
+//Map	_control_	Device Name
+//Map	_control_	Patch Name
+//Map	_control_	X
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch

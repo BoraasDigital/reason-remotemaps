@@ -1,0 +1,45 @@
+Scope	Propellerhead Software	se.propellerheads.Ripley
+//Map	_control_	Delay Time
+//Map	_control_	Synced Time
+//Map	_control_	Time Multiplier
+//Map	_control_	Feedback
+//Map	_control_	Band Freq Shift
+//Map	_control_	Lo Cut Freq
+//Map	_control_	Hi Cut Freq
+//Map	_control_	Dry-Wet
+//Map	_control_	Space Amount
+//Map	_control_	Space Decay
+//Map	_control_	Noise Amount
+//Map	_control_	Dist Dry-Wet
+//Map	_control_	Dist Drive
+//Map	_control_	Digital Dry-Wet
+//Map	_control_	Rate Crush
+//Map	_control_	Bit Crush
+//Map	_control_	Delay On
+//Map	_control_	Delay Tempo Sync
+//Map	_control_	Freeze
+//Map	_control_	Filter On
+//Map	_control_	Enabled
+//Map	_control_	Filter Type
+//Map	_control_	Space On
+//Map	_control_	Noise On
+//Map	_control_	Section=Delay
+//Map	_control_	Section=FX
+//Map	_control_	Noise Character
+//Map	_control_	Noise Type
+//Map	_control_	Dist On
+//Map	_control_	Ducker Amount
+//Map	_control_	Digital On
+//Map	_control_	Digital Position
+//Map	_control_	EQ On
+//Map	_control_	Ducker On
+//Map	_control_	Ping Pong Pan
+//Map	_control_	Ping Pong
+//Map	_control_	Wobbler Amount
+//Map	_control_	Delay Width
+//Map	_control_	Keep Pitch
+//Map	_control_	Output Gain
+//Map	_control_	Device Name
+//Map	_control_	Patch Name
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch

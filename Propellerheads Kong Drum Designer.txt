@@ -1,0 +1,544 @@
+Scope	Propellerheads	Kong Drum Designer
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	Drum 1 Level
+//Map	_control_	Drum 2 Level
+//Map	_control_	Drum 3 Level
+//Map	_control_	Drum 4 Level
+//Map	_control_	Drum 5 Level
+//Map	_control_	Drum 6 Level
+//Map	_control_	Drum 7 Level
+//Map	_control_	Drum 8 Level
+//Map	_control_	Drum 1 Pitch Offset
+//Map	_control_	Drum 2 Pitch Offset
+//Map	_control_	Drum 3 Pitch Offset
+//Map	_control_	Drum 4 Pitch Offset
+//Map	_control_	Drum 5 Pitch Offset
+//Map	_control_	Drum 6 Pitch Offset
+//Map	_control_	Drum 7 Pitch Offset
+//Map	_control_	Drum 8 Pitch Offset
+//Map	_control_	Drum 1 Decay Offset
+//Map	_control_	Drum 2 Decay Offset
+//Map	_control_	Drum 3 Decay Offset
+//Map	_control_	Drum 4 Decay Offset
+//Map	_control_	Drum 5 Decay Offset
+//Map	_control_	Drum 6 Decay Offset
+//Map	_control_	Drum 7 Decay Offset
+//Map	_control_	Drum 8 Decay Offset
+//Map	_control_	Bus FX P1
+//Map	_control_	Bus FX P2
+//Map	_control_	Master FX P1
+//Map	_control_	Master FX P2
+//Map	_control_	Master Level
+//Map	_control_	Quick Sample
+//Map	_control_	Drum 9 Level
+//Map	_control_	Drum 10 Level
+//Map	_control_	Drum 11 Level
+//Map	_control_	Drum 12 Level
+//Map	_control_	Drum 13 Level
+//Map	_control_	Drum 14 Level
+//Map	_control_	Drum 15 Level
+//Map	_control_	Drum 16 Level
+//Map	_control_	Drum 9 Pitch Offset
+//Map	_control_	Drum 10 Pitch Offset
+//Map	_control_	Drum 11 Pitch Offset
+//Map	_control_	Drum 12 Pitch Offset
+//Map	_control_	Drum 13 Pitch Offset
+//Map	_control_	Drum 14 Pitch Offset
+//Map	_control_	Drum 15 Pitch Offset
+//Map	_control_	Drum 16 Pitch Offset
+//Map	_control_	Drum 9 Decay Offset
+//Map	_control_	Drum 10 Decay Offset
+//Map	_control_	Drum 11 Decay Offset
+//Map	_control_	Drum 12 Decay Offset
+//Map	_control_	Drum 13 Decay Offset
+//Map	_control_	Drum 14 Decay Offset
+//Map	_control_	Drum 15 Decay Offset
+//Map	_control_	Drum 16 Decay Offset
+//Map	_control_	Drum 1 Bus FX Send
+//Map	_control_	Drum 2 Bus FX Send
+//Map	_control_	Drum 3 Bus FX Send
+//Map	_control_	Drum 4 Bus FX Send
+//Map	_control_	Drum 5 Bus FX Send
+//Map	_control_	Drum 6 Bus FX Send
+//Map	_control_	Drum 7 Bus FX Send
+//Map	_control_	Drum 8 Bus FX Send
+//Map	_control_	Drum 9 Bus FX Send
+//Map	_control_	Drum 10 Bus FX Send
+//Map	_control_	Drum 11 Bus FX Send
+//Map	_control_	Drum 12 Bus FX Send
+//Map	_control_	Drum 13 Bus FX Send
+//Map	_control_	Drum 14 Bus FX Send
+//Map	_control_	Drum 15 Bus FX Send
+//Map	_control_	Drum 16 Bus FX Send
+//Map	_control_	Drums=Drum1-6
+//Map	_control_	Drums=Drum7-12
+//Map	_control_	Drums=Drum13-16
+//Map	_control_	Knobs=Pan
+//Map	_control_	Knobs=Pitch
+//Map	_control_	Knobs=Decay
+//Map	_control_	Knobs=Bus FX
+//Map	_control_	Level Bus FX to Master FX
+//Map	_control_	Drum 1 Pan
+//Map	_control_	Drum 2 Pan
+//Map	_control_	Drum 3 Pan
+//Map	_control_	Drum 4 Pan
+//Map	_control_	Drum 5 Pan
+//Map	_control_	Drum 6 Pan
+//Map	_control_	Drum 7 Pan
+//Map	_control_	Drum 8 Pan
+//Map	_control_	Drum 9 Pan
+//Map	_control_	Drum 10 Pan
+//Map	_control_	Drum 11 Pan
+//Map	_control_	Drum 12 Pan
+//Map	_control_	Drum 13 Pan
+//Map	_control_	Drum 14 Pan
+//Map	_control_	Drum 15 Pan
+//Map	_control_	Drum 16 Pan
+//Map	_control_	Pad 1 Mute
+//Map	_control_	Pad 2 Mute
+//Map	_control_	Pad 3 Mute
+//Map	_control_	Pad 4 Mute
+//Map	_control_	Pad 5 Mute
+//Map	_control_	Pad 6 Mute
+//Map	_control_	Pad 7 Mute
+//Map	_control_	Pad 8 Mute
+//Map	_control_	Pad 1 Solo
+//Map	_control_	Pad 2 Solo
+//Map	_control_	Pad 3 Solo
+//Map	_control_	Pad 4 Solo
+//Map	_control_	Pad 5 Solo
+//Map	_control_	Pad 6 Solo
+//Map	_control_	Pad 7 Solo
+//Map	_control_	Pad 8 Solo
+//Map	_control_	Drum 1 FX1 P2
+//Map	_control_	Drum 2 FX1 P2
+//Map	_control_	Drum 3 FX1 P2
+//Map	_control_	Drum 4 FX1 P2
+//Map	_control_	Drum 5 FX1 P2
+//Map	_control_	Drum 6 FX1 P2
+//Map	_control_	Drum 7 FX1 P2
+//Map	_control_	Drum 8 FX1 P2
+//Map	_control_	Drum 1 FX1 P1
+//Map	_control_	Drum 2 FX1 P1
+//Map	_control_	Drum 3 FX1 P1
+//Map	_control_	Drum 4 FX1 P1
+//Map	_control_	Drum 5 FX1 P1
+//Map	_control_	Drum 6 FX1 P1
+//Map	_control_	Drum 7 FX1 P1
+//Map	_control_	Drum 8 FX1 P1
+//Map	_control_	Drum 1 FX1 On
+//Map	_control_	Drum 2 FX1 On
+//Map	_control_	Drum 3 FX1 On
+//Map	_control_	Drum 4 FX1 On
+//Map	_control_	Drum 5 FX1 On
+//Map	_control_	Drum 6 FX1 On
+//Map	_control_	Drum 7 FX1 On
+//Map	_control_	Drum 8 FX1 On
+//Map	_control_	Drum 1 FX2 P2
+//Map	_control_	Drum 2 FX2 P2
+//Map	_control_	Drum 3 FX2 P2
+//Map	_control_	Drum 4 FX2 P2
+//Map	_control_	Drum 5 FX2 P2
+//Map	_control_	Drum 6 FX2 P2
+//Map	_control_	Drum 7 FX2 P2
+//Map	_control_	Drum 8 FX2 P2
+//Map	_control_	Drum 1 FX2 P1
+//Map	_control_	Drum 2 FX2 P1
+//Map	_control_	Drum 3 FX2 P1
+//Map	_control_	Drum 4 FX2 P1
+//Map	_control_	Drum 5 FX2 P1
+//Map	_control_	Drum 6 FX2 P1
+//Map	_control_	Drum 7 FX2 P1
+//Map	_control_	Drum 8 FX2 P1
+//Map	_control_	Drum 1 FX2 On
+//Map	_control_	Drum 2 FX2 On
+//Map	_control_	Drum 3 FX2 On
+//Map	_control_	Drum 4 FX2 On
+//Map	_control_	Drum 5 FX2 On
+//Map	_control_	Drum 6 FX2 On
+//Map	_control_	Drum 7 FX2 On
+//Map	_control_	Drum 8 FX2 On
+//Map	_control_	Pad 9 Mute
+//Map	_control_	Pad 10 Mute
+//Map	_control_	Pad 11 Mute
+//Map	_control_	Pad 12 Mute
+//Map	_control_	Pad 13 Mute
+//Map	_control_	Pad 14 Mute
+//Map	_control_	Pad 15 Mute
+//Map	_control_	Pad 16 Mute
+//Map	_control_	Pad 9 Solo
+//Map	_control_	Pad 10 Solo
+//Map	_control_	Pad 11 Solo
+//Map	_control_	Pad 12 Solo
+//Map	_control_	Pad 13 Solo
+//Map	_control_	Pad 14 Solo
+//Map	_control_	Pad 15 Solo
+//Map	_control_	Pad 16 Solo
+//Map	_control_	Drum 9 FX1 P2
+//Map	_control_	Drum 10 FX1 P2
+//Map	_control_	Drum 11 FX1 P2
+//Map	_control_	Drum 12 FX1 P2
+//Map	_control_	Drum 13 FX1 P2
+//Map	_control_	Drum 14 FX1 P2
+//Map	_control_	Drum 15 FX1 P2
+//Map	_control_	Drum 16 FX1 P2
+//Map	_control_	Drum 9 FX1 P1
+//Map	_control_	Drum 10 FX1 P1
+//Map	_control_	Drum 11 FX1 P1
+//Map	_control_	Drum 12 FX1 P1
+//Map	_control_	Drum 13 FX1 P1
+//Map	_control_	Drum 14 FX1 P1
+//Map	_control_	Drum 15 FX1 P1
+//Map	_control_	Drum 16 FX1 P1
+//Map	_control_	Drum 9 FX1 On
+//Map	_control_	Drum 10 FX1 On
+//Map	_control_	Drum 11 FX1 On
+//Map	_control_	Drum 12 FX1 On
+//Map	_control_	Drum 13 FX1 On
+//Map	_control_	Drum 14 FX1 On
+//Map	_control_	Drum 15 FX1 On
+//Map	_control_	Drum 16 FX1 On
+//Map	_control_	Drum 9 FX2 P2
+//Map	_control_	Drum 10 FX2 P2
+//Map	_control_	Drum 11 FX2 P2
+//Map	_control_	Drum 12 FX2 P2
+//Map	_control_	Drum 13 FX2 P2
+//Map	_control_	Drum 14 FX2 P2
+//Map	_control_	Drum 15 FX2 P2
+//Map	_control_	Drum 16 FX2 P2
+//Map	_control_	Drum 9 FX2 P1
+//Map	_control_	Drum 10 FX2 P1
+//Map	_control_	Drum 11 FX2 P1
+//Map	_control_	Drum 12 FX2 P1
+//Map	_control_	Drum 13 FX2 P1
+//Map	_control_	Drum 14 FX2 P1
+//Map	_control_	Drum 15 FX2 P1
+//Map	_control_	Drum 16 FX2 P1
+//Map	_control_	Drum 9 FX2 On
+//Map	_control_	Drum 10 FX2 On
+//Map	_control_	Drum 11 FX2 On
+//Map	_control_	Drum 12 FX2 On
+//Map	_control_	Drum 13 FX2 On
+//Map	_control_	Drum 14 FX2 On
+//Map	_control_	Drum 15 FX2 On
+//Map	_control_	Drum 16 FX2 On
+//Map	_control_	Drums=1-4
+//Map	_control_	Drums=5-8
+//Map	_control_	Drums=9-12
+//Map	_control_	Drums=13-16
+//Map	_control_	Drum 1 Tone
+//Map	_control_	Pad 1 Hit Indication
+//Map	_control_	Drum 2 Tone
+//Map	_control_	Pad 2 Hit Indication
+//Map	_control_	Drum 3 Tone
+//Map	_control_	Pad 3 Hit Indication
+//Map	_control_	Drum 4 Tone
+//Map	_control_	Pad 4 Hit Indication
+//Map	_control_	Drum 5 Tone
+//Map	_control_	Pad 5 Hit Indication
+//Map	_control_	Drum 6 Tone
+//Map	_control_	Pad 6 Hit Indication
+//Map	_control_	Drum 7 Tone
+//Map	_control_	Pad 7 Hit Indication
+//Map	_control_	Drum 8 Tone
+//Map	_control_	Pad 8 Hit Indication
+//Map	_control_	Drum 9 Tone
+//Map	_control_	Pad 9 Hit Indication
+//Map	_control_	Drum 10 Tone
+//Map	_control_	Pad 10 Hit Indication
+//Map	_control_	Drum 11 Tone
+//Map	_control_	Pad 11 Hit Indication
+//Map	_control_	Drum 12 Tone
+//Map	_control_	Pad 12 Hit Indication
+//Map	_control_	Drum 13 Tone
+//Map	_control_	Pad 13 Hit Indication
+//Map	_control_	Drum 14 Tone
+//Map	_control_	Pad 14 Hit Indication
+//Map	_control_	Drum 15 Tone
+//Map	_control_	Pad 15 Hit Indication
+//Map	_control_	Drum 16 Tone
+//Map	_control_	Pad 16 Hit Indication
+//Map	_control_	Drum 1 Aux 1 Send
+//Map	_control_	Drum 1 Aux 2 Send
+//Map	_control_	Drum 2 Aux 1 Send
+//Map	_control_	Drum 2 Aux 2 Send
+//Map	_control_	Drum 3 Aux 1 Send
+//Map	_control_	Drum 3 Aux 2 Send
+//Map	_control_	Drum 4 Aux 1 Send
+//Map	_control_	Drum 4 Aux 2 Send
+//Map	_control_	Drum 5 Aux 1 Send
+//Map	_control_	Drum 5 Aux 2 Send
+//Map	_control_	Drum 6 Aux 1 Send
+//Map	_control_	Drum 6 Aux 2 Send
+//Map	_control_	Drum 7 Aux 1 Send
+//Map	_control_	Drum 7 Aux 2 Send
+//Map	_control_	Drum 8 Aux 1 Send
+//Map	_control_	Drum 8 Aux 2 Send
+//Map	_control_	Drum 9 Aux 1 Send
+//Map	_control_	Drum 9 Aux 2 Send
+//Map	_control_	Drum 10 Aux 1 Send
+//Map	_control_	Drum 10 Aux 2 Send
+//Map	_control_	Drum 11 Aux 1 Send
+//Map	_control_	Drum 11 Aux 2 Send
+//Map	_control_	Drum 12 Aux 1 Send
+//Map	_control_	Drum 12 Aux 2 Send
+//Map	_control_	Drum 13 Aux 1 Send
+//Map	_control_	Drum 13 Aux 2 Send
+//Map	_control_	Drum 14 Aux 1 Send
+//Map	_control_	Drum 14 Aux 2 Send
+//Map	_control_	Drum 15 Aux 1 Send
+//Map	_control_	Drum 15 Aux 2 Send
+//Map	_control_	Drum 16 Aux 1 Send
+//Map	_control_	Drum 16 Aux 2 Send
+//Map	_control_	Device Name
+//Map	_control_	Patch Name
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	DrumPad=D1
+//Map	_control_	DrumPad=D2
+//Map	_control_	DrumPad=D3
+//Map	_control_	DrumPad=D4
+//Map	_control_	DrumPad=D5
+//Map	_control_	DrumPad=D6
+//Map	_control_	DrumPad=D7
+//Map	_control_	DrumPad=D8
+//Map	_control_	DrumPad=D9
+//Map	_control_	DrumPad=D10
+//Map	_control_	DrumPad=D11
+//Map	_control_	DrumPad=D12
+//Map	_control_	DrumPad=D13
+//Map	_control_	DrumPad=D14
+//Map	_control_	DrumPad=D15
+//Map	_control_	DrumPad=D16
+//Map	_control_	DrumPad=DMaster
+//Map	_control_	Drum 1 DM Variable
+//Map	_control_	Drum 1 DM Pitch
+//Map	_control_	Drum 2 DM Variable
+//Map	_control_	Drum 2 DM Pitch
+//Map	_control_	Drum 5 DM Variable
+//Map	_control_	Drum 5 DM Pitch
+//Map	_control_	Drum 6 DM Variable
+//Map	_control_	Drum 6 DM Pitch
+//Map	_control_	Drum 9 DM Variable
+//Map	_control_	Drum 9 DM Pitch
+//Map	_control_	Drum 10 DM Variable
+//Map	_control_	Drum 10 DM Pitch
+//Map	_control_	Drum 13 DM Variable
+//Map	_control_	Drum 13 DM Pitch
+//Map	_control_	Drum 14 DM Variable
+//Map	_control_	Drum 14 DM Pitch
+//Map	_control_	Drum 3 DM Variable
+//Map	_control_	Drum 3 DM Pitch
+//Map	_control_	Drum 4 DM Variable
+//Map	_control_	Drum 4 DM Pitch
+//Map	_control_	Drum 7 DM Variable
+//Map	_control_	Drum 7 DM Pitch
+//Map	_control_	Drum 8 DM Variable
+//Map	_control_	Drum 8 DM Pitch
+//Map	_control_	Drum 11 DM Variable
+//Map	_control_	Drum 11 DM Pitch
+//Map	_control_	Drum 12 DM Variable
+//Map	_control_	Drum 12 DM Pitch
+//Map	_control_	Drum 15 DM Variable
+//Map	_control_	Drum 15 DM Pitch
+//Map	_control_	Drum 16 DM Variable
+//Map	_control_	Drum 16 DM Pitch
+//Map	_control_	Drum 1 DM Decay
+//Map	_control_	Drum 2 DM Decay
+//Map	_control_	Drum 3 DM Decay
+//Map	_control_	Drum 4 DM Decay
+//Map	_control_	Drum 5 DM Decay
+//Map	_control_	Drum 6 DM Decay
+//Map	_control_	Drum 7 DM Decay
+//Map	_control_	Drum 8 DM Decay
+//Map	_control_	Drum 9 DM Decay
+//Map	_control_	Drum 10 DM Decay
+//Map	_control_	Drum 11 DM Decay
+//Map	_control_	Drum 12 DM Decay
+//Map	_control_	Drum 13 DM Decay
+//Map	_control_	Drum 14 DM Decay
+//Map	_control_	Drum 15 DM Decay
+//Map	_control_	Drum 16 DM Decay
+//Map	_control_	Pitch Bend
+//Map	_control_	Drum 1 Tone/Drum 1 FX1 P2
+//Map	_control_	Mod Wheel
+//Map	_control_	C-1
+//Map	_control_	C#-1
+//Map	_control_	F0
+//Map	_control_	Drums=1-8
+//Map	_control_	Drums=9-16
+//Map	_control_	Parameters=BSends+Decay+Mute
+//Map	_control_	Parameters=FX2+Solo
+//Map	_control_	Parameters=Levels+Pitch+Play
+//Map	_control_	Drums=D1-8
+//Map	_control_	Drums=D9-16
+//Map	_control_	Variation=Pitch
+//Map	_control_	Variation=Levels
+//Map	_control_	9_1
+//Map	_control_	1_1
+//Map	_control_	2_1
+//Map	_control_	3_1
+//Map	_control_	4_1
+//Map	_control_	5_1
+//Map	_control_	Drum 1 DM On
+//Map	_control_	Drum 2 DM On
+//Map	_control_	Drum 3 DM On
+//Map	_control_	Drum 4 DM On
+//Map	_control_	Drum 5 DM On
+//Map	_control_	Drum 6 DM On
+//Map	_control_	Drum 7 DM On
+//Map	_control_	Drum 8 DM On
+//Map	_control_	Drum 9 DM On
+//Map	_control_	Drum 10 DM On
+//Map	_control_	Drum 11 DM On
+//Map	_control_	Drum 12 DM On
+//Map	_control_	Drum 13 DM On
+//Map	_control_	Drum 14 DM On
+//Map	_control_	Drum 15 DM On
+//Map	_control_	Drum 16 DM On
+//Map	_control_	Keyboard Shortcut Variations=D1&2
+//Map	_control_	Keyboard Shortcut Variations=D3&4
+//Map	_control_	Keyboard Shortcut Variations=D5&6
+//Map	_control_	Keyboard Shortcut Variations=D7&8
+//Map	_control_	Master FX On
+//Map	_control_	Bus FX On
+//Map	_control_	Select Patch Delta
+//Map	_control_	Keyboard Shortcut Variations=v1
+//Map	_control_	Keyboard Shortcut Variations=v2
+//Map	_control_	Keyboard Shortcut Variations=v3
+//Map	_control_	Keyboard Shortcut Variations=Drums1-4
+//Map	_control_	Keyboard Shortcut Variations=Drums5-8
+//Map	_control_	Keyboard Shortcut Variations=Drums9-12
+//Map	_control_	Keyboard Shortcut Variations=Drums13-16
+//Map	_control_	Keyboard Shortcut Variations=Master
+//Map	_control_	Keyboard Shortcut Variations=Levels1-8
+//Map	_control_	Keyboard Shortcut Variations=Levels9-16
+//Map	_control_	Keyboard Shortcut Variations=Pan1-8
+//Map	_control_	Keyboard Shortcut Variations=Pan9-16
+//Map	_control_	Keyboard Shortcut Variations=Page 1
+//Map	_control_	Keyboard Shortcut Variations=Page 2
+//Map	_control_	Keyboard Shortcut Variations=Page 3
+//Map	_control_	Keyboard Shortcut Variations=Page 4
+//Map	_control_	Keyboard Shortcut Variations=Main
+//Map	_control_	Note On Indicator
+//Map	_control_	Sample Loading Progress
+//Map	_control_	Layers=Mixer
+//Map	_control_	Layers=Drums
+//Map	_control_	Bank=Chan9-16
+//Map	_control_	Bank=Chan1-8
+//Map	_control_	Mixer_vars=Pan
+//Map	_control_	Mixer_vars=Level
+//Map	_control_	Send_vars=Send 1
+//Map	_control_	Send_vars=Send 2
+//Map	_control_	Send_vars=Bus FX
+//Map	_control_	Mixer_vars=Sends
+//Map	_control_	Drum_vars=Drum 16
+//Map	_control_	Drum_vars=Drum 2
+//Map	_control_	Drum_vars=Drum 1
+//Map	_control_	Drum_vars=Drum 3
+//Map	_control_	Drum_vars=Drum 4
+//Map	_control_	Drum_vars=Drum 5
+//Map	_control_	Drum_vars=Drum 6
+//Map	_control_	Drum_vars=Drum 7
+//Map	_control_	Drum_vars=Drum 8
+//Map	_control_	Drum_vars=Drum 9
+//Map	_control_	Drum_vars=Drum 10
+//Map	_control_	Drum_vars=Drum 11
+//Map	_control_	Drum_vars=Drum 12
+//Map	_control_	Drum_vars=Drum 13
+//Map	_control_	Drum_vars=Drum 14
+//Map	_control_	Drum_vars=Drum 15
+//Map	_control_	Flip=Flip Off
+//Map	_control_	Flip=Flip On
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	Mixer_vars=Send 1
+//Map	_control_	Mixer_vars=Send 2
+//Map	_control_	Mixer_vars=Bus FX
+//Map	_control_	7 Rec Bank 1
+//Map	_control_	8 Rec Bank 1
+//Map	_control_	X
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	3 Rec Bank 1
+//Map	_control_	4 Rec Bank 1
+//Map	_control_	5 Rec Bank 1
+//Map	_control_	6 Rec Bank 1
+//Map	_control_	1 Rec Bank 2
+//Map	_control_	2 Rec Bank 2
+//Map	_control_	3 Rec Bank 2
+//Map	_control_	4 Rec Bank 2
+//Map	_control_	5 Rec Bank 2
+//Map	_control_	6 Rec Bank 2
+//Map	_control_	7 Rec Bank 2
+//Map	_control_	8 Rec Bank 2
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Rotaries=Pitch
+//Map	_control_	Rotaries=Decay
+//Map	_control_	Rotaries=Pan
+//Map	_control_	Rotaries=BusFXSend
+//Map	_control_	Rotaries=Tone
+//Map	_control_	Rotaries=MasterFX
+//Map	_control_	Pads=1-8
+//Map	_control_	Pads=9-16
+//Map	_control_	Rotaries=Select1
+//Map	_control_	Rotaries=Select2
+//Map	_control_	Rotaries=Select3
+//Map	_control_	Rotaries=Select4
+//Map	_control_	Rotaries=Select5
+//Map	_control_	Rotaries=Select6
+//Map	_control_	Rotaries=Select7
+//Map	_control_	Rotaries=Select8
+//Map	_control_	Rotaries=Mix
+//Map	_control_	Rotaries=Sound
+//Map	_control_	Rotaries=FX
+//Map	_control_	Drum 1 DM Level
+//Map	_control_	Drum 2 DM Level
+//Map	_control_	Drum 3 DM Level
+//Map	_control_	Drum 4 DM Level
+//Map	_control_	Drum 5 DM Level
+//Map	_control_	Drum 6 DM Level
+//Map	_control_	Drum 7 DM Level
+//Map	_control_	Drum 8 DM Level
+//Map	_control_	Drum 9 DM Level
+//Map	_control_	Drum 10 DM Level
+//Map	_control_	Drum 11 DM Level
+//Map	_control_	Drum 12 DM Level
+//Map	_control_	Drum 13 DM Level
+//Map	_control_	Drum 14 DM Level
+//Map	_control_	Drum 15 DM Level
+//Map	_control_	Drum 16 DM Level
+//Map	_control_	Rotaries=Select9
+//Map	_control_	Rotaries=Select10
+//Map	_control_	Rotaries=Select11
+//Map	_control_	Rotaries=Select12
+//Map	_control_	Rotaries=Select13
+//Map	_control_	Rotaries=Select14
+//Map	_control_	Rotaries=Select15
+//Map	_control_	Rotaries=Select16
+//Map	_control_	Keyboard Shortcut Variations=Pitch
+//Map	_control_	Keyboard Shortcut Variations=Decay
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF
+//Map	_control_	ControlSet=Main
+//Map	_control_	ControlSet=D1-4
+//Map	_control_	ControlSet=D5-8
+//Map	_control_	ControlSet=D9-12
+//Map	_control_	ControlSet=D13-16
+//Map	_control_	ControlSet=D1-4 Aux
+//Map	_control_	ControlSet=D5-8 Aux
+//Map	_control_	ControlSet=D9-12 Aux
+//Map	_control_	ControlSet=D13-16 Aux
+//Map	_control_	Set all Mutes and Solos to Off

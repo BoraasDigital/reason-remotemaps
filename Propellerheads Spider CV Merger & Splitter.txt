@@ -1,0 +1,10 @@
+Scope	Propellerheads	Spider CV Merger & Splitter
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	Device Name
+//Map	_control_	Merge Input 1 Activity
+//Map	_control_	Merge Input 2 Activity
+//Map	_control_	Merge Input 3 Activity
+//Map	_control_	Merge Input 4 Activity
+//Map	_control_	Split A Input Activity
+//Map	_control_	Split B Input Activity

@@ -1,0 +1,93 @@
+Scope	Propellerheads	MClass Equalizer
+//Map	_control_	Low Shelf Frequency
+//Map	_control_	Low Shelf Gain
+//Map	_control_	Low Shelf Q
+//Map	_control_	Parametric 1 Frequency
+//Map	_control_	Parametric 1 Gain
+//Map	_control_	Parametric 1 Q
+//Map	_control_	Parametric 2 Frequency
+//Map	_control_	Parametric 2 Gain
+//Map	_control_	Parametric 2 Q
+//Map	_control_	Hi Shelf Frequency
+//Map	_control_	Hi Shelf Gain
+//Map	_control_	Hi Shelf Q
+//Map	_control_	Low Cut Enable
+//Map	_control_	Low Shelf Enable
+//Map	_control_	Parametric 1 Enable
+//Map	_control_	Parametric 2 Enable
+//Map	_control_	Hi Shelf Enable
+//Map	_control_	Enabled
+//Map	_control_	Device Name
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	EQband=LShelf
+//Map	_control_	EQband=LShelfF
+//Map	_control_	EQband=Param1
+//Map	_control_	EQband=Param1F
+//Map	_control_	EQband=Param2
+//Map	_control_	EQband=Param2F
+//Map	_control_	EQband=HShelf
+//Map	_control_	EQband=HShelfF
+//Map	_control_	C0
+//Map	_control_	C#0
+//Map	_control_	D0
+//Map	_control_	D#0
+//Map	_control_	Variation=Shelf
+//Map	_control_	Variation=Param
+//Map	_control_	Keyboard Shortcut Variations=Low+Param 1
+//Map	_control_	Keyboard Shortcut Variations=Param 2+Hi
+//Map	_control_	Keyboard Shortcut Variations=
+//Map	_control_	Select Patch Delta
+//Map	_control_	Keyboard Shortcut Variations=v1
+//Map	_control_	Keyboard Shortcut Variations=v2
+//Map	_control_	Keyboard Shortcut Variations=v3
+//Map	_control_	1_1
+//Map	_control_	1_2
+//Map	_control_	1_3
+//Map	_control_	1_4
+//Map	_control_	1_5
+//Map	_control_	2_4
+//Map	_control_	2_5
+//Map	_control_	2_2
+//Map	_control_	3_4
+//Map	_control_	3_5
+//Map	_control_	3_2
+//Map	_control_	4_4
+//Map	_control_	4_5
+//Map	_control_	4_2
+//Map	_control_	5_1
+//Map	_control_	5_2
+//Map	_control_	5_3
+//Map	_control_	5_4
+//Map	_control_	5_5
+//Map	_control_	Keyboard Shortcut Variations=LowHi
+//Map	_control_	Keyboard Shortcut Variations=Parametric
+//Map	_control_	Layers=P1/Lo
+//Map	_control_	Layers=P2/Hi
+//Map	_control_	Flip=Flip Off
+//Map	_control_	Flip=Flip On
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	X
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	3 Rec Bank 1
+//Map	_control_	4 Rec Bank 1
+//Map	_control_	5 Rec Bank 1
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Peak Meter
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF
+//Map	_control_	ControlSet=Main
+//Map	_control_	ControlSet=Q

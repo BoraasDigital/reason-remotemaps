@@ -1,0 +1,41 @@
+Scope	Propellerheads	Line 6 Bass Amp
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	Drive
+//Map	_control_	Bass
+//Map	_control_	Lo Mid
+//Map	_control_	Hi Mid
+//Map	_control_	Treble
+//Map	_control_	Volume
+//Map	_control_	Enabled
+//Map	_control_	Compressor On
+//Map	_control_	Comp Threshold
+//Map	_control_	Select Previous Amp Model
+//Map	_control_	Select Next Amp Model
+//Map	_control_	Select Previous Cab Model
+//Map	_control_	Select Next Cab Model
+//Map	_control_	Patch Name
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	TheGroup=Regular
+//Map	_control_	TheGroup=EQ
+//Map	_control_	Device Name
+//Map	_control_	Select Patch Delta
+//Map	_control_	Flip=Flip Off
+//Map	_control_	Flip=Flip On
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF

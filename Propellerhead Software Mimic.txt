@@ -1,0 +1,494 @@
+Scope	Propellerhead Software	se.propellerheads.Mimic
+//Map	_control_	Filter Freq 1
+//Map	_control_	Filter Reso 1
+//Map	_control_	Stretch Speed 1
+//Map	_control_	Loop Length 1
+//Map	_control_	Start Pos 1
+//Map	_control_	End Pos 1
+//Map	_control_	Pitch Semi 1
+//Map	_control_	Reverse 1
+//Map	_control_	Global Pos 1
+//Map	_control_	Snap Slices 1
+//Map	_control_	Play Thru 1
+//Map	_control_	Filter Freq 2
+//Map	_control_	Filter Reso 2
+//Map	_control_	Stretch Speed 2
+//Map	_control_	Loop Length 2
+//Map	_control_	Start Pos 2
+//Map	_control_	End Pos 2
+//Map	_control_	Pitch Semi 2
+//Map	_control_	Reverse 2
+//Map	_control_	Global Pos 2
+//Map	_control_	Snap Slices 2
+//Map	_control_	Play Thru 2
+//Map	_control_	Filter Freq 3
+//Map	_control_	Filter Reso 3
+//Map	_control_	Stretch Speed 3
+//Map	_control_	Loop Length 3
+//Map	_control_	Start Pos 3
+//Map	_control_	End Pos 3
+//Map	_control_	Pitch Semi 3
+//Map	_control_	Reverse 3
+//Map	_control_	Global Pos 3
+//Map	_control_	Snap Slices 3
+//Map	_control_	Play Thru 3
+//Map	_control_	Filter Freq 4
+//Map	_control_	Filter Reso 4
+//Map	_control_	Stretch Speed 4
+//Map	_control_	Loop Length 4
+//Map	_control_	Start Pos 4
+//Map	_control_	End Pos 4
+//Map	_control_	Pitch Semi 4
+//Map	_control_	Reverse 4
+//Map	_control_	Global Pos 4
+//Map	_control_	Snap Slices 4
+//Map	_control_	Play Thru 4
+//Map	_control_	Filter Freq 5
+//Map	_control_	Filter Reso 5
+//Map	_control_	Stretch Speed 5
+//Map	_control_	Loop Length 5
+//Map	_control_	Start Pos 5
+//Map	_control_	End Pos 5
+//Map	_control_	Pitch Semi 5
+//Map	_control_	Reverse 5
+//Map	_control_	Global Pos 5
+//Map	_control_	Snap Slices 5
+//Map	_control_	Play Thru 5
+//Map	_control_	Filter Freq 6
+//Map	_control_	Filter Reso 6
+//Map	_control_	Stretch Speed 6
+//Map	_control_	Loop Length 6
+//Map	_control_	Start Pos 6
+//Map	_control_	End Pos 6
+//Map	_control_	Pitch Semi 6
+//Map	_control_	Reverse 6
+//Map	_control_	Global Pos 6
+//Map	_control_	Snap Slices 6
+//Map	_control_	Play Thru 6
+//Map	_control_	Filter Freq 7
+//Map	_control_	Filter Reso 7
+//Map	_control_	Stretch Speed 7
+//Map	_control_	Loop Length 7
+//Map	_control_	Start Pos 7
+//Map	_control_	End Pos 7
+//Map	_control_	Pitch Semi 7
+//Map	_control_	Reverse 7
+//Map	_control_	Global Pos 7
+//Map	_control_	Snap Slices 7
+//Map	_control_	Play Thru 7
+//Map	_control_	Filter Freq 8
+//Map	_control_	Filter Reso 8
+//Map	_control_	Stretch Speed 8
+//Map	_control_	Loop Length 8
+//Map	_control_	Start Pos 8
+//Map	_control_	End Pos 8
+//Map	_control_	Pitch Semi 8
+//Map	_control_	Reverse 8
+//Map	_control_	Global Pos 8
+//Map	_control_	Snap Slices 8
+//Map	_control_	Play Thru 8
+//Map	_control_	Master Volume
+//Map	_control_	Tune 1
+//Map	_control_	LFO Rate 1
+//Map	_control_	LFO Delay 1
+//Map	_control_	Filter Drive 1
+//Map	_control_	Filter ModAmt 1
+//Map	_control_	Speed ModAmt 1
+//Map	_control_	Loop On 1
+//Map	_control_	LFO Key Sync 1
+//Map	_control_	LFO Beat Sync 1
+//Map	_control_	Pitch Kbd 1
+//Map	_control_	Tune 2
+//Map	_control_	Filter Drive 2
+//Map	_control_	Filter KBD 2
+//Map	_control_	Speed ModAmt 2
+//Map	_control_	LFO Rate 2
+//Map	_control_	LFO Delay 2
+//Map	_control_	Loop On 2
+//Map	_control_	LFO Key Sync 2
+//Map	_control_	LFO Beat Sync 2
+//Map	_control_	Pitch Kbd 2
+//Map	_control_	Tune 3
+//Map	_control_	Filter Drive 3
+//Map	_control_	Filter KBD 3
+//Map	_control_	Speed ModAmt 3
+//Map	_control_	LFO Rate 3
+//Map	_control_	LFO Delay 3
+//Map	_control_	Loop On 3
+//Map	_control_	LFO Key Sync 3
+//Map	_control_	LFO Beat Sync 3
+//Map	_control_	Pitch Kbd 3
+//Map	_control_	Tune 4
+//Map	_control_	Filter Drive 4
+//Map	_control_	Filter KBD 4
+//Map	_control_	Speed ModAmt 4
+//Map	_control_	LFO Rate 4
+//Map	_control_	LFO Delay 4
+//Map	_control_	Loop On 4
+//Map	_control_	LFO Key Sync 4
+//Map	_control_	LFO Beat Sync 4
+//Map	_control_	Pitch Kbd 4
+//Map	_control_	Tune 5
+//Map	_control_	Filter Drive 5
+//Map	_control_	Filter KBD 5
+//Map	_control_	Speed ModAmt 5
+//Map	_control_	LFO Rate 5
+//Map	_control_	LFO Delay 5
+//Map	_control_	Loop On 5
+//Map	_control_	LFO Key Sync 5
+//Map	_control_	LFO Beat Sync 5
+//Map	_control_	Pitch Kbd 5
+//Map	_control_	Tune 6
+//Map	_control_	Filter Drive 6
+//Map	_control_	Filter KBD 6
+//Map	_control_	Speed ModAmt 6
+//Map	_control_	LFO Rate 6
+//Map	_control_	LFO Delay 6
+//Map	_control_	Loop On 6
+//Map	_control_	LFO Key Sync 6
+//Map	_control_	LFO Beat Sync 6
+//Map	_control_	Pitch Kbd 6
+//Map	_control_	Tune 7
+//Map	_control_	Filter Drive 7
+//Map	_control_	Filter KBD 7
+//Map	_control_	Speed ModAmt 7
+//Map	_control_	LFO Rate 7
+//Map	_control_	LFO Delay 7
+//Map	_control_	Loop On 7
+//Map	_control_	LFO Key Sync 7
+//Map	_control_	LFO Beat Sync 7
+//Map	_control_	Pitch Kbd 7
+//Map	_control_	Tune 8
+//Map	_control_	Filter Drive 8
+//Map	_control_	Filter KBD 8
+//Map	_control_	Speed ModAmt 8
+//Map	_control_	LFO Rate 8
+//Map	_control_	LFO Delay 8
+//Map	_control_	Loop On 8
+//Map	_control_	LFO Key Sync 8
+//Map	_control_	LFO Beat Sync 8
+//Map	_control_	Pitch Kbd 8
+//Map	_control_	Amp Velocity 1
+//Map	_control_	Amp Gain 1
+//Map	_control_	Amp ModAmt 1
+//Map	_control_	Squeeze 1
+//Map	_control_	Loop Xfade 1
+//Map	_control_	Slice Sens 1
+//Map	_control_	Effect Mod 1
+//Map	_control_	Effect Mix 1
+//Map	_control_	Lo Cut 1
+//Map	_control_	Hi Cut 1
+//Map	_control_	Send1 1
+//Map	_control_	Send2 2
+//Map	_control_	Filter Attack 1
+//Map	_control_	Filter Decay 1
+//Map	_control_	Filter Sustain 1
+//Map	_control_	Filter Release 1
+//Map	_control_	Amp Attack 1
+//Map	_control_	Amp Decay 1
+//Map	_control_	Amp Sustain 1
+//Map	_control_	Amp Release 1
+//Map	_control_	Stretch Mode 1
+//Map	_control_	Speed Mod 1
+//Map	_control_	Pitch Mod 1
+//Map	_control_	Filter Type 1
+//Map	_control_	Filter Mod 1
+//Map	_control_	Amp Mod 1
+//Map	_control_	Pan Mod 1
+//Map	_control_	Start Mod 1
+//Map	_control_	Amp Velocity 2
+//Map	_control_	Amp Gain 2
+//Map	_control_	Amp ModAmt 2
+//Map	_control_	Squeeze 2
+//Map	_control_	Loop Xfade 2
+//Map	_control_	Slice Sens 2
+//Map	_control_	Effect Mod 2
+//Map	_control_	Effect Mix 2
+//Map	_control_	Lo Cut 2
+//Map	_control_	Hi Cut 2
+//Map	_control_	Send1 2
+//Map	_control_	Filter Attack 2
+//Map	_control_	Filter Decay 2
+//Map	_control_	Filter Sustain 2
+//Map	_control_	Filter Release 2
+//Map	_control_	Amp Attack 2
+//Map	_control_	Amp Decay 2
+//Map	_control_	Amp Sustain 2
+//Map	_control_	Amp Release 2
+//Map	_control_	Stretch Mode 2
+//Map	_control_	Speed Mod 2
+//Map	_control_	Pitch Mod 2
+//Map	_control_	Filter Type 2
+//Map	_control_	Filter Mod 2
+//Map	_control_	Amp Mod 2
+//Map	_control_	Pan Mod 2
+//Map	_control_	Start Mod 2
+//Map	_control_	Amp Velocity 3
+//Map	_control_	Amp Gain 3
+//Map	_control_	Amp ModAmt 3
+//Map	_control_	Squeeze 3
+//Map	_control_	Loop Xfade 3
+//Map	_control_	Slice Sens 3
+//Map	_control_	Effect Mod 3
+//Map	_control_	Effect Mix 3
+//Map	_control_	Lo Cut 3
+//Map	_control_	Hi Cut 3
+//Map	_control_	Send1 3
+//Map	_control_	Send2 3
+//Map	_control_	Filter Attack 3
+//Map	_control_	Filter Decay 3
+//Map	_control_	Filter Sustain 3
+//Map	_control_	Filter Release 3
+//Map	_control_	Amp Attack 3
+//Map	_control_	Amp Decay 3
+//Map	_control_	Amp Sustain 3
+//Map	_control_	Amp Release 3
+//Map	_control_	Stretch Mode 3
+//Map	_control_	Speed Mod 3
+//Map	_control_	Pitch Mod 3
+//Map	_control_	Filter Type 3
+//Map	_control_	Filter Mod 3
+//Map	_control_	Amp Mod 3
+//Map	_control_	Pan Mod 3
+//Map	_control_	Start Mod 3
+//Map	_control_	Amp Velocity 4
+//Map	_control_	Amp Gain 4
+//Map	_control_	Amp ModAmt 4
+//Map	_control_	Squeeze 4
+//Map	_control_	Loop Xfade 4
+//Map	_control_	Slice Sens 4
+//Map	_control_	Effect Mod 4
+//Map	_control_	Effect Mix 4
+//Map	_control_	Lo Cut 4
+//Map	_control_	Hi Cut 4
+//Map	_control_	Send1 4
+//Map	_control_	Send2 4
+//Map	_control_	Filter Attack 4
+//Map	_control_	Filter Decay 4
+//Map	_control_	Filter Sustain 4
+//Map	_control_	Filter Release 4
+//Map	_control_	Amp Attack 4
+//Map	_control_	Amp Decay 4
+//Map	_control_	Amp Sustain 4
+//Map	_control_	Amp Release 4
+//Map	_control_	Stretch Mode 4
+//Map	_control_	Speed Mod 4
+//Map	_control_	Pitch Mod 4
+//Map	_control_	Filter Type 4
+//Map	_control_	Filter Mod 4
+//Map	_control_	Amp Mod 4
+//Map	_control_	Pan Mod 4
+//Map	_control_	Start Mod 4
+//Map	_control_	Amp Velocity 5
+//Map	_control_	Amp Gain 5
+//Map	_control_	Amp ModAmt 5
+//Map	_control_	Squeeze 5
+//Map	_control_	Loop Xfade 5
+//Map	_control_	Slice Sens 5
+//Map	_control_	Effect Mod 5
+//Map	_control_	Effect Mix 5
+//Map	_control_	Lo Cut 5
+//Map	_control_	Hi Cut 5
+//Map	_control_	Send1 5
+//Map	_control_	Send2 5
+//Map	_control_	Filter Attack 5
+//Map	_control_	Filter Decay 5
+//Map	_control_	Filter Sustain 5
+//Map	_control_	Filter Release 5
+//Map	_control_	Amp Attack 5
+//Map	_control_	Amp Decay 5
+//Map	_control_	Amp Sustain 5
+//Map	_control_	Amp Release 5
+//Map	_control_	Stretch Mode 5
+//Map	_control_	Speed Mod 5
+//Map	_control_	Pitch Mod 5
+//Map	_control_	Filter Type 5
+//Map	_control_	Filter Mod 5
+//Map	_control_	Amp Mod 5
+//Map	_control_	Pan Mod 5
+//Map	_control_	Start Mod 5
+//Map	_control_	Amp Velocity 6
+//Map	_control_	Amp Gain 6
+//Map	_control_	Amp ModAmt 6
+//Map	_control_	Squeeze 6
+//Map	_control_	Loop Xfade 6
+//Map	_control_	Slice Sens 6
+//Map	_control_	Effect Mod 6
+//Map	_control_	Effect Mix 6
+//Map	_control_	Lo Cut 6
+//Map	_control_	Hi Cut 6
+//Map	_control_	Send1 6
+//Map	_control_	Send2 6
+//Map	_control_	Filter Attack 6
+//Map	_control_	Filter Decay 6
+//Map	_control_	Filter Sustain 6
+//Map	_control_	Filter Release 6
+//Map	_control_	Amp Attack 6
+//Map	_control_	Amp Decay 6
+//Map	_control_	Amp Sustain 6
+//Map	_control_	Amp Release 6
+//Map	_control_	Stretch Mode 6
+//Map	_control_	Speed Mod 6
+//Map	_control_	Pitch Mod 6
+//Map	_control_	Filter Type 6
+//Map	_control_	Filter Mod 6
+//Map	_control_	Amp Mod 6
+//Map	_control_	Pan Mod 6
+//Map	_control_	Amp Velocity 7
+//Map	_control_	Amp Gain 7
+//Map	_control_	Amp ModAmt 7
+//Map	_control_	Squeeze 7
+//Map	_control_	Loop Xfade 7
+//Map	_control_	Slice Sens 7
+//Map	_control_	Effect Mod 7
+//Map	_control_	Effect Mix 7
+//Map	_control_	Lo Cut 7
+//Map	_control_	Hi Cut 7
+//Map	_control_	Send1 7
+//Map	_control_	Send2 7
+//Map	_control_	Filter Attack 7
+//Map	_control_	Filter Decay 7
+//Map	_control_	Filter Sustain 7
+//Map	_control_	Filter Release 7
+//Map	_control_	Amp Attack 7
+//Map	_control_	Amp Decay 7
+//Map	_control_	Amp Sustain 7
+//Map	_control_	Amp Release 7
+//Map	_control_	Stretch Mode 7
+//Map	_control_	Speed Mod 7
+//Map	_control_	Pitch Mod 7
+//Map	_control_	Filter Type 7
+//Map	_control_	Filter Mod 7
+//Map	_control_	Amp Mod 7
+//Map	_control_	Pan Mod 7
+//Map	_control_	Start Mod 7
+//Map	_control_	Amp Velocity 8
+//Map	_control_	Amp Gain 8
+//Map	_control_	Amp ModAmt 8
+//Map	_control_	Squeeze 8
+//Map	_control_	Loop Xfade 8
+//Map	_control_	Slice Sens 8
+//Map	_control_	Effect Mod 8
+//Map	_control_	Effect Mix 8
+//Map	_control_	Lo Cut 8
+//Map	_control_	Hi Cut 8
+//Map	_control_	Send1 8
+//Map	_control_	Send2 8
+//Map	_control_	Filter Attack 8
+//Map	_control_	Filter Decay 8
+//Map	_control_	Filter Sustain 8
+//Map	_control_	Filter Release 8
+//Map	_control_	Amp Attack 8
+//Map	_control_	Amp Decay 8
+//Map	_control_	Amp Sustain 8
+//Map	_control_	Amp Release 8
+//Map	_control_	Stretch Mode 8
+//Map	_control_	Speed Mod 8
+//Map	_control_	Pitch Mod 8
+//Map	_control_	Filter Type 8
+//Map	_control_	Filter Mod 8
+//Map	_control_	Amp Mod 8
+//Map	_control_	Pan Mod 8
+//Map	_control_	Start Mod 8
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	Algorithm
+//Map	_control_	Grain Len 1
+//Map	_control_	Voice Formant 1
+//Map	_control_	Effect Type 1
+//Map	_control_	Filter Env 1
+//Map	_control_	Filter ModAmt 2
+//Map	_control_	Filter ModAmt 3
+//Map	_control_	Filter ModAmt 4
+//Map	_control_	Filter ModAmt 5
+//Map	_control_	Filter ModAmt 6
+//Map	_control_	Filter ModAmt 7
+//Map	_control_	Filter ModAmt 8
+//Map	_control_	Device Name
+//Map	_control_	Portamento Rate 1
+//Map	_control_	Aftertouch
+//Map	_control_	Patch Name
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Play Mode
+//Map	_control_	Key Mode 1
+//Map	_control_	LFO Wave 1
+//Map	_control_	Portamento Mode 1
+//Map	_control_	Transients On 1
+//Map	_control_	Pitchbend Range 1
+//Map	_control_	Voice Fixed 1
+//Map	_control_	Key Mode 2
+//Map	_control_	LFO Wave 2
+//Map	_control_	Portamento Mode 2
+//Map	_control_	Transients On 2
+//Map	_control_	Pitchbend Range 2
+//Map	_control_	Voice Fixed 2
+//Map	_control_	Effect Type 2
+//Map	_control_	Key Mode 3
+//Map	_control_	LFO Wave 3
+//Map	_control_	Portamento Mode 3
+//Map	_control_	Transients On 3
+//Map	_control_	Pitchbend Range 3
+//Map	_control_	Voice Fixed 3
+//Map	_control_	Effect Type 3
+//Map	_control_	Key Mode 4
+//Map	_control_	LFO Wave 4
+//Map	_control_	Portamento Mode 4
+//Map	_control_	Transients On 4
+//Map	_control_	Pitchbend Range 4
+//Map	_control_	Voice Fixed 4
+//Map	_control_	Effect Type 4
+//Map	_control_	Key Mode 5
+//Map	_control_	LFO Wave 5
+//Map	_control_	Portamento Mode 5
+//Map	_control_	Transients On 5
+//Map	_control_	Pitchbend Range 5
+//Map	_control_	Voice Fixed 5
+//Map	_control_	Effect Type 5
+//Map	_control_	Key Mode 6
+//Map	_control_	LFO Wave 6
+//Map	_control_	Portamento Mode 6
+//Map	_control_	Transients On 6
+//Map	_control_	Pitchbend Range 6
+//Map	_control_	Voice Fixed 6
+//Map	_control_	Start Mod 6
+//Map	_control_	Effect Type 6
+//Map	_control_	Key Mode 7
+//Map	_control_	LFO Wave 7
+//Map	_control_	Portamento Mode 7
+//Map	_control_	Transients On 7
+//Map	_control_	Pitchbend Range 7
+//Map	_control_	Voice Fixed 7
+//Map	_control_	Effect Type 7
+//Map	_control_	Key Mode 8
+//Map	_control_	LFO Wave 8
+//Map	_control_	Portamento Mode 8
+//Map	_control_	Transients On 8
+//Map	_control_	Pitchbend Range 8
+//Map	_control_	Voice Fixed 8
+//Map	_control_	Effect Type 8
+//Map	_control_	Grain Len 2
+//Map	_control_	Grain Len 3
+//Map	_control_	Grain Len 4
+//Map	_control_	Grain Len 5
+//Map	_control_	Grain Len 6
+//Map	_control_	Grain Len 7
+//Map	_control_	Grain Len 8
+//Map	_control_	LFO Synced Rate 1
+//Map	_control_	Pan 1
+//Map	_control_	LFO Synced Rate 2
+//Map	_control_	Pan 2
+//Map	_control_	LFO Synced Rate 3
+//Map	_control_	Pan 3
+//Map	_control_	LFO Synced Rate 4
+//Map	_control_	Pan 4
+//Map	_control_	LFO Synced Rate 5
+//Map	_control_	Pan 5
+//Map	_control_	LFO Synced Rate 6
+//Map	_control_	Pan 6
+//Map	_control_	LFO Synced Rate 7
+//Map	_control_	Pan 7
+//Map	_control_	LFO Synced Rate 8
+//Map	_control_	Pan 8

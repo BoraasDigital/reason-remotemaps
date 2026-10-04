@@ -1,0 +1,41 @@
+Scope	Propellerheads	Matrix Pattern Sequencer
+//Map	_control_	Pattern Select in Bank
+//Map	_control_	Bank Select
+//Map	_control_	Resolution
+//Map	_control_	Run
+//Map	_control_	Pattern Enable
+//Map	_control_	Pattern 1
+//Map	_control_	Pattern 2
+//Map	_control_	Pattern 3
+//Map	_control_	Pattern 4
+//Map	_control_	Pattern 5
+//Map	_control_	Pattern 6
+//Map	_control_	Pattern 7
+//Map	_control_	Pattern 8
+//Map	_control_	Bank A
+//Map	_control_	Bank B
+//Map	_control_	Bank C
+//Map	_control_	Bank D
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	Device Name
+//Map	_control_	G0
+//Map	_control_	C#-1
+//Map	_control_	C-1
+//Map	_control_	F0
+//Map	_control_	Select Patch Delta
+//Map	_control_	Pattern Select
+//Map	_control_	Flip=Flip Off
+//Map	_control_	Flip=Flip On
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF

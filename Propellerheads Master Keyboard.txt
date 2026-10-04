@@ -1,0 +1,9 @@
+Scope	Propellerheads	Master Keyboard
+//Map	_control_	Keyboard
+//Map	_control_	Pitch Bend
+//Map	_control_	Mod Wheel
+//Map	_control_	Damper Pedal
+//Map	_control_	Expression
+//Map	_control_	Channel Pressure
+//Map	_control_	Breath
+//Map	_control_	Pad

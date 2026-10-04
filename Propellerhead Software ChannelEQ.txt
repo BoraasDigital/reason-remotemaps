@@ -1,0 +1,32 @@
+Scope	Propellerhead Software	se.propellerheads.ChannelEQ
+//Map	_control_	LF Gain
+//Map	_control_	LF Frequency
+//Map	_control_	LMF Gain
+//Map	_control_	LMF Frequency
+//Map	_control_	HMF Gain
+//Map	_control_	HMF Frequency
+//Map	_control_	HF Gain
+//Map	_control_	HF Frequency
+//Map	_control_	Enabled
+//Map	_control_	E Mode On
+//Map	_control_	HPF On
+//Map	_control_	LPF On
+//Map	_control_	LF Bell On
+//Map	_control_	HF Bell On
+//Map	_control_	HPF Frequency
+//Map	_control_	LPF Frequency
+//Map	_control_	LMF Q
+//Map	_control_	HMF Q
+//Map	_control_	Gain
+//Map	_control_	Device Name
+//Map	_control_	Patch Name
+//Map	_control_	Varation=A
+//Map	_control_	Varation=B
+//Map	_control_	X
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	3 Rec Bank 1
+//Map	_control_	4 Rec Bank 1
+//Map	_control_	5 Rec Bank 1
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch

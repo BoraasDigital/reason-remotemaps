@@ -1,0 +1,170 @@
+Scope	Propellerheads	BV512 Digital Vocoder
+//Map	_control_	Hold
+//Map	_control_	Shift
+//Map	_control_	HF Emphasis
+//Map	_control_	Attack
+//Map	_control_	Decay
+//Map	_control_	Dry/Wet
+//Map	_control_	Band Count
+//Map	_control_	Vocoder/Equalizer
+//Map	_control_	Band Level 1
+//Map	_control_	Band Level 2
+//Map	_control_	Band Level 3
+//Map	_control_	Band Level 4
+//Map	_control_	Band Level 5
+//Map	_control_	Band Level 6
+//Map	_control_	Band Level 7
+//Map	_control_	Band Level 8
+//Map	_control_	Band Level 9
+//Map	_control_	Band Level 10
+//Map	_control_	Band Level 11
+//Map	_control_	Band Level 12
+//Map	_control_	Band Level 13
+//Map	_control_	Band Level 14
+//Map	_control_	Band Level 15
+//Map	_control_	Band Level 16
+//Map	_control_	Band Level 17
+//Map	_control_	Band Level 18
+//Map	_control_	Band Level 19
+//Map	_control_	Band Level 20
+//Map	_control_	Band Level 21
+//Map	_control_	Band Level 22
+//Map	_control_	Band Level 23
+//Map	_control_	Band Level 24
+//Map	_control_	Band Level 25
+//Map	_control_	Band Level 26
+//Map	_control_	Band Level 27
+//Map	_control_	Band Level 28
+//Map	_control_	Band Level 29
+//Map	_control_	Band Level 30
+//Map	_control_	Band Level 31
+//Map	_control_	Band Level 32
+//Map	_control_	Mod Level 1
+//Map	_control_	Mod Level 2
+//Map	_control_	Mod Level 3
+//Map	_control_	Mod Level 4
+//Map	_control_	Mod Level 5
+//Map	_control_	Mod Level 6
+//Map	_control_	Mod Level 7
+//Map	_control_	Mod Level 8
+//Map	_control_	Mod Level 9
+//Map	_control_	Mod Level 10
+//Map	_control_	Mod Level 11
+//Map	_control_	Mod Level 12
+//Map	_control_	Mod Level 13
+//Map	_control_	Mod Level 14
+//Map	_control_	Mod Level 15
+//Map	_control_	Mod Level 16
+//Map	_control_	Mod Level 17
+//Map	_control_	Mod Level 18
+//Map	_control_	Mod Level 19
+//Map	_control_	Mod Level 20
+//Map	_control_	Mod Level 21
+//Map	_control_	Mod Level 22
+//Map	_control_	Mod Level 23
+//Map	_control_	Mod Level 24
+//Map	_control_	Mod Level 25
+//Map	_control_	Mod Level 26
+//Map	_control_	Mod Level 27
+//Map	_control_	Mod Level 28
+//Map	_control_	Mod Level 29
+//Map	_control_	Mod Level 30
+//Map	_control_	Mod Level 31
+//Map	_control_	Mod Level 32
+//Map	_control_	Enabled
+//Map	_control_	Device Name
+//Map	_control_	Bands=Band1-8
+//Map	_control_	Bands=Band9-16
+//Map	_control_	Bands=Band17-24
+//Map	_control_	Bands=Band25-32
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	Bands=Red
+//Map	_control_	Bands=B1-4
+//Map	_control_	Bands=B5-8
+//Map	_control_	Bands=B9-12
+//Map	_control_	Bands=B13-16
+//Map	_control_	Bands=Green
+//Map	_control_	Bands=B17-20
+//Map	_control_	Bands=B21-24
+//Map	_control_	Bands=B25-28
+//Map	_control_	Bands=B29-32
+//Map	_control_	Bands=1-8
+//Map	_control_	Bands=9-16
+//Map	_control_	Bands=17-24
+//Map	_control_	Bands=25-32
+//Map	_control_	Band=General
+//Map	_control_	Band=Band1-8
+//Map	_control_	Band=Band9-16
+//Map	_control_	Band=Band17-24
+//Map	_control_	Band=Band25-32
+//Map	_control_	Keyboard Shortcut Variations=Main
+//Map	_control_	Keyboard Shortcut Variations=Band 1-8
+//Map	_control_	Keyboard Shortcut Variations=Band 9-16
+//Map	_control_	Keyboard Shortcut Variations=Band 17-24
+//Map	_control_	Keyboard Shortcut Variations=v1
+//Map	_control_	Keyboard Shortcut Variations=v2
+//Map	_control_	Keyboard Shortcut Variations=v3
+//Map	_control_	Keyboard Shortcut Variations=Band_1-8
+//Map	_control_	Keyboard Shortcut Variations=Band_9-16
+//Map	_control_	Keyboard Shortcut Variations=Band_17-24
+//Map	_control_	Keyboard Shortcut Variations=Band_25-32
+//Map	_control_	Keyboard Shortcut Variations=Mod_1-8
+//Map	_control_	Keyboard Shortcut Variations=Mod_9-16
+//Map	_control_	Keyboard Shortcut Variations=Control
+//Map	_control_	Keyboard Shortcut Variations=Band 25-32
+//Map	_control_	Layers=Bands
+//Map	_control_	Layers=Ctrls
+//Map	_control_	Ch_Select=25-32
+//Map	_control_	Ch_Select=9-16
+//Map	_control_	Ch_Select=1-8
+//Map	_control_	Ch_Select=17-24
+//Map	_control_	Flip=Flip Off
+//Map	_control_	Flip=Flip On
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	X
+//Map	_control_	2 Bank 3
+//Map	_control_	3 Bank 3
+//Map	_control_	4 Bank 3
+//Map	_control_	5 Bank 3
+//Map	_control_	6 Bank 3
+//Map	_control_	7 Bank 3
+//Map	_control_	8 Bank 3
+//Map	_control_	9 Bank 3
+//Map	_control_	2 Bank 4
+//Map	_control_	3 Bank 4
+//Map	_control_	4 Bank 4
+//Map	_control_	5 Bank 4
+//Map	_control_	6 Bank 4
+//Map	_control_	7 Bank 4
+//Map	_control_	8 Bank 4
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Source Peak Meter
+//Map	_control_	Modulator Peak Meter
+//Map	_control_	Bands=1-16
+//Map	_control_	Bands=17-32
+//Map	_control_	Keyboard Shortcut Variations=25-32
+//Map	_control_	Keyboard Shortcut Variations=9-16
+//Map	_control_	Keyboard Shortcut Variations=1-8
+//Map	_control_	Keyboard Shortcut Variations=17-24
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF
+//Map	_control_	ControlSet=Main
+//Map	_control_	ControlSet=Band 1-8
+//Map	_control_	ControlSet=Band 9-16
+//Map	_control_	ControlSet=Band 17-24
+//Map	_control_	ControlSet=Band 25-32

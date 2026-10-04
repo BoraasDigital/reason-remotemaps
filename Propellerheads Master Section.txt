@@ -1,0 +1,3 @@
+Scope	Propellerheads	Master Section
+//Map	_control_	Master Volume
+//Map	_control_	Insert FX 1 Wet/Dry

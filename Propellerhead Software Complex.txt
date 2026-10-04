@@ -1,0 +1,119 @@
+Scope	Propellerhead Software	se.propellerheads.Complex
+//Map	_control_	Filter Freq
+//Map	_control_	Filter Freq Amt1
+//Map	_control_	Filter Freq Amt2
+//Map	_control_	Filter FM Amt
+//Map	_control_	Noise Color
+//Map	_control_	Noise Color Amt
+//Map	_control_	LFO Rate
+//Map	_control_	Osc Mix
+//Map	_control_	Attack
+//Map	_control_	Decay
+//Map	_control_	Sustain
+//Map	_control_	Release
+//Map	_control_	Osc 1 Shape
+//Map	_control_	Osc 2 Shape
+//Map	_control_	Filter Reso
+//Map	_control_	Shaper Drive
+//Map	_control_	Shaper Sym
+//Map	_control_	Noise Rate
+//Map	_control_	LPG1 Attack
+//Map	_control_	LPG 1 Release
+//Map	_control_	LPG 2 Attack
+//Map	_control_	LPG 2 Release
+//Map	_control_	Osc 1 Pitch
+//Map	_control_	Osc 2 Pitch
+//Map	_control_	Osc 3 Pitch
+//Map	_control_	Osc 3 Shape
+//Map	_control_	LPG 1 Attack Amt
+//Map	_control_	LPG 1 Release Amt
+//Map	_control_	LPG 2 Attack Amt
+//Map	_control_	LPG 2 Release Amt
+//Map	_control_	LPG 1 Filter
+//Map	_control_	LPG 2 Filter
+//Map	_control_	Clock 1 Rate
+//Map	_control_	Clock 2 Rate
+//Map	_control_	Comb Pitch
+//Map	_control_	Comb Freq
+//Map	_control_	LFO Rate Amt
+//Map	_control_	Filter Drive
+//Map	_control_	Filter Reso Amt
+//Map	_control_	Vol 1
+//Map	_control_	Vol 2
+//Map	_control_	Vol 3
+//Map	_control_	Osc 1 Wave
+//Map	_control_	Osc 2 Wave
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	Master Level
+//Map	_control_	Osc Sync
+//Map	_control_	Osc1 To Osc2 FM
+//Map	_control_	Osc1 To Osc2 AM
+//Map	_control_	Noise Type
+//Map	_control_	Reverb On
+//Map	_control_	Reverb Level
+//Map	_control_	Reverb Decay
+//Map	_control_	Reverb Type
+//Map	_control_	Device Name
+//Map	_control_	Osc 2 FM Amt
+//Map	_control_	Osc 1 FM Amt
+//Map	_control_	Portamento
+//Map	_control_	Lfo Rate
+//Map	_control_	Osc 1 Tune
+//Map	_control_	Osc 2 Tune
+//Map	_control_	Patch Name
+//Map	_control_	Lag
+//Map	_control_	Button Group=Mix
+//Map	_control_	Button Group=Oscillators
+//Map	_control_	Button Group=Filters
+//Map	_control_	Button Group=Effects
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Mix 1 In1
+//Map	_control_	Mix 2 In1
+//Map	_control_	Mix 3 In1
+//Map	_control_	Mix 1 In2
+//Map	_control_	Mix 2 In2
+//Map	_control_	Mix 3 In2
+//Map	_control_	Function X In
+//Map	_control_	Function Y In
+//Map	_control_	Osc1 To Osc2 FM In
+//Map	_control_	Osc1 To Osc2 AM In
+//Map	_control_	Osc Mix In
+//Map	_control_	Auto
+//Map	_control_	Retrig
+//Map	_control_	Filter In
+//Map	_control_	Filter FM In
+//Map	_control_	Filter Freq In1
+//Map	_control_	Filter Freq In2
+//Map	_control_	LPG 1 In
+//Map	_control_	LPG 1 Trig In
+//Map	_control_	LPG 2 In
+//Map	_control_	LPG 2 Trig In
+//Map	_control_	Shaper Type
+//Map	_control_	Comb Pitch To Freq
+//Map	_control_	Clock Rate Multiply
+//Map	_control_	Mix 1 Amt
+//Map	_control_	Mix 2 Amt
+//Map	_control_	Mix 3 Amt
+//Map	_control_	Osc 1 Shape Amt
+//Map	_control_	Osc 2 Shape Amt
+//Map	_control_	Amp 1 Amt
+//Map	_control_	Amp 2 Amt
+//Map	_control_	Amp 3 Amt
+//Map	_control_	Bend Range
+//Map	_control_	Osc Mix Amt
+//Map	_control_	Osc 3 Shape Amt
+//Map	_control_	Osc 1 AM Amt
+//Map	_control_	Osc 2 AM Amt
+//Map	_control_	Noise Rate Amt
+//Map	_control_	Shaper Drive Amt
+//Map	_control_	Comb Pitch Amt
+//Map	_control_	Comb Freq Amt
+//Map	_control_	Comb DryWet
+//Map	_control_	Comb Gain
+//Map	_control_	Comb Peak
+//Map	_control_	Comb FB
+//Map	_control_	Comb Pitch to Freq

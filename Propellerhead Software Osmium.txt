@@ -1,0 +1,33 @@
+Scope	Propellerhead Software	se.propellerheads.Osmium
+//Map	_control_	Drive 2
+//Map	_control_	Tone 2
+//Map	_control_	Overdrive Type 2
+//Map	_control_	Fold Type 2
+//Map	_control_	Bitcrush Rate 2
+//Map	_control_	Bitcrush Bits 2
+//Map	_control_	Mix 2
+//Map	_control_	Level 2
+//Map	_control_	Morph X 2
+//Map	_control_	Morph Y 2
+//Map	_control_	Morph Width 2
+//Map	_control_	Morph Type 2
+//Map	_control_	Filter Reso 2
+//Map	_control_	Filter Freq 2
+//Map	_control_	DryWet
+//Map	_control_	Master Level
+//Map	_control_	Enabled
+//Map	_control_	Saturation Type 2
+//Map	_control_	Bitcrush Type 2
+//Map	_control_	CV Button
+//Map	_control_	Effects=Dist
+//Map	_control_	Effects=Filter
+//Map	_control_	EQ Lo Gain 2
+//Map	_control_	EQ Freq 2
+//Map	_control_	EQ Gain 2
+//Map	_control_	EQ Hi Gain 2
+//Map	_control_	Filter Slope 2
+//Map	_control_	EQ Q 2
+//Map	_control_	Device Name
+//Map	_control_	Patch Name
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch

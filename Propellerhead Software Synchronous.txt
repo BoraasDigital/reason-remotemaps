@@ -1,0 +1,53 @@
+Scope	Propellerhead Software	se.propellerheads.Synchronous
+//Map	_control_	Dist Amount
+//Map	_control_	Filter Freq
+//Map	_control_	Filter Reso
+//Map	_control_	Reverb Amount
+//Map	_control_	Delay
+//Map	_control_	Delay Feedback
+//Map	_control_	DryWet
+//Map	_control_	Master Level
+//Map	_control_	Dist Type
+//Map	_control_	Dist Character
+//Map	_control_	Filter Type
+//Map	_control_	Reverb Decay
+//Map	_control_	Reverb Size
+//Map	_control_	Level
+//Map	_control_	Delay Time
+//Map	_control_	Delay Synched Time
+//Map	_control_	Delay Pan
+//Map	_control_	Dist On
+//Map	_control_	Filter On
+//Map	_control_	Reverb Damp
+//Map	_control_	Reverb On
+//Map	_control_	Reverb SendReturn
+//Map	_control_	Level InOut
+//Map	_control_	Delay On
+//Map	_control_	Delay Keep Pitch
+//Map	_control_	Delay Ping Pong
+//Map	_control_	Delay Tempo Sync
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	Dist Post Filter
+//Map	_control_	Delay SendReturn
+//Map	_control_	Delay Roll
+//Map	_control_	Enabled
+//Map	_control_	Device Name
+//Map	_control_	Filter Lag
+//Map	_control_	Patch Name
+//Map	_control_	Variation=Rest
+//Map	_control_	Variation=Dist+Delay
+//Map	_control_	7 Rec Bank 1
+//Map	_control_	8 Rec Bank 1
+//Map	_control_	X
+//Map	_control_	Y
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	3 Rec Bank 1
+//Map	_control_	4 Rec Bank 1
+//Map	_control_	5 Rec Bank 1
+//Map	_control_	1 Rec Bank 2
+//Map	_control_	2 Rec Bank 2
+//Map	_control_	3 Rec Bank 2
+//Map	_control_	4 Rec Bank 2
+//Map	_control_	5 Rec Bank 2

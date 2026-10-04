@@ -1,0 +1,41 @@
+Scope	Propellerheads	ECF-42 Envelope Controlled Filter
+//Map	_control_	Mode
+//Map	_control_	Frequency
+//Map	_control_	Resonance
+//Map	_control_	Env Amount
+//Map	_control_	Velocity
+//Map	_control_	Attack
+//Map	_control_	Decay
+//Map	_control_	Sustain
+//Map	_control_	Release
+//Map	_control_	Trigger
+//Map	_control_	Enabled
+//Map	_control_	Device Name
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	Side=Left
+//Map	_control_	Side=Right
+//Map	_control_	C-1
+//Map	_control_	C#-1
+//Map	_control_	Select Patch Delta
+//Map	_control_	Flip=Flip Off
+//Map	_control_	Flip=Flip On
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	X
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Peak Meter
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF

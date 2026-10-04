@@ -1,0 +1,46 @@
+Scope	Propellerhead Software	se.propellerheads.Sweeper
+//Map	_control_	Freq
+//Map	_control_	Feedback
+//Map	_control_	Reso
+//Map	_control_	Volume
+//Map	_control_	LFO Freq Mod
+//Map	_control_	LFO Rate
+//Map	_control_	LFO Synced Rate
+//Map	_control_	Env Freq Mod
+//Map	_control_	Filter Drive
+//Map	_control_	Filter Type
+//Map	_control_	LFO Wave
+//Map	_control_	Enabled
+//Map	_control_	Type
+//Map	_control_	Mute Dry
+//Map	_control_	Polarity
+//Map	_control_	ModType
+//Map	_control_	BeatSync
+//Map	_control_	Trig On
+//Map	_control_	Stereo Mode
+//Map	_control_	LFO Sync
+//Map	_control_	Env Loop
+//Map	_control_	Env Rate
+//Map	_control_	Env Synced Rate
+//Map	_control_	Phaser Stages
+//Map	_control_	Spread
+//Map	_control_	Follow Gain
+//Map	_control_	DryWet
+//Map	_control_	Follow Attack
+//Map	_control_	Rate Mod
+//Map	_control_	LFO Amp Mod
+//Map	_control_	Env Amp Mod
+//Map	_control_	Bandwidth
+//Map	_control_	Device Name
+//Map	_control_	Patch Name
+//Map	_control_	Varation=A
+//Map	_control_	Varation=B
+//Map	_control_	Follow Release
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	7 Rec Bank 1
+//Map	_control_	8 Rec Bank 1
+//Map	_control_	X
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	3 Rec Bank 1

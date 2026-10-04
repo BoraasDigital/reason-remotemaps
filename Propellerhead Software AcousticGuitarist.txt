@@ -1,0 +1,11 @@
+Scope	Propellerhead Software	se.propellerheads.AcousticGuitarist
+//Map	_control_	Type
+//Map	_control_	Latch
+//Map	_control_	Doubling
+//Map	_control_	Character
+//Map	_control_	Swing
+//Map	_control_	Feel
+//Map	_control_	Attack
+//Map	_control_	Volume
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch

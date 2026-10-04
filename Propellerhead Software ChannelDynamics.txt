@@ -1,0 +1,29 @@
+Scope	Propellerhead Software	se.propellerheads.ChannelDynamics
+//Map	_control_	Input Gain
+//Map	_control_	Comp Ratio
+//Map	_control_	Comp Threshold
+//Map	_control_	Comp Release
+//Map	_control_	Gate Range
+//Map	_control_	Gate Hold
+//Map	_control_	Gate Threshold
+//Map	_control_	Mix
+//Map	_control_	Gate Release
+//Map	_control_	Enabled
+//Map	_control_	Sidechain
+//Map	_control_	Comp On
+//Map	_control_	Comp Fast On
+//Map	_control_	Comp Peak On
+//Map	_control_	Gate On
+//Map	_control_	Gate Fast On
+//Map	_control_	Gate Exp On
+//Map	_control_	Device Name
+//Map	_control_	Patch Name
+//Map	_control_	X
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	3 Rec Bank 1
+//Map	_control_	4 Rec Bank 1
+//Map	_control_	5 Rec Bank 1
+//Map	_control_	6 Rec Bank 1
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch

@@ -1,0 +1,55 @@
+Scope	Propellerhead Software	se.propellerheads.Monotone
+//Map	_control_	Osc Mix
+//Map	_control_	Filter Freq
+//Map	_control_	Amp Attack
+//Map	_control_	Amp Decay
+//Map	_control_	Amp Sustain
+//Map	_control_	Amp Release
+//Map	_control_	Chorus Amount
+//Map	_control_	Volume
+//Map	_control_	Chorus Rate
+//Map	_control_	Delay Amount
+//Map	_control_	Delay Feedback
+//Map	_control_	Osc Detune
+//Map	_control_	Osc1 Wave
+//Map	_control_	Osc2 Wave
+//Map	_control_	Filter Reso
+//Map	_control_	Filter Env Amount
+//Map	_control_	Filter Drive
+//Map	_control_	Filter Attack
+//Map	_control_	Filter Decay
+//Map	_control_	Filter Sustain
+//Map	_control_	Filter Release
+//Map	_control_	LFO Rate
+//Map	_control_	Filter LFO Amt
+//Map	_control_	Pitch LFO Amt
+//Map	_control_	FM Env Amt
+//Map	_control_	Noise
+//Map	_control_	Portamento Mode
+//Map	_control_	ReTrig
+//Map	_control_	Delay Pingpong
+//Map	_control_	Portamento
+//Map	_control_	LFO Wave
+//Map	_control_	Osc1 Oct
+//Map	_control_	Osc2 Oct
+//Map	_control_	Device Name
+//Map	_control_	Delay Time
+//Map	_control_	Patch Name
+//Map	_control_	Varation=Osc
+//Map	_control_	Varation=Env
+//Map	_control_	Varation=Filters
+//Map	_control_	Pitch Bend
+//Map	_control_	Mod Wheel
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	Filter Key Amt
+//Map	_control_	Chorus Spread
+//Map	_control_	7 Rec Bank 1
+//Map	_control_	8 Rec Bank 1
+//Map	_control_	Osc2 Pitch
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Variation=Filter&Amp
+//Map	_control_	Variation=Other

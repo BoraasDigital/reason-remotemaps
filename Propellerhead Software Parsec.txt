@@ -1,0 +1,114 @@
+Scope	Propellerhead Software	se.propellerheads.Parsec
+//Map	_control_	A Cutoff Freq
+//Map	_control_	A Cutoff Slope
+//Map	_control_	A Mod1 X
+//Map	_control_	A Gen X
+//Map	_control_	Amp Attack
+//Map	_control_	Amp Decay
+//Map	_control_	Amp Sustain
+//Map	_control_	Amp Release
+//Map	_control_	A Mod1 Y
+//Map	_control_	A Mod2 X
+//Map	_control_	A Mod2 Y
+//Map	_control_	B Gen X
+//Map	_control_	B Cutoff Freq
+//Map	_control_	B Mod1 X
+//Map	_control_	B Mod1 Y
+//Map	_control_	B Mod2 X
+//Map	_control_	B Mod2 Y
+//Map	_control_	Balance
+//Map	_control_	Spread
+//Map	_control_	Reverb Level
+//Map	_control_	Delay DryWet
+//Map	_control_	Env1 Attack
+//Map	_control_	Env1 Decay
+//Map	_control_	Env1 Sustain
+//Map	_control_	Env1 Release
+//Map	_control_	Env2 Delay
+//Map	_control_	Env2 Attack
+//Map	_control_	Env2 Hold
+//Map	_control_	Env2 Decay
+//Map	_control_	Env2 Sustain
+//Map	_control_	Env2 Release
+//Map	_control_	LFO1 Delay
+//Map	_control_	LFO1 Rate
+//Map	_control_	A Cutoff Kbd
+//Map	_control_	B Cutoff Slope
+//Map	_control_	B Cutoff Kbd
+//Map	_control_	Reverb Size
+//Map	_control_	Reverb Decay
+//Map	_control_	Delay Time
+//Map	_control_	Delay Feedback
+//Map	_control_	Delay On
+//Map	_control_	Reverb On
+//Map	_control_	A Mod1 On
+//Map	_control_	A Mod2 On
+//Map	_control_	B Mod1 On
+//Map	_control_	B Mod2 On
+//Map	_control_	A Phase Sync
+//Map	_control_	B Phase Sync
+//Map	_control_	LFO2 Sync
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	Gain
+//Map	_control_	Master Level
+//Map	_control_	Engine=EngA
+//Map	_control_	Engine=EngB
+//Map	_control_	Delay Time Synced
+//Map	_control_	Delay Sync
+//Map	_control_	A Gen Select
+//Map	_control_	A Mod1 Select
+//Map	_control_	A Oct
+//Map	_control_	A Mod2 Select
+//Map	_control_	Key Mode
+//Map	_control_	Reverb Damp
+//Map	_control_	B Gen Select
+//Map	_control_	B Mod1 Select
+//Map	_control_	B Oct
+//Map	_control_	B Mod2 Select
+//Map	_control_	B Enable
+//Map	_control_	Portamento
+//Map	_control_	Portamento Mode
+//Map	_control_	Device Name
+//Map	_control_	LFO2 Rate
+//Map	_control_	Aftertouch
+//Map	_control_	Patch Name
+//Map	_control_	Variation=Amp
+//Map	_control_	Variation=Env
+//Map	_control_	Variation=Mod
+//Map	_control_	Env2 Loop
+//Map	_control_	Variation=Amp&FX
+//Map	_control_	Variation=Env&LFO
+//Map	_control_	Variation=Gen&Mod
+//Map	_control_	LFO1 Wave
+//Map	_control_	LFO2 Wave
+//Map	_control_	LFO2 Synced Rate
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Link Engines
+//Map	_control_	Source 1
+//Map	_control_	Source 2
+//Map	_control_	Source 3
+//Map	_control_	Source 4
+//Map	_control_	Source 5
+//Map	_control_	Source 6
+//Map	_control_	Source 7
+//Map	_control_	Source 8
+//Map	_control_	Mod1 Dest1
+//Map	_control_	Mod2 Dest1
+//Map	_control_	Mod3 Dest1
+//Map	_control_	Mod4 Dest1
+//Map	_control_	Mod5 Dest1
+//Map	_control_	Mod6 Dest1
+//Map	_control_	Mod7 Dest1
+//Map	_control_	Mod8 Dest1
+//Map	_control_	Mod1 Dest1 Amt
+//Map	_control_	Mod2 Dest1 Amt
+//Map	_control_	Mod3 Dest1 Amt
+//Map	_control_	Mod4 Dest1 Amt
+//Map	_control_	Mod5 Dest1 Amt
+//Map	_control_	Mod6 Dest1 Amt
+//Map	_control_	Mod7 Dest1 Amt
+//Map	_control_	Mod8 Dest1 Amt

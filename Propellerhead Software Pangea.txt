@@ -1,0 +1,54 @@
+Scope	Propellerhead Software	se.propellerheads.Pangea
+//Map	_control_	Instrument
+//Map	_control_	Filter_Cutoff
+//Map	_control_	Filter_Reso
+//Map	_control_	Filter_Env
+//Map	_control_	Filter_Attack
+//Map	_control_	Filter_Release
+//Map	_control_	Amp_Attack
+//Map	_control_	Amp_Release
+//Map	_control_	SampleStart
+//Map	_control_	Filter_Type
+//Map	_control_	Filter_Decay
+//Map	_control_	Filter_Sustain
+//Map	_control_	Reverb_Time
+//Map	_control_	Reverb_Amount
+//Map	_control_	Amp_Decay
+//Map	_control_	Amp_Sustain
+//Map	_control_	Synced_Delay_Time
+//Map	_control_	Delay_Amount
+//Map	_control_	Octave
+//Map	_control_	Filter_Velocity
+//Map	_control_	Filter_On
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	Reverb_PreDelay
+//Map	_control_	Reverb_HighDamp
+//Map	_control_	Delay_Time
+//Map	_control_	Delay_Feedback
+//Map	_control_	Delay_On
+//Map	_control_	Delay_Sync
+//Map	_control_	Delay_PingPong
+//Map	_control_	Reverb_On
+//Map	_control_	Reverb_LowDamp
+//Map	_control_	Delay_Damp
+//Map	_control_	Master_Volume
+//Map	_control_	Filter_KeyFollow
+//Map	_control_	Device Name
+//Map	_control_	ModWheel_to_Amp_Level
+//Map	_control_	Aftertouch
+//Map	_control_	Patch Name
+//Map	_control_	Semitune
+//Map	_control_	Finetune
+//Map	_control_	Variation=Env
+//Map	_control_	Variation=Filters
+//Map	_control_	Variation=Instrument
+//Map	_control_	Pitch Bend
+//Map	_control_	Mod Wheel
+//Map	_control_	7 Rec Bank 1
+//Map	_control_	8 Rec Bank 1
+//Map	_control_	X
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	3 Rec Bank 1
+//Map	_control_	4 Rec Bank 1

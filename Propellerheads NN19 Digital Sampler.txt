@@ -1,0 +1,123 @@
+Scope	Propellerheads	NN19 Digital Sampler
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	Filter Freq
+//Map	_control_	Filter Res
+//Map	_control_	Filter Kbd Track
+//Map	_control_	Filter Env Amount
+//Map	_control_	Filter Env Attack
+//Map	_control_	Filter Env Decay
+//Map	_control_	Filter Env Sustain
+//Map	_control_	Filter Env Release
+//Map	_control_	Filter On/Off
+//Map	_control_	Filter Mode
+//Map	_control_	Filter Env Invert
+//Map	_control_	Osc Octave
+//Map	_control_	Portamento
+//Map	_control_	LFO Rate
+//Map	_control_	LFO Amount
+//Map	_control_	Amp Env Attack
+//Map	_control_	Amp Env Decay
+//Map	_control_	Amp Env Sustain
+//Map	_control_	Amp Env Release
+//Map	_control_	LFO Wave
+//Map	_control_	LFO Dest
+//Map	_control_	LFO Sync Enable
+//Map	_control_	Master Level
+//Map	_control_	Sample Start
+//Map	_control_	Osc Semitone
+//Map	_control_	Osc Fine Tune
+//Map	_control_	Osc Env Amount
+//Map	_control_	Stereo Spread
+//Map	_control_	Filter Freq Ext Mod
+//Map	_control_	LFO Ext Mod
+//Map	_control_	Amp Ext Mod
+//Map	_control_	Sample
+//Map	_control_	Osc Kbd Track
+//Map	_control_	High Quality Interpolation
+//Map	_control_	Low Bandwidth On/Off
+//Map	_control_	Filter Env Vel Amount
+//Map	_control_	Filter Decay Vel Amount
+//Map	_control_	Amp Vel Amount
+//Map	_control_	Amp Attack Vel Amount
+//Map	_control_	Sample Start Vel Amount
+//Map	_control_	Polyphony
+//Map	_control_	Filter Freq Mod Wheel Amount
+//Map	_control_	Filter Res Mod Wheel Amount
+//Map	_control_	Filter Decay Mod Wheel Amount
+//Map	_control_	Amp Mod Wheel Amount
+//Map	_control_	LFO Mod Wheel Amount
+//Map	_control_	Mod Wheel
+//Map	_control_	Key Mode
+//Map	_control_	Device Name
+//Map	_control_	Spread Mode
+//Map	_control_	Patch Name
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	theMode=Osc
+//Map	_control_	theMode=Osc2
+//Map	_control_	theMode=LFO
+//Map	_control_	theMode=LFO2
+//Map	_control_	theMode=Filter
+//Map	_control_	theMode=Filter2
+//Map	_control_	theMode=Amp
+//Map	_control_	theMode=Amp2
+//Map	_control_	theMode=Other
+//Map	_control_	theMode=Other2
+//Map	_control_	Solo Sample
+//Map	_control_	Pitch Bend
+//Map	_control_	C-1
+//Map	_control_	C#-1
+//Map	_control_	Variation=Env
+//Map	_control_	Variation=Mod
+//Map	_control_	Ext Mod Select
+//Map	_control_	Pitch Bend Range
+//Map	_control_	Keyboard Shortcut Variations=FilterMod
+//Map	_control_	Keyboard Shortcut Variations=Env
+//Map	_control_	Keyboard Shortcut Variations=Osc
+//Map	_control_	Keyboard Shortcut Variations=
+//Map	_control_	Select Patch Delta
+//Map	_control_	Keyboard Shortcut Variations=v1
+//Map	_control_	Keyboard Shortcut Variations=v2
+//Map	_control_	Keyboard Shortcut Variations=v3
+//Map	_control_	7_2
+//Map	_control_	Keyboard Shortcut Variations=Filter
+//Map	_control_	Keyboard Shortcut Variations=Amp
+//Map	_control_	Layers=Osc
+//Map	_control_	Layers=Filter
+//Map	_control_	Layers=LFO
+//Map	_control_	Layers=Amp
+//Map	_control_	Filter_vars=Env
+//Map	_control_	Filter_vars=Flt
+//Map	_control_	Flip=Flip Off
+//Map	_control_	Flip=Flip On
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	Layers=Vel
+//Map	_control_	Layers=Envs
+//Map	_control_	7 Rec Bank 1
+//Map	_control_	8 Rec Bank 1
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	3 Rec Bank 1
+//Map	_control_	4 Rec Bank 1
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Keyboard Shortcut Variations=Filter&LFO
+//Map	_control_	Note On Indicator
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF
+//Map	_control_	ControlSet=Main
+//Map	_control_	ControlSet=Amp & Osc
+//Map	_control_	ControlSet=Filter
+//Map	_control_	ControlSet=LFO

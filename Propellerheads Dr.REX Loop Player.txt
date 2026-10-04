@@ -1,0 +1,159 @@
+Scope	Propellerheads	Dr.REX Loop Player
+//Map	_control_	Select Loop 1
+//Map	_control_	Select Loop 2
+//Map	_control_	Select Loop 3
+//Map	_control_	Select Loop 4
+//Map	_control_	Select Loop 5
+//Map	_control_	Select Loop 6
+//Map	_control_	Select Loop 7
+//Map	_control_	Select Loop 8
+//Map	_control_	Filter Freq
+//Map	_control_	Filter Res
+//Map	_control_	Filter Env Amount
+//Map	_control_	Filter Env Vel Amount
+//Map	_control_	Osc Octave
+//Map	_control_	Transpose
+//Map	_control_	LFO1 Rate
+//Map	_control_	LFO1 Amount
+//Map	_control_	Filter Env Attack
+//Map	_control_	Filter Env Decay
+//Map	_control_	Filter Env Sustain
+//Map	_control_	Filter Env Release
+//Map	_control_	Amp Env Attack
+//Map	_control_	Amp Env Decay
+//Map	_control_	Amp Env Sustain
+//Map	_control_	Amp Env Release
+//Map	_control_	Filter Mode
+//Map	_control_	LFO1 Wave
+//Map	_control_	LFO1 Dest
+//Map	_control_	Master Level
+//Map	_control_	Select Next Patch
+//Map	_control_	Select Previous Patch
+//Map	_control_	Osc Fine Tune
+//Map	_control_	Osc Env Amount
+//Map	_control_	Filter Freq Mod Wheel Amount
+//Map	_control_	Filter Res Mod Wheel Amount
+//Map	_control_	Filter Decay Mod Wheel Amount
+//Map	_control_	Filter On/Off
+//Map	_control_	LFO Sync Enable
+//Map	_control_	Run
+//Map	_control_	Filter Decay Vel Amount
+//Map	_control_	Amp Vel Amount
+//Map	_control_	Polyphony
+//Map	_control_	Mod Wheel
+//Map	_control_	Loop Level
+//Map	_control_	Loop Transpose
+//Map	_control_	Device Name
+//Map	_control_	Patch Name
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	theMode=Osc
+//Map	_control_	theMode=Slice
+//Map	_control_	theMode=Filter
+//Map	_control_	theMode=FilterEnv
+//Map	_control_	theMode=FilterEnv2
+//Map	_control_	theMode=LFO
+//Map	_control_	theMode=LFO2
+//Map	_control_	theMode=Amp
+//Map	_control_	theMode=Amp2
+//Map	_control_	Selected Loop in Editor
+//Map	_control_	Notes to Slot
+//Map	_control_	Pitch Bend
+//Map	_control_	Pitch Bend Range
+//Map	_control_	G0
+//Map	_control_	C-1
+//Map	_control_	C#-1
+//Map	_control_	Variation=Env
+//Map	_control_	Variation=Mod
+//Map	_control_	C1
+//Map	_control_	C#1
+//Map	_control_	D1
+//Map	_control_	D#1
+//Map	_control_	E1
+//Map	_control_	F1
+//Map	_control_	F#1
+//Map	_control_	G1
+//Map	_control_	G#1
+//Map	_control_	A1
+//Map	_control_	A#1
+//Map	_control_	B1
+//Map	_control_	Low Bandwidth On/Off
+//Map	_control_	Selected Loop Slot
+//Map	_control_	Keyboard Shortcut Variations=FilterMod
+//Map	_control_	Keyboard Shortcut Variations=Env
+//Map	_control_	Keyboard Shortcut Variations=Osc
+//Map	_control_	Keyboard Shortcut Variations=
+//Map	_control_	Select Patch Delta
+//Map	_control_	Keyboard Shortcut Variations=v1
+//Map	_control_	Keyboard Shortcut Variations=v2
+//Map	_control_	Keyboard Shortcut Variations=v3
+//Map	_control_	2_1
+//Map	_control_	2_2
+//Map	_control_	2_3
+//Map	_control_	2_4
+//Map	_control_	2_5
+//Map	_control_	3_1
+//Map	_control_	3_2
+//Map	_control_	3_3
+//Map	_control_	3_4
+//Map	_control_	3_5
+//Map	_control_	4_5
+//Map	_control_	5_5
+//Map	_control_	6_1
+//Map	_control_	6_2
+//Map	_control_	6_3
+//Map	_control_	6_4
+//Map	_control_	6_5
+//Map	_control_	7_4
+//Map	_control_	7_5
+//Map	_control_	7_1
+//Map	_control_	8_4
+//Map	_control_	8_5
+//Map	_control_	8_1
+//Map	_control_	High Quality Interpolation
+//Map	_control_	Enable Loop Playback
+//Map	_control_	Trigger Next Setting
+//Map	_control_	Follow Loop Playback
+//Map	_control_	Keyboard Shortcut Variations=LFOamp
+//Map	_control_	Keyboard Shortcut Variations=Filter
+//Map	_control_	Keyboard Shortcut Variations=Extras
+//Map	_control_	Low Bandwidth
+//Map	_control_	Layers=Osc
+//Map	_control_	Layers=Filter
+//Map	_control_	Layers=LFO
+//Map	_control_	Layers=Amp
+//Map	_control_	Filter_vars=Env
+//Map	_control_	Filter_vars=Flt
+//Map	_control_	Flip=Flip Off
+//Map	_control_	Flip=Flip On
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	Layers=Ctrls
+//Map	_control_	Layers=Envs
+//Map	_control_	7 Rec Bank 1
+//Map	_control_	8 Rec Bank 1
+//Map	_control_	X
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	3 Rec Bank 1
+//Map	_control_	4 Rec Bank 1
+//Map	_control_	5 Rec Bank 1
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Note On Indicator
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF
+//Map	_control_	ControlSet=Main
+//Map	_control_	ControlSet=Amp
+//Map	_control_	ControlSet=Filter
+//Map	_control_	ControlSet=LFO

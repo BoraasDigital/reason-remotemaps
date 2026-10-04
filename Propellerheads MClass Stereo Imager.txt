@@ -1,0 +1,35 @@
+Scope	Propellerheads	MClass Stereo Imager
+//Map	_control_	Low Width
+//Map	_control_	X-Over Frequency
+//Map	_control_	High Width
+//Map	_control_	Solo Mode
+//Map	_control_	Low Band Active
+//Map	_control_	High Band Active
+//Map	_control_	Separate Out Mode
+//Map	_control_	Enabled
+//Map	_control_	Device Name
+//Map	_control_	Low Width Meter
+//Map	_control_	High Width Meter
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	Select Patch Delta
+//Map	_control_	Flip=Flip Off
+//Map	_control_	Flip=Flip On
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	X
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Peak Meter
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF

@@ -1,0 +1,14 @@
+Scope	Propellerheads	Spider Audio Merger & Splitter
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	Device Name
+//Map	_control_	Merge Input 1 Left Activity
+//Map	_control_	Merge Input 2 Left Activity
+//Map	_control_	Merge Input 3 Left Activity
+//Map	_control_	Merge Input 4 Left Activity
+//Map	_control_	Merge Input 1 Right Activity
+//Map	_control_	Merge Input 2 Right Activity
+//Map	_control_	Merge Input 3 Right Activity
+//Map	_control_	Merge Input 4 Right Activity
+//Map	_control_	Split Input Left Activity
+//Map	_control_	Split Input Right Activity

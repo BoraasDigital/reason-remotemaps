@@ -1,0 +1,47 @@
+Scope	Propellerhead Software	se.propellerheads.RV9
+//Map	_control_	Reverb Type
+//Map	_control_	Decay
+//Map	_control_	Early Level
+//Map	_control_	Size
+//Map	_control_	Shimmer Amount
+//Map	_control_	LF Damp
+//Map	_control_	HF Damp
+//Map	_control_	Dry-Wet
+//Map	_control_	Predelay Time
+//Map	_control_	Predelay Sync Time
+//Map	_control_	Level Ducking Amount
+//Map	_control_	Decay Ducking Amount
+//Map	_control_	Grain Length
+//Map	_control_	Grain Rate
+//Map	_control_	Grain Pitch Mod
+//Map	_control_	Grain Reverse
+//Map	_control_	Enabled
+//Map	_control_	Kill
+//Map	_control_	Freeze
+//Map	_control_	Predelay On
+//Map	_control_	Ducking On
+//Map	_control_	EQ On
+//Map	_control_	Shimmer On
+//Map	_control_	Shimmer Interval
+//Map	_control_	Section=Basic
+//Map	_control_	Section=Additional
+//Map	_control_	Spectral EQ Preset
+//Map	_control_	Spectral EQ Shift
+//Map	_control_	Spectral EQ Amount
+//Map	_control_	Tonal Resonance Amount
+//Map	_control_	Spectral EQ On
+//Map	_control_	Spectral Size
+//Map	_control_	Tonal Resonance On
+//Map	_control_	Echo Sync
+//Map	_control_	Plate Type
+//Map	_control_	Spring Type
+//Map	_control_	Tonal Resonance Preset
+//Map	_control_	Predelay Sync
+//Map	_control_	Recover Time
+//Map	_control_	Width
+//Map	_control_	Echo Time
+//Map	_control_	Device Name
+//Map	_control_	Modulation
+//Map	_control_	Patch Name
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch

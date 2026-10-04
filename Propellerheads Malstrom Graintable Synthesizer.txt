@@ -1,0 +1,230 @@
+Scope	Propellerheads	Malstrom Graintable Synthesizer
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	Oscillator A Motion
+//Map	_control_	Oscillator A Index
+//Map	_control_	Oscillator A Shift
+//Map	_control_	Oscillator A Octave
+//Map	_control_	Oscillator A Attack
+//Map	_control_	Oscillator A Decay
+//Map	_control_	Oscillator A Sustain
+//Map	_control_	Oscillator A Release
+//Map	_control_	Oscillator A On/Off
+//Map	_control_	Route Oscillator A To Shaper
+//Map	_control_	Route Oscillator A To Filter B
+//Map	_control_	Oscillator B Motion
+//Map	_control_	Oscillator B Index
+//Map	_control_	Oscillator B Shift
+//Map	_control_	Oscillator B Octave
+//Map	_control_	Oscillator B Attack
+//Map	_control_	Oscillator B Decay
+//Map	_control_	Oscillator B Sustain
+//Map	_control_	Oscillator B Release
+//Map	_control_	Oscillator B On/Off
+//Map	_control_	Route Oscillator B To Filter B
+//Map	_control_	Route Filter B To Shaper
+//Map	_control_	Filter A Freq
+//Map	_control_	Filter A Resonance
+//Map	_control_	Filter B Freq
+//Map	_control_	Filter B Resonance
+//Map	_control_	Filter Env Attack
+//Map	_control_	Filter Env Decay
+//Map	_control_	Filter Env Sustain
+//Map	_control_	Filter Env Release
+//Map	_control_	Filter A On/Off
+//Map	_control_	Filter A Mode
+//Map	_control_	Filter A Env
+//Map	_control_	Filter B On/Off
+//Map	_control_	Filter B Mode
+//Map	_control_	Filter B Env
+//Map	_control_	Modulator A Rate
+//Map	_control_	Modulator A To Index
+//Map	_control_	Modulator A To Shift
+//Map	_control_	Modulator B Rate
+//Map	_control_	Modulator B To Filter
+//Map	_control_	Modulator B To Modulator A
+//Map	_control_	Portamento
+//Map	_control_	Master Level
+//Map	_control_	Shaper ON/OFF
+//Map	_control_	Filter B ON/OFF
+//Map	_control_	Oscillator A Gain
+//Map	_control_	Oscillator B Gain
+//Map	_control_	Filter Env Amount
+//Map	_control_	Shaper Amount
+//Map	_control_	Shaper Mode
+//Map	_control_	Spread Amount
+//Map	_control_	Filter Env Invert
+//Map	_control_	Shaper On/Off
+//Map	_control_	Modulator A To Pitch
+//Map	_control_	Modulator B To Motion
+//Map	_control_	Modulator B To Level
+//Map	_control_	Modulator A Curve
+//Map	_control_	Modulator A Target
+//Map	_control_	Modulator B Curve
+//Map	_control_	Modulator B Target
+//Map	_control_	Velocity To Level A
+//Map	_control_	Velocity To Level B
+//Map	_control_	Velocity To Filter Env
+//Map	_control_	Modulator A On/Off
+//Map	_control_	Modulator A One Shot
+//Map	_control_	Modulator A Sync
+//Map	_control_	Modulator B On/Off
+//Map	_control_	Modulator B One Shot
+//Map	_control_	Modulator B Sync
+//Map	_control_	Oscillator A Semi
+//Map	_control_	Oscillator A Cent
+//Map	_control_	Oscillator B Semi
+//Map	_control_	Oscillator B Cent
+//Map	_control_	Mod Wheel
+//Map	_control_	Mod Wheel To Modulator
+//Map	_control_	Modulator B to Modulator A
+//Map	_control_	Polyphony
+//Map	_control_	Pitch Bend Range
+//Map	_control_	Section=Osc
+//Map	_control_	Section=Filters
+//Map	_control_	Legato On/Off
+//Map	_control_	Filter A Kbd Track
+//Map	_control_	Filter B Kbd Track
+//Map	_control_	Device Name
+//Map	_control_	Modulator B rate
+//Map	_control_	Patch Name
+//Map	_control_	Velocity To Modulator
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	theMode=ModA
+//Map	_control_	theMode=ModB
+//Map	_control_	theMode=OscA
+//Map	_control_	theMode=OscA2
+//Map	_control_	theMode=OscB
+//Map	_control_	theMode=OscB2
+//Map	_control_	theMode=Shaper
+//Map	_control_	theMode=FilterEnv
+//Map	_control_	theMode=FilterA
+//Map	_control_	theMode=FilterB
+//Map	_control_	Pitch Bend
+//Map	_control_	Mod Wheel To Filter
+//Map	_control_	Mod Wheel To Shift
+//Map	_control_	Mod Wheel To Index
+//Map	_control_	C-1
+//Map	_control_	C#-1
+//Map	_control_	Variation=Filter
+//Map	_control_	Variation=Osc/Mod A
+//Map	_control_	Variation=Osc/Mod B
+//Map	_control_	Variation=OscA
+//Map	_control_	Variation=OscB
+//Map	_control_	Variation=Osc
+//Map	_control_	Velocity To Attack
+//Map	_control_	Velocity To Shift
+//Map	_control_	Velocity Target
+//Map	_control_	Mod Wheel Target
+//Map	_control_	Keyboard Shortcut Variations=FilterMod
+//Map	_control_	Keyboard Shortcut Variations=Env
+//Map	_control_	Keyboard Shortcut Variations=Osc A
+//Map	_control_	Keyboard Shortcut Variations=Osc B
+//Map	_control_	Select Patch Delta
+//Map	_control_	Keyboard Shortcut Variations=v1
+//Map	_control_	Keyboard Shortcut Variations=v2
+//Map	_control_	Keyboard Shortcut Variations=v3
+//Map	_control_	Keyboard Shortcut Variations=Oscs
+//Map	_control_	Keyboard Shortcut Variations=Filters
+//Map	_control_	Keyboard Shortcut Variations=Mods
+//Map	_control_	Modulator A to Filter
+//Map	_control_	Modulator B to Filter
+//Map	_control_	Keyboard Shortcut Variations=OscEnv
+//Map	_control_	Keyboard Shortcut Variations=Page 1
+//Map	_control_	Keyboard Shortcut Variations=Page 2
+//Map	_control_	Keyboard Shortcut Variations=Page 3
+//Map	_control_	Keyboard Shortcut Variations=Page 4
+//Map	_control_	Velocity to Level A
+//Map	_control_	Velocity to Attack
+//Map	_control_	Mod Wheel to Index
+//Map	_control_	Mod Wheel to Shift
+//Map	_control_	Velocity to Level B
+//Map	_control_	Velocity to Shift
+//Map	_control_	Mod Wheel to Filter
+//Map	_control_	Velocity to Filter Env
+//Map	_control_	Velocity to Modulator
+//Map	_control_	Mod Wheel to Modulator
+//Map	_control_	Modulator A to Pitch
+//Map	_control_	Modulator A to Index
+//Map	_control_	Modulator A to Shift
+//Map	_control_	Filter A KBD Track
+//Map	_control_	Filter B KBD Track
+//Map	_control_	Route Oscillator A to Shaper
+//Map	_control_	Route Oscillator A to Filter B
+//Map	_control_	Route Oscillator B to Filter B
+//Map	_control_	Modulator B to Motion
+//Map	_control_	Modulator B to Level
+//Map	_control_	Layers=Osc
+//Map	_control_	Layers=Filter
+//Map	_control_	Layers=Mod
+//Map	_control_	Layers=VelMod
+//Map	_control_	Osc_vars=OscA
+//Map	_control_	Osc_vars=Envs
+//Map	_control_	Osc_vars=OscB
+//Map	_control_	Filter_vars=FilterA
+//Map	_control_	Filter_vars=FilterEnv
+//Map	_control_	Filter_vars=FilterB
+//Map	_control_	Mod_vars=ModB
+//Map	_control_	Mod_vars=ModA
+//Map	_control_	Flip=Flip Off
+//Map	_control_	Flip=Flip On
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	Layers=Osc1
+//Map	_control_	Layers=Osc2
+//Map	_control_	Layers=Velocity
+//Map	_control_	Layers=ModA
+//Map	_control_	Layers=ModB
+//Map	_control_	Layers=FilterEnv
+//Map	_control_	Layers=Envs
+//Map	_control_	Route Filter B to Shaper
+//Map	_control_	7 Rec Bank 1
+//Map	_control_	8 Rec Bank 1
+//Map	_control_	X
+//Map	_control_	2 Bank 3
+//Map	_control_	3 Bank 3
+//Map	_control_	4 Bank 3
+//Map	_control_	5 Bank 3
+//Map	_control_	6 Bank 3
+//Map	_control_	7 Bank 3
+//Map	_control_	8 Bank 3
+//Map	_control_	9 Bank 3
+//Map	_control_	1 Bank 3
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	3 Rec Bank 1
+//Map	_control_	4 Rec Bank 1
+//Map	_control_	5 Rec Bank 1
+//Map	_control_	6 Rec Bank 1
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Variation=Mod
+//Map	_control_	Keyboard Shortcut Variations=Osc/Mod B
+//Map	_control_	Keyboard Shortcut Variations=Osc/Mod A
+//Map	_control_	Keyboard Shortcut Variations=Filter
+//Map	_control_	Note On Indicator
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF
+//Map	_control_	ControlSet=Main
+//Map	_control_	ControlSet=Osc A
+//Map	_control_	ControlSet=Amp
+//Map	_control_	ControlSet=Filter
+//Map	_control_	ControlSet=LFO
+//Map	_control_	ControlSet=Osc B
+//Map	_control_	Filter A Frequency
+//Map	_control_	Amp Env Attack
+//Map	_control_	Amp Env Decay
+//Map	_control_	Amp Env Sustain
+//Map	_control_	Amp Env Release
+//Map	_control_	Spread

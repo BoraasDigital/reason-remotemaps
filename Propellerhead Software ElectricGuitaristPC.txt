@@ -1,0 +1,16 @@
+Scope	Propellerhead Software	se.propellerheads.ElectricGuitaristPC
+//Map	_control_	Guitar
+//Map	_control_	Drop D
+//Map	_control_	Latch
+//Map	_control_	Doubling
+//Map	_control_	Amp
+//Map	_control_	Drive
+//Map	_control_	Swing
+//Map	_control_	Slapback
+//Map	_control_	Echo
+//Map	_control_	Chorus
+//Map	_control_	Reverb
+//Map	_control_	Volume
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	Feel

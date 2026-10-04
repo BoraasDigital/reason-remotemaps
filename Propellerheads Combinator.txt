@@ -1,0 +1,71 @@
+Scope	Propellerheads	Combinator
+//Map	_control_	Rotary 1
+//Map	_control_	Rotary 2
+//Map	_control_	Rotary 3
+//Map	_control_	Rotary 4
+//Map	_control_	Button 1
+//Map	_control_	Button 2
+//Map	_control_	Button 3
+//Map	_control_	Button 4
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	Enabled
+//Map	_control_	Mod Wheel
+//Map	_control_	Run Pattern Devices
+//Map	_control_	Pitch Bend
+//Map	_control_	Rotary 5
+//Map	_control_	Rotary 6
+//Map	_control_	Rotary 7
+//Map	_control_	Rotary 8
+//Map	_control_	Button 5
+//Map	_control_	Button 6
+//Map	_control_	Button 7
+//Map	_control_	Button 8
+//Map	_control_	Rotary 9
+//Map	_control_	Rotary 10
+//Map	_control_	Rotary 11
+//Map	_control_	Rotary 12
+//Map	_control_	Button 9
+//Map	_control_	Button 10
+//Map	_control_	Button 11
+//Map	_control_	Button 12
+//Map	_control_	Rotary 13
+//Map	_control_	Rotary 14
+//Map	_control_	Rotary 15
+//Map	_control_	Rotary 16
+//Map	_control_	Device Name
+//Map	_control_	Patch Name
+//Map	_control_	Bypass All FX
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	Select Patch Delta
+//Map	_control_	Run pattern Devices
+//Map	_control_	Flip=Flip Off
+//Map	_control_	Flip=Flip On
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	7 Rec Bank 1
+//Map	_control_	8 Rec Bank 1
+//Map	_control_	X
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	3 Rec Bank 1
+//Map	_control_	4 Rec Bank 1
+//Map	_control_	5 Rec Bank 1
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Audio In Indicator
+//Map	_control_	Audio Out Indicator
+//Map	_control_	Note On Indicator
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF

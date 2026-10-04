@@ -1,0 +1,1967 @@
+Scope	Propellerheads	Reason Master Section
+//Map	_control_	Previous 8 Remote Base Channel
+//Map	_control_	Next 8 Remote Base Channel
+//Map	_control_	Channel 1 Level
+//Map	_control_	Channel 2 Level
+//Map	_control_	Channel 3 Level
+//Map	_control_	Channel 4 Level
+//Map	_control_	Channel 5 Level
+//Map	_control_	Channel 6 Level
+//Map	_control_	Channel 7 Level
+//Map	_control_	Channel 8 Level
+//Map	_control_	Channel 1 Mute
+//Map	_control_	Channel 2 Mute
+//Map	_control_	Channel 3 Mute
+//Map	_control_	Channel 4 Mute
+//Map	_control_	Channel 5 Mute
+//Map	_control_	Channel 6 Mute
+//Map	_control_	Channel 7 Mute
+//Map	_control_	Channel 8 Mute
+//Map	_control_	Rotary 1
+//Map	_control_	Rotary 2
+//Map	_control_	Rotary 3
+//Map	_control_	Rotary 4
+//Map	_control_	Threshold
+//Map	_control_	Ratio
+//Map	_control_	Make-Up Gain
+//Map	_control_	Master Level
+//Map	_control_	Bypass Insert FX
+//Map	_control_	Compressor On
+//Map	_control_	Button 1
+//Map	_control_	Button 2
+//Map	_control_	Button 3
+//Map	_control_	Button 4
+//Map	_control_	FX1 Return Level
+//Map	_control_	FX2 Return Level
+//Map	_control_	FX3 Return Level
+//Map	_control_	FX4 Return Level
+//Map	_control_	FX5 Return Level
+//Map	_control_	FX6 Return Level
+//Map	_control_	FX7 Return Level
+//Map	_control_	FX8 Return Level
+//Map	_control_	FX1 Mute
+//Map	_control_	FX2 Mute
+//Map	_control_	FX3 Mute
+//Map	_control_	FX4 Mute
+//Map	_control_	FX5 Mute
+//Map	_control_	FX6 Mute
+//Map	_control_	FX7 Mute
+//Map	_control_	FX8 Mute
+//Map	_control_	Channel 1 Pan
+//Map	_control_	Channel 2 Pan
+//Map	_control_	Channel 3 Pan
+//Map	_control_	Channel 4 Pan
+//Map	_control_	Channel 5 Pan
+//Map	_control_	Channel 6 Pan
+//Map	_control_	Channel 7 Pan
+//Map	_control_	Channel 8 Pan
+//Map	_control_	Attack
+//Map	_control_	Release
+//Map	_control_	FX1 Pan
+//Map	_control_	FX2 Pan
+//Map	_control_	FX3 Pan
+//Map	_control_	FX4 Pan
+//Map	_control_	FX5 Pan
+//Map	_control_	FX6 Pan
+//Map	_control_	FX7 Pan
+//Map	_control_	FX8 Pan
+//Map	_control_	Previous Remote Base Channel
+//Map	_control_	Next Remote Base Channel
+//Map	_control_	Key On
+//Map	_control_	Inserts Pre
+//Map	_control_	Select Prev Insert FX Patch
+//Map	_control_	Select Next Insert FX Patch
+//Map	_control_	Channel 1 LPF Frequency
+//Map	_control_	Channel 1 HPF Frequency
+//Map	_control_	Channel 2 LPF Frequency
+//Map	_control_	Channel 2 HPF Frequency
+//Map	_control_	Channel 3 LPF Frequency
+//Map	_control_	Channel 3 HPF Frequency
+//Map	_control_	Channel 4 LPF Frequency
+//Map	_control_	Channel 4 HPF Frequency
+//Map	_control_	Params=Mute+Filters
+//Map	_control_	Params=Sends
+//Map	_control_	Channel 1 LPF On
+//Map	_control_	Channel 1 HPF On
+//Map	_control_	Channel 1 Width
+//Map	_control_	Channel 1 Solo
+//Map	_control_	Channel 1 FX1 Send Level
+//Map	_control_	Channel 1 FX1 Send On
+//Map	_control_	Channel 1 FX2 Send Level
+//Map	_control_	Channel 1 FX2 Send On
+//Map	_control_	Channel 1 FX3 Send Level
+//Map	_control_	Channel 1 FX3 Send On
+//Map	_control_	Channel 1 FX4 Send Level
+//Map	_control_	Channel 1 FX4 Send On
+//Map	_control_	Channel 2 LPF On
+//Map	_control_	Channel 2 HPF On
+//Map	_control_	Channel 2 Width
+//Map	_control_	Channel 2 Solo
+//Map	_control_	Channel 2 FX1 Send Level
+//Map	_control_	Channel 2 FX1 Send On
+//Map	_control_	Channel 2 FX2 Send Level
+//Map	_control_	Channel 2 FX2 Send On
+//Map	_control_	Channel 2 FX3 Send Level
+//Map	_control_	Channel 2 FX3 Send On
+//Map	_control_	Channel 2 FX4 Send Level
+//Map	_control_	Channel 2 FX4 Send On
+//Map	_control_	Channel 3 LPF On
+//Map	_control_	Channel 3 HPF On
+//Map	_control_	Channel 3 Width
+//Map	_control_	Channel 3 Solo
+//Map	_control_	Channel 3 FX1 Send Level
+//Map	_control_	Channel 3 FX1 Send On
+//Map	_control_	Channel 3 FX2 Send Level
+//Map	_control_	Channel 3 FX2 Send On
+//Map	_control_	Channel 3 FX3 Send Level
+//Map	_control_	Channel 3 FX3 Send On
+//Map	_control_	Channel 3 FX4 Send Level
+//Map	_control_	Channel 3 FX4 Send On
+//Map	_control_	Channel 4 LPF On
+//Map	_control_	Channel 4 HPF On
+//Map	_control_	Channel 4 Width
+//Map	_control_	Channel 4 Solo
+//Map	_control_	Channel 4 FX1 Send Level
+//Map	_control_	Channel 4 FX1 Send On
+//Map	_control_	Channel 4 FX2 Send Level
+//Map	_control_	Channel 4 FX2 Send On
+//Map	_control_	Channel 4 FX3 Send Level
+//Map	_control_	Channel 4 FX3 Send On
+//Map	_control_	Channel 4 FX4 Send Level
+//Map	_control_	Channel 4 FX4 Send On
+//Map	_control_	Dim -20dB
+//Map	_control_	Remote Base Channel Delta
+//Map	_control_	Channel 1 C Ratio
+//Map	_control_	Channel 1 C Threshold
+//Map	_control_	Channel 1 HMF Gain
+//Map	_control_	Channel 1 HMF Frequency
+//Map	_control_	Channel 1 HMF Q
+//Map	_control_	Channel 1 LMF Gain
+//Map	_control_	Channel 1 LMF Frequency
+//Map	_control_	Channel 1 LMF Q
+//Map	_control_	Channel 1 Channel Name
+//Map	_control_	Channel 5 Solo
+//Map	_control_	Channel 6 Solo
+//Map	_control_	Channel 7 Solo
+//Map	_control_	Channel 8 Solo
+//Map	_control_	All Mutes Off
+//Map	_control_	All Solo Off
+//Map	_control_	Channel 1 VU Meter
+//Map	_control_	Channel 2 VU Meter
+//Map	_control_	Channel 3 VU Meter
+//Map	_control_	Channel 4 VU Meter
+//Map	_control_	Channel 5 VU Meter
+//Map	_control_	Channel 6 VU Meter
+//Map	_control_	Channel 7 VU Meter
+//Map	_control_	Channel 8 VU Meter
+//Map	_control_	Channel 5 Width
+//Map	_control_	Channel 6 Width
+//Map	_control_	Channel 7 Width
+//Map	_control_	Channel 8 Width
+//Map	_control_	Channel 9 Pan
+//Map	_control_	Channel 10 Pan
+//Map	_control_	Channel 11 Pan
+//Map	_control_	Channel 12 Pan
+//Map	_control_	Channel 13 Pan
+//Map	_control_	Channel 14 Pan
+//Map	_control_	Channel 15 Pan
+//Map	_control_	Channel 16 Pan
+//Map	_control_	Channel 9 Level
+//Map	_control_	Channel 10 Level
+//Map	_control_	Channel 11 Level
+//Map	_control_	Channel 12 Level
+//Map	_control_	Channel 13 Level
+//Map	_control_	Channel 14 Level
+//Map	_control_	Channel 15 Level
+//Map	_control_	Channel 16 Level
+//Map	_control_	Channel 17 Level
+//Map	_control_	Channel 18 Level
+//Map	_control_	Channel 19 Level
+//Map	_control_	Channel 20 Level
+//Map	_control_	Channel 21 Level
+//Map	_control_	Channel 22 Level
+//Map	_control_	Channel 23 Level
+//Map	_control_	Channels=Ch1-8
+//Map	_control_	Channels=Ch9-16
+//Map	_control_	Channels=Ch17-24
+//Map	_control_	Channels=Ch25-32
+//Map	_control_	Channel 9 Mute
+//Map	_control_	Channel 10 Mute
+//Map	_control_	Channel 11 Mute
+//Map	_control_	Channel 12 Mute
+//Map	_control_	Channel 13 Mute
+//Map	_control_	Channel 14 Mute
+//Map	_control_	Channel 15 Mute
+//Map	_control_	Channel 16 Mute
+//Map	_control_	Channel 9 Solo
+//Map	_control_	Channel 10 Solo
+//Map	_control_	Channel 11 Solo
+//Map	_control_	Channel 12 Solo
+//Map	_control_	Channel 13 Solo
+//Map	_control_	Channel 14 Solo
+//Map	_control_	Channel 15 Solo
+//Map	_control_	Channel 16 Solo
+//Map	_control_	Shift=Master
+//Map	_control_	Shift=Channel
+//Map	_control_	TheGroup=Pan
+//Map	_control_	TheGroup=Sends1
+//Map	_control_	TheGroup=EQ1
+//Map	_control_	TheGroup=Ins1
+//Map	_control_	TheGroup=Dyn1
+//Map	_control_	TheGroup=Sends2
+//Map	_control_	TheGroup=EQ2
+//Map	_control_	TheGroup=Ins2
+//Map	_control_	TheGroup=Dyn2
+//Map	_control_	Ctrl Room Level
+//Map	_control_	Channel 1 Input Gain
+//Map	_control_	Channel 1 Invert Phase
+//Map	_control_	Channel 1 Insert Pre
+//Map	_control_	Channel 1 Dyn Post EQ
+//Map	_control_	Channel 1 FX5 Send Level
+//Map	_control_	Channel 1 FX6 Send Level
+//Map	_control_	Channel 1 FX5 Send On
+//Map	_control_	Channel 1 FX6 Send On
+//Map	_control_	FX1 Send Level
+//Map	_control_	FX2 Send Level
+//Map	_control_	FX3 Send Level
+//Map	_control_	Channel 1 EQ On
+//Map	_control_	Channel 1 EQ E Mode
+//Map	_control_	Channel 1 Filters Dyn S/C
+//Map	_control_	FX4 Send Level
+//Map	_control_	FX5 Send Level
+//Map	_control_	FX6 Send Level
+//Map	_control_	Channel 1 Rotary 1
+//Map	_control_	Channel 1 Rotary 2
+//Map	_control_	Channel 1 Button 1
+//Map	_control_	Channel 1 Button 2
+//Map	_control_	Channel 1 Rotary 3
+//Map	_control_	Channel 1 Rotary 4
+//Map	_control_	Channel 1 Button 3
+//Map	_control_	Channel 1 Button 4
+//Map	_control_	Channel 1 C Release
+//Map	_control_	Channel 1 Comp On
+//Map	_control_	Channel 1 C Peak
+//Map	_control_	Channel 1 C Fast Atk
+//Map	_control_	Channel 1 Key On
+//Map	_control_	Channel 1 G Range
+//Map	_control_	Channel 1 G Threshold
+//Map	_control_	Channel 1 G Release
+//Map	_control_	Channel 1 Gate On
+//Map	_control_	Channel 1 Expander
+//Map	_control_	Channel 1 G Fast Atk
+//Map	_control_	Variation=Channels
+//Map	_control_	Variation=Master Ins+Comp
+//Map	_control_	Variation=FX Returns
+//Map	_control_	Channel 1 Bypass Insert FX
+//Map	_control_	Channel 2 Bypass Insert FX
+//Map	_control_	Channel 3 Bypass Insert FX
+//Map	_control_	Channel 4 Bypass Insert FX
+//Map	_control_	Channel 5 Bypass Insert FX
+//Map	_control_	Channel 6 Bypass Insert FX
+//Map	_control_	Channel 7 Bypass Insert FX
+//Map	_control_	Channel 8 Bypass Insert FX
+//Map	_control_	Channel 9 Width
+//Map	_control_	Channel 10 Width
+//Map	_control_	Channel 11 Width
+//Map	_control_	Channel 12 Width
+//Map	_control_	Channel 13 Width
+//Map	_control_	Channel 14 Width
+//Map	_control_	Channel 15 Width
+//Map	_control_	Channel 16 Width
+//Map	_control_	Channel 17 Width
+//Map	_control_	Channel 18 Width
+//Map	_control_	Channel 19 Width
+//Map	_control_	Channel 20 Width
+//Map	_control_	Channel 21 Width
+//Map	_control_	Channel 22 Width
+//Map	_control_	Channel 23 Width
+//Map	_control_	Channel 24 Width
+//Map	_control_	Channel 17 Pan
+//Map	_control_	Channel 18 Pan
+//Map	_control_	Channel 19 Pan
+//Map	_control_	Channel 20 Pan
+//Map	_control_	Channel 21 Pan
+//Map	_control_	Channel 22 Pan
+//Map	_control_	Channel 23 Pan
+//Map	_control_	Channel 24 Pan
+//Map	_control_	Channel 24 Level
+//Map	_control_	Channel 17 Mute
+//Map	_control_	Channel 18 Mute
+//Map	_control_	Channel 19 Mute
+//Map	_control_	Channel 20 Mute
+//Map	_control_	Channel 21 Mute
+//Map	_control_	Channel 22 Mute
+//Map	_control_	Channel 23 Mute
+//Map	_control_	Channel 24 Mute
+//Map	_control_	Channel 17 Solo
+//Map	_control_	Channel 18 Solo
+//Map	_control_	Channel 19 Solo
+//Map	_control_	Channel 20 Solo
+//Map	_control_	Channel 21 Solo
+//Map	_control_	Channel 22 Solo
+//Map	_control_	Channel 23 Solo
+//Map	_control_	Channel 24 Solo
+//Map	_control_	Channel 25 Width
+//Map	_control_	Channel 26 Width
+//Map	_control_	Channel 27 Width
+//Map	_control_	Channel 28 Width
+//Map	_control_	Channel 29 Width
+//Map	_control_	Channel 30 Width
+//Map	_control_	Channel 31 Width
+//Map	_control_	Channel 32 Width
+//Map	_control_	Channel 25 Pan
+//Map	_control_	Channel 26 Pan
+//Map	_control_	Channel 27 Pan
+//Map	_control_	Channel 28 Pan
+//Map	_control_	Channel 29 Pan
+//Map	_control_	Channel 30 Pan
+//Map	_control_	Channel 31 Pan
+//Map	_control_	Channel 32 Pan
+//Map	_control_	Channel 25 Level
+//Map	_control_	Channel 26 Level
+//Map	_control_	Channel 27 Level
+//Map	_control_	Channel 28 Level
+//Map	_control_	Channel 29 Level
+//Map	_control_	Channel 30 Level
+//Map	_control_	Channel 31 Level
+//Map	_control_	Channel 32 Level
+//Map	_control_	Channel 25 Mute
+//Map	_control_	Channel 26 Mute
+//Map	_control_	Channel 27 Mute
+//Map	_control_	Channel 28 Mute
+//Map	_control_	Channel 29 Mute
+//Map	_control_	Channel 30 Mute
+//Map	_control_	Channel 31 Mute
+//Map	_control_	Channel 32 Mute
+//Map	_control_	Channel 25 Solo
+//Map	_control_	Channel 26 Solo
+//Map	_control_	Channel 27 Solo
+//Map	_control_	Channel 28 Solo
+//Map	_control_	Channel 29 Solo
+//Map	_control_	Channel 30 Solo
+//Map	_control_	Channel 31 Solo
+//Map	_control_	Channel 32 Solo
+//Map	_control_	Channel 33 Width
+//Map	_control_	Channel 34 Width
+//Map	_control_	Channel 35 Width
+//Map	_control_	Channel 36 Width
+//Map	_control_	Channel 37 Width
+//Map	_control_	Channel 38 Width
+//Map	_control_	Channel 39 Width
+//Map	_control_	Channel 40 Width
+//Map	_control_	Channel 33 Pan
+//Map	_control_	Channel 34 Pan
+//Map	_control_	Channel 35 Pan
+//Map	_control_	Channel 36 Pan
+//Map	_control_	Channel 37 Pan
+//Map	_control_	Channel 38 Pan
+//Map	_control_	Channel 39 Pan
+//Map	_control_	Channel 40 Pan
+//Map	_control_	Channel 33 Level
+//Map	_control_	Channel 34 Level
+//Map	_control_	Channel 35 Level
+//Map	_control_	Channel 36 Level
+//Map	_control_	Channel 37 Level
+//Map	_control_	Channel 38 Level
+//Map	_control_	Channel 39 Level
+//Map	_control_	Channel 40 Level
+//Map	_control_	Channel 33 Mute
+//Map	_control_	Channel 34 Mute
+//Map	_control_	Channel 35 Mute
+//Map	_control_	Channel 36 Mute
+//Map	_control_	Channel 37 Mute
+//Map	_control_	Channel 38 Mute
+//Map	_control_	Channel 39 Mute
+//Map	_control_	Channel 40 Mute
+//Map	_control_	Channel 33 Solo
+//Map	_control_	Channel 34 Solo
+//Map	_control_	Channel 35 Solo
+//Map	_control_	Channel 36 Solo
+//Map	_control_	Channel 37 Solo
+//Map	_control_	Channel 38 Solo
+//Map	_control_	Channel 39 Solo
+//Map	_control_	Channel 40 Solo
+//Map	_control_	Channel 41 Width
+//Map	_control_	Channel 42 Width
+//Map	_control_	Channel 43 Width
+//Map	_control_	Channel 44 Width
+//Map	_control_	Channel 45 Width
+//Map	_control_	Channel 46 Width
+//Map	_control_	Channel 47 Width
+//Map	_control_	Channel 48 Width
+//Map	_control_	Channel 41 Pan
+//Map	_control_	Channel 42 Pan
+//Map	_control_	Channel 43 Pan
+//Map	_control_	Channel 44 Pan
+//Map	_control_	Channel 45 Pan
+//Map	_control_	Channel 46 Pan
+//Map	_control_	Channel 47 Pan
+//Map	_control_	Channel 48 Pan
+//Map	_control_	Channel 41 Level
+//Map	_control_	Channel 42 Level
+//Map	_control_	Channel 43 Level
+//Map	_control_	Channel 44 Level
+//Map	_control_	Channel 45 Level
+//Map	_control_	Channel 46 Level
+//Map	_control_	Channel 47 Level
+//Map	_control_	Channel 48 Level
+//Map	_control_	Channel 41 Mute
+//Map	_control_	Channel 42 Mute
+//Map	_control_	Channel 43 Mute
+//Map	_control_	Channel 44 Mute
+//Map	_control_	Channel 45 Mute
+//Map	_control_	Channel 46 Mute
+//Map	_control_	Channel 47 Mute
+//Map	_control_	Channel 48 Mute
+//Map	_control_	Channel 41 Solo
+//Map	_control_	Channel 42 Solo
+//Map	_control_	Channel 43 Solo
+//Map	_control_	Channel 44 Solo
+//Map	_control_	Channel 45 Solo
+//Map	_control_	Channel 46 Solo
+//Map	_control_	Channel 47 Solo
+//Map	_control_	Channel 48 Solo
+//Map	_control_	Channel 49 Width
+//Map	_control_	Channel 50 Width
+//Map	_control_	Channel 51 Width
+//Map	_control_	Channel 52 Width
+//Map	_control_	Channel 53 Width
+//Map	_control_	Channel 54 Width
+//Map	_control_	Channel 55 Width
+//Map	_control_	Channel 56 Width
+//Map	_control_	Channel 49 Pan
+//Map	_control_	Channel 50 Pan
+//Map	_control_	Channel 51 Pan
+//Map	_control_	Channel 52 Pan
+//Map	_control_	Channel 53 Pan
+//Map	_control_	Channel 54 Pan
+//Map	_control_	Channel 55 Pan
+//Map	_control_	Channel 56 Pan
+//Map	_control_	Channel 49 Level
+//Map	_control_	Channel 50 Level
+//Map	_control_	Channel 51 Level
+//Map	_control_	Channel 52 Level
+//Map	_control_	Channel 53 Level
+//Map	_control_	Channel 54 Level
+//Map	_control_	Channel 55 Level
+//Map	_control_	Channel 56 Level
+//Map	_control_	Channel 49 Mute
+//Map	_control_	Channel 50 Mute
+//Map	_control_	Channel 51 Mute
+//Map	_control_	Channel 52 Mute
+//Map	_control_	Channel 53 Mute
+//Map	_control_	Channel 54 Mute
+//Map	_control_	Channel 55 Mute
+//Map	_control_	Channel 56 Mute
+//Map	_control_	Channel 49 Solo
+//Map	_control_	Channel 50 Solo
+//Map	_control_	Channel 51 Solo
+//Map	_control_	Channel 52 Solo
+//Map	_control_	Channel 53 Solo
+//Map	_control_	Channel 54 Solo
+//Map	_control_	Channel 55 Solo
+//Map	_control_	Channel 56 Solo
+//Map	_control_	Channel 57 Width
+//Map	_control_	Channel 58 Width
+//Map	_control_	Channel 59 Width
+//Map	_control_	Channel 60 Width
+//Map	_control_	Channel 61 Width
+//Map	_control_	Channel 62 Width
+//Map	_control_	Channel 63 Width
+//Map	_control_	Channel 64 Width
+//Map	_control_	Channel 57 Pan
+//Map	_control_	Channel 58 Pan
+//Map	_control_	Channel 59 Pan
+//Map	_control_	Channel 60 Pan
+//Map	_control_	Channel 61 Pan
+//Map	_control_	Channel 62 Pan
+//Map	_control_	Channel 63 Pan
+//Map	_control_	Channel 64 Pan
+//Map	_control_	Channel 57 Level
+//Map	_control_	Channel 58 Level
+//Map	_control_	Channel 59 Level
+//Map	_control_	Channel 60 Level
+//Map	_control_	Channel 61 Level
+//Map	_control_	Channel 62 Level
+//Map	_control_	Channel 63 Level
+//Map	_control_	Channel 64 Level
+//Map	_control_	Channel 57 Mute
+//Map	_control_	Channel 58 Mute
+//Map	_control_	Channel 59 Mute
+//Map	_control_	Channel 60 Mute
+//Map	_control_	Channel 61 Mute
+//Map	_control_	Channel 62 Mute
+//Map	_control_	Channel 63 Mute
+//Map	_control_	Channel 64 Mute
+//Map	_control_	Channel 57 Solo
+//Map	_control_	Channel 58 Solo
+//Map	_control_	Channel 59 Solo
+//Map	_control_	Channel 60 Solo
+//Map	_control_	Channel 61 Solo
+//Map	_control_	Channel 62 Solo
+//Map	_control_	Channel 63 Solo
+//Map	_control_	Channel 64 Solo
+//Map	_control_	Channel 5 FX1 Send Level
+//Map	_control_	Channel 6 FX1 Send Level
+//Map	_control_	Channel 7 FX1 Send Level
+//Map	_control_	Channel 8 FX1 Send Level
+//Map	_control_	Channel 5 FX2 Send Level
+//Map	_control_	Channel 6 FX2 Send Level
+//Map	_control_	Channel 7 FX2 Send Level
+//Map	_control_	Channel 8 FX2 Send Level
+//Map	_control_	Channel 2 Rotary 1
+//Map	_control_	Channel 3 Rotary 1
+//Map	_control_	Channel 4 Rotary 1
+//Map	_control_	Channel 5 Rotary 1
+//Map	_control_	Channel 6 Rotary 1
+//Map	_control_	Channel 7 Rotary 1
+//Map	_control_	Channel 8 Rotary 1
+//Map	_control_	Channel 5 FX1 Send On
+//Map	_control_	Channel 6 FX1 Send On
+//Map	_control_	Channel 7 FX1 Send On
+//Map	_control_	Channel 8 FX1 Send On
+//Map	_control_	Channel 5 FX2 Send On
+//Map	_control_	Channel 6 FX2 Send On
+//Map	_control_	Channel 7 FX2 Send On
+//Map	_control_	Channel 8 FX2 Send On
+//Map	_control_	Channel 9 FX1 Send Level
+//Map	_control_	Channel 10 FX1 Send Level
+//Map	_control_	Channel 11 FX1 Send Level
+//Map	_control_	Channel 12 FX1 Send Level
+//Map	_control_	Channel 13 FX1 Send Level
+//Map	_control_	Channel 14 FX1 Send Level
+//Map	_control_	Channel 15 FX1 Send Level
+//Map	_control_	Channel 16 FX1 Send Level
+//Map	_control_	Channel 9 FX2 Send Level
+//Map	_control_	Channel 10 FX2 Send Level
+//Map	_control_	Channel 11 FX2 Send Level
+//Map	_control_	Channel 12 FX2 Send Level
+//Map	_control_	Channel 13 FX2 Send Level
+//Map	_control_	Channel 14 FX2 Send Level
+//Map	_control_	Channel 15 FX2 Send Level
+//Map	_control_	Channel 16 FX2 Send Level
+//Map	_control_	Channel 9 Rotary 1
+//Map	_control_	Channel 10 Rotary 1
+//Map	_control_	Channel 11 Rotary 1
+//Map	_control_	Channel 12 Rotary 1
+//Map	_control_	Channel 13 Rotary 1
+//Map	_control_	Channel 14 Rotary 1
+//Map	_control_	Channel 15 Rotary 1
+//Map	_control_	Channel 16 Rotary 1
+//Map	_control_	Channel 9 FX1 Send On
+//Map	_control_	Channel 10 FX1 Send On
+//Map	_control_	Channel 11 FX1 Send On
+//Map	_control_	Channel 12 FX1 Send On
+//Map	_control_	Channel 13 FX1 Send On
+//Map	_control_	Channel 14 FX1 Send On
+//Map	_control_	Channel 15 FX1 Send On
+//Map	_control_	Channel 16 FX1 Send On
+//Map	_control_	Channel 9 FX2 Send On
+//Map	_control_	Channel 10 FX2 Send On
+//Map	_control_	Channel 11 FX2 Send On
+//Map	_control_	Channel 12 FX2 Send On
+//Map	_control_	Channel 13 FX2 Send On
+//Map	_control_	Channel 14 FX2 Send On
+//Map	_control_	Channel 15 FX2 Send On
+//Map	_control_	Channel 16 FX2 Send On
+//Map	_control_	Channel 17 FX1 Send Level
+//Map	_control_	Channel 18 FX1 Send Level
+//Map	_control_	Channel 19 FX1 Send Level
+//Map	_control_	Channel 20 FX1 Send Level
+//Map	_control_	Channel 21 FX1 Send Level
+//Map	_control_	Channel 22 FX1 Send Level
+//Map	_control_	Channel 23 FX1 Send Level
+//Map	_control_	Channel 24 FX1 Send Level
+//Map	_control_	Channel 17 FX2 Send Level
+//Map	_control_	Channel 18 FX2 Send Level
+//Map	_control_	Channel 19 FX2 Send Level
+//Map	_control_	Channel 20 FX2 Send Level
+//Map	_control_	Channel 21 FX2 Send Level
+//Map	_control_	Channel 22 FX2 Send Level
+//Map	_control_	Channel 23 FX2 Send Level
+//Map	_control_	Channel 24 FX2 Send Level
+//Map	_control_	Channel 17 Rotary 1
+//Map	_control_	Channel 18 Rotary 1
+//Map	_control_	Channel 19 Rotary 1
+//Map	_control_	Channel 20 Rotary 1
+//Map	_control_	Channel 21 Rotary 1
+//Map	_control_	Channel 22 Rotary 1
+//Map	_control_	Channel 23 Rotary 1
+//Map	_control_	Channel 24 Rotary 1
+//Map	_control_	Channel 17 FX1 Send On
+//Map	_control_	Channel 18 FX1 Send On
+//Map	_control_	Channel 19 FX1 Send On
+//Map	_control_	Channel 20 FX1 Send On
+//Map	_control_	Channel 21 FX1 Send On
+//Map	_control_	Channel 22 FX1 Send On
+//Map	_control_	Channel 23 FX1 Send On
+//Map	_control_	Channel 24 FX1 Send On
+//Map	_control_	Channel 17 FX2 Send On
+//Map	_control_	Channel 18 FX2 Send On
+//Map	_control_	Channel 19 FX2 Send On
+//Map	_control_	Channel 20 FX2 Send On
+//Map	_control_	Channel 21 FX2 Send On
+//Map	_control_	Channel 22 FX2 Send On
+//Map	_control_	Channel 23 FX2 Send On
+//Map	_control_	Channel 24 FX2 Send On
+//Map	_control_	Channel 25 FX1 Send Level
+//Map	_control_	Channel 26 FX1 Send Level
+//Map	_control_	Channel 27 FX1 Send Level
+//Map	_control_	Channel 28 FX1 Send Level
+//Map	_control_	Channel 29 FX1 Send Level
+//Map	_control_	Channel 30 FX1 Send Level
+//Map	_control_	Channel 31 FX1 Send Level
+//Map	_control_	Channel 32 FX1 Send Level
+//Map	_control_	Channel 25 FX2 Send Level
+//Map	_control_	Channel 26 FX2 Send Level
+//Map	_control_	Channel 27 FX2 Send Level
+//Map	_control_	Channel 28 FX2 Send Level
+//Map	_control_	Channel 29 FX2 Send Level
+//Map	_control_	Channel 30 FX2 Send Level
+//Map	_control_	Channel 31 FX2 Send Level
+//Map	_control_	Channel 32 FX2 Send Level
+//Map	_control_	Channel 25 Rotary 1
+//Map	_control_	Channel 26 Rotary 1
+//Map	_control_	Channel 27 Rotary 1
+//Map	_control_	Channel 28 Rotary 1
+//Map	_control_	Channel 29 Rotary 1
+//Map	_control_	Channel 30 Rotary 1
+//Map	_control_	Channel 31 Rotary 1
+//Map	_control_	Channel 32 Rotary 1
+//Map	_control_	Channel 25 FX1 Send On
+//Map	_control_	Channel 26 FX1 Send On
+//Map	_control_	Channel 27 FX1 Send On
+//Map	_control_	Channel 28 FX1 Send On
+//Map	_control_	Channel 29 FX1 Send On
+//Map	_control_	Channel 30 FX1 Send On
+//Map	_control_	Channel 31 FX1 Send On
+//Map	_control_	Channel 32 FX1 Send On
+//Map	_control_	Channel 25 FX2 Send On
+//Map	_control_	Channel 26 FX2 Send On
+//Map	_control_	Channel 27 FX2 Send On
+//Map	_control_	Channel 28 FX2 Send On
+//Map	_control_	Channel 29 FX2 Send On
+//Map	_control_	Channel 30 FX2 Send On
+//Map	_control_	Channel 31 FX2 Send On
+//Map	_control_	Channel 32 FX2 Send On
+//Map	_control_	Channel 33 FX1 Send Level
+//Map	_control_	Channel 34 FX1 Send Level
+//Map	_control_	Channel 35 FX1 Send Level
+//Map	_control_	Channel 36 FX1 Send Level
+//Map	_control_	Channel 37 FX1 Send Level
+//Map	_control_	Channel 38 FX1 Send Level
+//Map	_control_	Channel 39 FX1 Send Level
+//Map	_control_	Channel 40 FX1 Send Level
+//Map	_control_	Channel 33 FX2 Send Level
+//Map	_control_	Channel 34 FX2 Send Level
+//Map	_control_	Channel 35 FX2 Send Level
+//Map	_control_	Channel 36 FX2 Send Level
+//Map	_control_	Channel 37 FX2 Send Level
+//Map	_control_	Channel 38 FX2 Send Level
+//Map	_control_	Channel 39 FX2 Send Level
+//Map	_control_	Channel 40 FX2 Send Level
+//Map	_control_	Channel 33 Rotary 1
+//Map	_control_	Channel 34 Rotary 1
+//Map	_control_	Channel 35 Rotary 1
+//Map	_control_	Channel 36 Rotary 1
+//Map	_control_	Channel 37 Rotary 1
+//Map	_control_	Channel 38 Rotary 1
+//Map	_control_	Channel 39 Rotary 1
+//Map	_control_	Channel 40 Rotary 1
+//Map	_control_	Channel 33 FX1 Send On
+//Map	_control_	Channel 34 FX1 Send On
+//Map	_control_	Channel 35 FX1 Send On
+//Map	_control_	Channel 36 FX1 Send On
+//Map	_control_	Channel 37 FX1 Send On
+//Map	_control_	Channel 38 FX1 Send On
+//Map	_control_	Channel 39 FX1 Send On
+//Map	_control_	Channel 40 FX1 Send On
+//Map	_control_	Channel 33 FX2 Send On
+//Map	_control_	Channel 34 FX2 Send On
+//Map	_control_	Channel 35 FX2 Send On
+//Map	_control_	Channel 36 FX2 Send On
+//Map	_control_	Channel 37 FX2 Send On
+//Map	_control_	Channel 38 FX2 Send On
+//Map	_control_	Channel 39 FX2 Send On
+//Map	_control_	Channel 40 FX2 Send On
+//Map	_control_	Channel 41 FX1 Send Level
+//Map	_control_	Channel 42 FX1 Send Level
+//Map	_control_	Channel 43 FX1 Send Level
+//Map	_control_	Channel 44 FX1 Send Level
+//Map	_control_	Channel 45 FX1 Send Level
+//Map	_control_	Channel 46 FX1 Send Level
+//Map	_control_	Channel 47 FX1 Send Level
+//Map	_control_	Channel 48 FX1 Send Level
+//Map	_control_	Channel 41 FX2 Send Level
+//Map	_control_	Channel 42 FX2 Send Level
+//Map	_control_	Channel 43 FX2 Send Level
+//Map	_control_	Channel 44 FX2 Send Level
+//Map	_control_	Channel 45 FX2 Send Level
+//Map	_control_	Channel 46 FX2 Send Level
+//Map	_control_	Channel 47 FX2 Send Level
+//Map	_control_	Channel 48 FX2 Send Level
+//Map	_control_	Channel 41 Rotary 1
+//Map	_control_	Channel 42 Rotary 1
+//Map	_control_	Channel 43 Rotary 1
+//Map	_control_	Channel 44 Rotary 1
+//Map	_control_	Channel 45 Rotary 1
+//Map	_control_	Channel 46 Rotary 1
+//Map	_control_	Channel 47 Rotary 1
+//Map	_control_	Channel 48 Rotary 1
+//Map	_control_	Channel 41 FX1 Send On
+//Map	_control_	Channel 42 FX1 Send On
+//Map	_control_	Channel 43 FX1 Send On
+//Map	_control_	Channel 44 FX1 Send On
+//Map	_control_	Channel 45 FX1 Send On
+//Map	_control_	Channel 46 FX1 Send On
+//Map	_control_	Channel 47 FX1 Send On
+//Map	_control_	Channel 48 FX1 Send On
+//Map	_control_	Channel 41 FX2 Send On
+//Map	_control_	Channel 42 FX2 Send On
+//Map	_control_	Channel 43 FX2 Send On
+//Map	_control_	Channel 44 FX2 Send On
+//Map	_control_	Channel 45 FX2 Send On
+//Map	_control_	Channel 46 FX2 Send On
+//Map	_control_	Channel 47 FX2 Send On
+//Map	_control_	Channel 48 FX2 Send On
+//Map	_control_	Channel 49 FX1 Send Level
+//Map	_control_	Channel 50 FX1 Send Level
+//Map	_control_	Channel 51 FX1 Send Level
+//Map	_control_	Channel 52 FX1 Send Level
+//Map	_control_	Channel 53 FX1 Send Level
+//Map	_control_	Channel 54 FX1 Send Level
+//Map	_control_	Channel 55 FX1 Send Level
+//Map	_control_	Channel 56 FX1 Send Level
+//Map	_control_	Channel 49 FX2 Send Level
+//Map	_control_	Channel 50 FX2 Send Level
+//Map	_control_	Channel 51 FX2 Send Level
+//Map	_control_	Channel 52 FX2 Send Level
+//Map	_control_	Channel 53 FX2 Send Level
+//Map	_control_	Channel 54 FX2 Send Level
+//Map	_control_	Channel 55 FX2 Send Level
+//Map	_control_	Channel 56 FX2 Send Level
+//Map	_control_	Channel 49 Rotary 1
+//Map	_control_	Channel 50 Rotary 1
+//Map	_control_	Channel 51 Rotary 1
+//Map	_control_	Channel 52 Rotary 1
+//Map	_control_	Channel 53 Rotary 1
+//Map	_control_	Channel 54 Rotary 1
+//Map	_control_	Channel 55 Rotary 1
+//Map	_control_	Channel 56 Rotary 1
+//Map	_control_	Channel 49 FX1 Send On
+//Map	_control_	Channel 50 FX1 Send On
+//Map	_control_	Channel 51 FX1 Send On
+//Map	_control_	Channel 52 FX1 Send On
+//Map	_control_	Channel 53 FX1 Send On
+//Map	_control_	Channel 54 FX1 Send On
+//Map	_control_	Channel 55 FX1 Send On
+//Map	_control_	Channel 56 FX1 Send On
+//Map	_control_	Channel 49 FX2 Send On
+//Map	_control_	Channel 50 FX2 Send On
+//Map	_control_	Channel 51 FX2 Send On
+//Map	_control_	Channel 52 FX2 Send On
+//Map	_control_	Channel 53 FX2 Send On
+//Map	_control_	Channel 54 FX2 Send On
+//Map	_control_	Channel 55 FX2 Send On
+//Map	_control_	Channel 56 FX2 Send On
+//Map	_control_	Keyboard Shortcut Variations=Volume
+//Map	_control_	Keyboard Shortcut Variations=Pan
+//Map	_control_	Keyboard Shortcut Variations=v1
+//Map	_control_	Keyboard Shortcut Variations=v2
+//Map	_control_	Keyboard Shortcut Variations=v3
+//Map	_control_	Channel 1 HF Gain
+//Map	_control_	Channel 1 LF Gain
+//Map	_control_	1_1
+//Map	_control_	1_2
+//Map	_control_	1_3
+//Map	_control_	1_4
+//Map	_control_	1_5
+//Map	_control_	Channel 2 HF Gain
+//Map	_control_	Channel 2 HMF Frequency
+//Map	_control_	Channel 2 HMF Gain
+//Map	_control_	Channel 2 LMF Gain
+//Map	_control_	Channel 2 LF Gain
+//Map	_control_	Channel 2 Input Gain
+//Map	_control_	Channel 2 Rotary 2
+//Map	_control_	Channel 2 Rotary 3
+//Map	_control_	Channel 2 Rotary 4
+//Map	_control_	2_1
+//Map	_control_	2_2
+//Map	_control_	2_3
+//Map	_control_	2_4
+//Map	_control_	2_5
+//Map	_control_	Channel 3 HF Gain
+//Map	_control_	Channel 3 HMF Frequency
+//Map	_control_	Channel 3 HMF Gain
+//Map	_control_	Channel 3 LMF Gain
+//Map	_control_	Channel 3 LF Gain
+//Map	_control_	Channel 3 Input Gain
+//Map	_control_	Channel 3 Rotary 2
+//Map	_control_	Channel 3 Rotary 3
+//Map	_control_	Channel 3 Rotary 4
+//Map	_control_	3_1
+//Map	_control_	3_2
+//Map	_control_	3_3
+//Map	_control_	3_4
+//Map	_control_	3_5
+//Map	_control_	Channel 4 HF Gain
+//Map	_control_	Channel 4 HMF Frequency
+//Map	_control_	Channel 4 HMF Gain
+//Map	_control_	Channel 4 LMF Gain
+//Map	_control_	Channel 4 LF Gain
+//Map	_control_	Channel 4 Input Gain
+//Map	_control_	Channel 4 Rotary 2
+//Map	_control_	Channel 4 Rotary 3
+//Map	_control_	Channel 4 Rotary 4
+//Map	_control_	4_1
+//Map	_control_	4_2
+//Map	_control_	4_3
+//Map	_control_	4_4
+//Map	_control_	4_5
+//Map	_control_	Channel 5 FX3 Send Level
+//Map	_control_	Channel 5 HF Gain
+//Map	_control_	Channel 5 HMF Frequency
+//Map	_control_	Channel 5 HMF Gain
+//Map	_control_	Channel 5 LMF Gain
+//Map	_control_	Channel 5 LF Gain
+//Map	_control_	Channel 5 Input Gain
+//Map	_control_	Channel 5 Rotary 2
+//Map	_control_	Channel 5 Rotary 3
+//Map	_control_	Channel 5 Rotary 4
+//Map	_control_	5_1
+//Map	_control_	5_2
+//Map	_control_	5_3
+//Map	_control_	5_4
+//Map	_control_	5_5
+//Map	_control_	Channel 6 FX3 Send Level
+//Map	_control_	Channel 6 HF Gain
+//Map	_control_	Channel 6 HMF Frequency
+//Map	_control_	Channel 6 HMF Gain
+//Map	_control_	Channel 6 LMF Gain
+//Map	_control_	Channel 6 LF Gain
+//Map	_control_	Channel 6 Input Gain
+//Map	_control_	Channel 6 Rotary 2
+//Map	_control_	Channel 6 Rotary 3
+//Map	_control_	Channel 6 Rotary 4
+//Map	_control_	6_1
+//Map	_control_	6_2
+//Map	_control_	6_3
+//Map	_control_	6_4
+//Map	_control_	6_5
+//Map	_control_	Channel 7 FX3 Send Level
+//Map	_control_	Channel 7 HF Gain
+//Map	_control_	Channel 7 HMF Frequency
+//Map	_control_	Channel 7 HMF Gain
+//Map	_control_	Channel 7 LMF Gain
+//Map	_control_	Channel 7 LF Gain
+//Map	_control_	Channel 7 Input Gain
+//Map	_control_	Channel 7 Rotary 2
+//Map	_control_	Channel 7 Rotary 3
+//Map	_control_	Channel 7 Rotary 4
+//Map	_control_	7_1
+//Map	_control_	7_2
+//Map	_control_	7_3
+//Map	_control_	7_4
+//Map	_control_	7_5
+//Map	_control_	Channel 8 FX3 Send Level
+//Map	_control_	Channel 8 HF Gain
+//Map	_control_	Channel 8 HMF Frequency
+//Map	_control_	Channel 8 HMF Gain
+//Map	_control_	Channel 8 LMF Gain
+//Map	_control_	Channel 8 LF Gain
+//Map	_control_	Channel 8 Input Gain
+//Map	_control_	Channel 8 Rotary 2
+//Map	_control_	Channel 8 Rotary 3
+//Map	_control_	Channel 8 Rotary 4
+//Map	_control_	8_1
+//Map	_control_	8_2
+//Map	_control_	8_3
+//Map	_control_	8_4
+//Map	_control_	8_5
+//Map	_control_	Remote Base Channel
+//Map	_control_	Channel 2 EQ On
+//Map	_control_	Channel 3 EQ On
+//Map	_control_	Channel 4 EQ On
+//Map	_control_	Channel 5 EQ On
+//Map	_control_	Channel 6 EQ On
+//Map	_control_	Channel 7 EQ On
+//Map	_control_	Keyboard Shortcut Variations=Levels
+//Map	_control_	Channel 8 EQ On
+//Map	_control_	Keyboard Shortcut Variations=Main
+//Map	_control_	Keyboard Shortcut Variations=FXReturn
+//Map	_control_	Keyboard Shortcut Variations=EQ
+//Map	_control_	Keyboard Shortcut Variations=Inserts
+//Map	_control_	Channel 5 FX4 Send Level
+//Map	_control_	Channel 6 FX4 Send Level
+//Map	_control_	Channel 7 FX4 Send Level
+//Map	_control_	Channel 5 FX4 Send On
+//Map	_control_	Channel 6 FX4 Send On
+//Map	_control_	Channel 7 FX4 Send On
+//Map	_control_	Channel 5 FX3 Send On
+//Map	_control_	Channel 6 FX3 Send On
+//Map	_control_	Channel 7 FX3 Send On
+//Map	_control_	Channel 1 LF On
+//Map	_control_	Channel 2 LF On
+//Map	_control_	Channel 3 LF On
+//Map	_control_	Channel 4 LF On
+//Map	_control_	Channel 5 LF On
+//Map	_control_	Channel 6 LF On
+//Map	_control_	Channel 7 LF On
+//Map	_control_	Channel 1 LMF On
+//Map	_control_	Channel 2 LMF On
+//Map	_control_	Channel 3 LMF On
+//Map	_control_	Channel 4 LMF On
+//Map	_control_	Channel 5 LMF On
+//Map	_control_	Channel 6 LMF On
+//Map	_control_	Channel 7 LMF On
+//Map	_control_	Channel 1 HMF On
+//Map	_control_	Channel 2 HMF On
+//Map	_control_	Channel 3 HMF On
+//Map	_control_	Channel 4 HMF On
+//Map	_control_	Channel 5 HMF On
+//Map	_control_	Channel 6 HMF On
+//Map	_control_	Channel 7 HMF On
+//Map	_control_	Channel 1 HF On
+//Map	_control_	Channel 2 HF On
+//Map	_control_	Channel 3 HF On
+//Map	_control_	Channel 4 HF On
+//Map	_control_	Channel 5 HF On
+//Map	_control_	Channel 6 HF On
+//Map	_control_	Channel 7 HF On
+//Map	_control_	Channel 2 Button 4
+//Map	_control_	Channel 3 Button 4
+//Map	_control_	Channel 4 Button 4
+//Map	_control_	Channel 5 Button 4
+//Map	_control_	Channel 6 Button 4
+//Map	_control_	Channel 7 Button 4
+//Map	_control_	Channel 2 Button 3
+//Map	_control_	Channel 3 Button 3
+//Map	_control_	Channel 4 Button 3
+//Map	_control_	Channel 5 Button 3
+//Map	_control_	Channel 6 Button 3
+//Map	_control_	Channel 7 Button 3
+//Map	_control_	Channel 2 Button 2
+//Map	_control_	Channel 3 Button 2
+//Map	_control_	Channel 4 Button 2
+//Map	_control_	Channel 5 Button 2
+//Map	_control_	Channel 6 Button 2
+//Map	_control_	Channel 7 Button 2
+//Map	_control_	Channel 2 Button 1
+//Map	_control_	Channel 3 Button 1
+//Map	_control_	Channel 4 Button 1
+//Map	_control_	Channel 5 Button 1
+//Map	_control_	Channel 6 Button 1
+//Map	_control_	Channel 7 Button 1
+//Map	_control_	Audio Peak VU Meter
+//Map	_control_	FX_vars=Returns
+//Map	_control_	FX_vars=Pan
+//Map	_control_	FX_vars=FX_Mute
+//Map	_control_	Channel 2 Channel Name
+//Map	_control_	Channel 3 Channel Name
+//Map	_control_	Channel 4 Channel Name
+//Map	_control_	Channel 5 Channel Name
+//Map	_control_	Channel 6 Channel Name
+//Map	_control_	Channel 7 Channel Name
+//Map	_control_	Channel 8 Channel Name
+//Map	_control_	Insert FX Patch Name
+//Map	_control_	FX1 Name
+//Map	_control_	FX2 Name
+//Map	_control_	FX3 Name
+//Map	_control_	FX4 Name
+//Map	_control_	FX5 Name
+//Map	_control_	FX6 Name
+//Map	_control_	FX7 Name
+//Map	_control_	FX8 Name
+//Map	_control_	button_vars=Solo
+//Map	_control_	button_vars=mute
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	C59
+//Map	_control_	C60
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Rotaries=FXSends
+//Map	_control_	Rotaries=EQ
+//Map	_control_	Rotaries=Ins+Pan
+//Map	_control_	Rotaries=Dyn
+//Map	_control_	Rotaries=Master
+//Map	_control_	Rotaries=FX Returns
+//Map	_control_	Channel 2 Invert Phase
+//Map	_control_	Channel 3 Invert Phase
+//Map	_control_	Channel 4 Invert Phase
+//Map	_control_	Channel 5 Invert Phase
+//Map	_control_	Channel 6 Invert Phase
+//Map	_control_	Channel 7 Invert Phase
+//Map	_control_	Channel 8 Invert Phase
+//Map	_control_	Channel 1 FX7 Send Level
+//Map	_control_	Channel 1 FX8 Send Level
+//Map	_control_	Channel 1 FX7 Send On
+//Map	_control_	Channel 1 FX8 Send On
+//Map	_control_	Channel 1 HF Frequency
+//Map	_control_	Channel 1 LF Frequency
+//Map	_control_	Channel 1 HF Bell
+//Map	_control_	Channel 1 LF Bell
+//Map	_control_	Channel 1 G Hold
+//Map	_control_	Channel 2 Insert Pre
+//Map	_control_	Channel 2 FX5 Send Level
+//Map	_control_	Channel 2 FX6 Send Level
+//Map	_control_	Channel 2 FX7 Send Level
+//Map	_control_	Channel 2 FX8 Send Level
+//Map	_control_	Channel 2 FX5 Send On
+//Map	_control_	Channel 2 FX6 Send On
+//Map	_control_	Channel 2 FX7 Send On
+//Map	_control_	Channel 2 FX8 Send On
+//Map	_control_	Channel 2 HF Frequency
+//Map	_control_	Channel 2 LMF Frequency
+//Map	_control_	Channel 2 LF Frequency
+//Map	_control_	Channel 2 EQ E Mode
+//Map	_control_	Channel 2 HF Bell
+//Map	_control_	Channel 2 LF Bell
+//Map	_control_	Channel 2 Dyn Post EQ
+//Map	_control_	Channel 2 C Ratio
+//Map	_control_	Channel 2 C Threshold
+//Map	_control_	Channel 2 C Release
+//Map	_control_	Channel 2 G Range
+//Map	_control_	Channel 2 G Threshold
+//Map	_control_	Channel 2 G Release
+//Map	_control_	Channel 2 G Hold
+//Map	_control_	Channel 2 Comp On
+//Map	_control_	Channel 2 C Peak
+//Map	_control_	Channel 2 C Fast Atk
+//Map	_control_	Channel 2 Key On
+//Map	_control_	Channel 2 Gate On
+//Map	_control_	Channel 2 G Fast Atk
+//Map	_control_	Channel 3 Insert Pre
+//Map	_control_	Channel 3 FX5 Send Level
+//Map	_control_	Channel 3 FX6 Send Level
+//Map	_control_	Channel 3 FX7 Send Level
+//Map	_control_	Channel 3 FX8 Send Level
+//Map	_control_	Channel 3 FX5 Send On
+//Map	_control_	Channel 3 FX6 Send On
+//Map	_control_	Channel 3 FX7 Send On
+//Map	_control_	Channel 3 FX8 Send On
+//Map	_control_	Channel 3 HF Frequency
+//Map	_control_	Channel 3 LMF Frequency
+//Map	_control_	Channel 3 LF Frequency
+//Map	_control_	Channel 3 EQ E Mode
+//Map	_control_	Channel 3 HF Bell
+//Map	_control_	Channel 3 LF Bell
+//Map	_control_	Channel 3 Dyn Post EQ
+//Map	_control_	Channel 3 C Ratio
+//Map	_control_	Channel 3 C Threshold
+//Map	_control_	Channel 3 C Release
+//Map	_control_	Channel 3 G Range
+//Map	_control_	Channel 3 G Threshold
+//Map	_control_	Channel 3 G Release
+//Map	_control_	Channel 3 G Hold
+//Map	_control_	Channel 3 Comp On
+//Map	_control_	Channel 3 C Peak
+//Map	_control_	Channel 3 C Fast Atk
+//Map	_control_	Channel 3 Key On
+//Map	_control_	Channel 3 Gate On
+//Map	_control_	Channel 3 G Fast Atk
+//Map	_control_	Channel 4 Insert Pre
+//Map	_control_	Channel 4 FX5 Send Level
+//Map	_control_	Channel 4 FX6 Send Level
+//Map	_control_	Channel 4 FX7 Send Level
+//Map	_control_	Channel 4 FX8 Send Level
+//Map	_control_	Channel 4 FX5 Send On
+//Map	_control_	Channel 4 FX6 Send On
+//Map	_control_	Channel 4 FX7 Send On
+//Map	_control_	Channel 4 FX8 Send On
+//Map	_control_	Channel 4 HF Frequency
+//Map	_control_	Channel 4 LMF Frequency
+//Map	_control_	Channel 4 LF Frequency
+//Map	_control_	Channel 4 EQ E Mode
+//Map	_control_	Channel 4 HF Bell
+//Map	_control_	Channel 4 LF Bell
+//Map	_control_	Channel 4 Dyn Post EQ
+//Map	_control_	Channel 4 C Ratio
+//Map	_control_	Channel 4 C Threshold
+//Map	_control_	Channel 4 C Release
+//Map	_control_	Channel 4 G Range
+//Map	_control_	Channel 4 G Threshold
+//Map	_control_	Channel 4 G Release
+//Map	_control_	Channel 4 G Hold
+//Map	_control_	Channel 4 Comp On
+//Map	_control_	Channel 4 C Peak
+//Map	_control_	Channel 4 C Fast Atk
+//Map	_control_	Channel 4 Key On
+//Map	_control_	Channel 4 Gate On
+//Map	_control_	Channel 4 G Fast Atk
+//Map	_control_	Channel 5 LPF Frequency
+//Map	_control_	Channel 5 HPF Frequency
+//Map	_control_	Channel 5 LPF On
+//Map	_control_	Channel 5 HPF On
+//Map	_control_	Channel 5 Insert Pre
+//Map	_control_	Channel 5 FX5 Send Level
+//Map	_control_	Channel 5 FX6 Send Level
+//Map	_control_	Channel 5 FX7 Send Level
+//Map	_control_	Channel 5 FX8 Send Level
+//Map	_control_	Channel 5 FX5 Send On
+//Map	_control_	Channel 5 FX6 Send On
+//Map	_control_	Channel 5 FX7 Send On
+//Map	_control_	Channel 5 FX8 Send On
+//Map	_control_	Channel 5 HF Frequency
+//Map	_control_	Channel 5 LMF Frequency
+//Map	_control_	Channel 5 LF Frequency
+//Map	_control_	Channel 5 EQ E Mode
+//Map	_control_	Channel 5 HF Bell
+//Map	_control_	Channel 5 LF Bell
+//Map	_control_	Channel 5 Dyn Post EQ
+//Map	_control_	Channel 5 C Ratio
+//Map	_control_	Channel 5 C Threshold
+//Map	_control_	Channel 5 C Release
+//Map	_control_	Channel 5 G Range
+//Map	_control_	Channel 5 G Threshold
+//Map	_control_	Channel 5 G Release
+//Map	_control_	Channel 5 G Hold
+//Map	_control_	Channel 5 Comp On
+//Map	_control_	Channel 5 C Peak
+//Map	_control_	Channel 5 C Fast Atk
+//Map	_control_	Channel 5 Key On
+//Map	_control_	Channel 5 Gate On
+//Map	_control_	Channel 5 G Fast Atk
+//Map	_control_	Channel 6 LPF Frequency
+//Map	_control_	Channel 6 HPF Frequency
+//Map	_control_	Channel 6 LPF On
+//Map	_control_	Channel 6 HPF On
+//Map	_control_	Channel 6 Insert Pre
+//Map	_control_	Channel 6 FX5 Send Level
+//Map	_control_	Channel 6 FX6 Send Level
+//Map	_control_	Channel 6 FX7 Send Level
+//Map	_control_	Channel 6 FX8 Send Level
+//Map	_control_	Channel 6 FX5 Send On
+//Map	_control_	Channel 6 FX6 Send On
+//Map	_control_	Channel 6 FX7 Send On
+//Map	_control_	Channel 6 FX8 Send On
+//Map	_control_	Channel 6 HF Frequency
+//Map	_control_	Channel 6 LMF Frequency
+//Map	_control_	Channel 6 LF Frequency
+//Map	_control_	Channel 6 EQ E Mode
+//Map	_control_	Channel 6 HF Bell
+//Map	_control_	Channel 6 LF Bell
+//Map	_control_	Channel 6 Dyn Post EQ
+//Map	_control_	Channel 6 C Ratio
+//Map	_control_	Channel 6 C Threshold
+//Map	_control_	Channel 6 C Release
+//Map	_control_	Channel 6 G Range
+//Map	_control_	Channel 6 G Threshold
+//Map	_control_	Channel 6 G Release
+//Map	_control_	Channel 6 G Hold
+//Map	_control_	Channel 6 Comp On
+//Map	_control_	Channel 6 C Peak
+//Map	_control_	Channel 6 C Fast Atk
+//Map	_control_	Channel 6 Key On
+//Map	_control_	Channel 6 Gate On
+//Map	_control_	Channel 6 G Fast Atk
+//Map	_control_	Channel 7 LPF Frequency
+//Map	_control_	Channel 7 HPF Frequency
+//Map	_control_	Channel 7 LPF On
+//Map	_control_	Channel 7 HPF On
+//Map	_control_	Channel 7 Insert Pre
+//Map	_control_	Channel 7 FX5 Send Level
+//Map	_control_	Channel 7 FX6 Send Level
+//Map	_control_	Channel 7 FX7 Send Level
+//Map	_control_	Channel 7 FX8 Send Level
+//Map	_control_	Channel 7 FX5 Send On
+//Map	_control_	Channel 7 FX6 Send On
+//Map	_control_	Channel 7 FX7 Send On
+//Map	_control_	Channel 7 FX8 Send On
+//Map	_control_	Channel 7 HF Frequency
+//Map	_control_	Channel 7 LMF Frequency
+//Map	_control_	Channel 7 LF Frequency
+//Map	_control_	Channel 7 EQ E Mode
+//Map	_control_	Channel 7 HF Bell
+//Map	_control_	Channel 7 LF Bell
+//Map	_control_	Channel 7 Dyn Post EQ
+//Map	_control_	Channel 7 C Ratio
+//Map	_control_	Channel 7 C Threshold
+//Map	_control_	Channel 7 C Release
+//Map	_control_	Channel 7 G Range
+//Map	_control_	Channel 7 G Threshold
+//Map	_control_	Channel 7 G Release
+//Map	_control_	Channel 7 G Hold
+//Map	_control_	Channel 7 Comp On
+//Map	_control_	Channel 7 C Peak
+//Map	_control_	Channel 7 C Fast Atk
+//Map	_control_	Channel 7 Key On
+//Map	_control_	Channel 7 Gate On
+//Map	_control_	Channel 7 G Fast Atk
+//Map	_control_	Channel 8 LPF Frequency
+//Map	_control_	Channel 8 HPF Frequency
+//Map	_control_	Channel 8 LPF On
+//Map	_control_	Channel 8 HPF On
+//Map	_control_	Channel 8 Button 1
+//Map	_control_	Channel 8 Button 2
+//Map	_control_	Channel 8 Button 3
+//Map	_control_	Channel 8 Button 4
+//Map	_control_	Channel 8 Insert Pre
+//Map	_control_	Channel 8 FX4 Send Level
+//Map	_control_	Channel 8 FX5 Send Level
+//Map	_control_	Channel 8 FX6 Send Level
+//Map	_control_	Channel 8 FX7 Send Level
+//Map	_control_	Channel 8 FX8 Send Level
+//Map	_control_	Channel 8 FX3 Send On
+//Map	_control_	Channel 8 FX4 Send On
+//Map	_control_	Channel 8 FX5 Send On
+//Map	_control_	Channel 8 FX6 Send On
+//Map	_control_	Channel 8 FX7 Send On
+//Map	_control_	Channel 8 FX8 Send On
+//Map	_control_	Channel 8 HF Frequency
+//Map	_control_	Channel 8 LMF Frequency
+//Map	_control_	Channel 8 LF Frequency
+//Map	_control_	Channel 8 EQ E Mode
+//Map	_control_	Channel 8 HF Bell
+//Map	_control_	Channel 8 LF Bell
+//Map	_control_	Channel 8 Dyn Post EQ
+//Map	_control_	Channel 8 C Ratio
+//Map	_control_	Channel 8 C Threshold
+//Map	_control_	Channel 8 C Release
+//Map	_control_	Channel 8 G Range
+//Map	_control_	Channel 8 G Threshold
+//Map	_control_	Channel 8 G Release
+//Map	_control_	Channel 8 G Hold
+//Map	_control_	Channel 8 Comp On
+//Map	_control_	Channel 8 C Peak
+//Map	_control_	Channel 8 C Fast Atk
+//Map	_control_	Channel 8 Key On
+//Map	_control_	Channel 8 Gate On
+//Map	_control_	Channel 8 G Fast Atk
+//Map	_control_	Rotaries=Channels
+//Map	_control_	Gain Reduction
+//Map	_control_	Ctrl Room Source
+//Map	_control_	Ctrl Room FX Select
+//Map	_control_	Rotaries=FX+Pan
+//Map	_control_	Master Level Meter Left
+//Map	_control_	Master Level Meter Right
+//Map	_control_	FX1 Return Level Meter
+//Map	_control_	FX2 Return Level Meter
+//Map	_control_	FX3 Return Level Meter
+//Map	_control_	FX4 Return Level Meter
+//Map	_control_	FX5 Return Level Meter
+//Map	_control_	FX6 Return Level Meter
+//Map	_control_	FX7 Return Level Meter
+//Map	_control_	FX8 Return Level Meter
+//Map	_control_	Channel 9 VU Meter
+//Map	_control_	Channel 10 VU Meter
+//Map	_control_	Channel 11 VU Meter
+//Map	_control_	Channel 12 VU Meter
+//Map	_control_	Channel 13 VU Meter
+//Map	_control_	Channel 14 VU Meter
+//Map	_control_	Channel 15 VU Meter
+//Map	_control_	Channel 16 VU Meter
+//Map	_control_	Channel 9 Input Gain
+//Map	_control_	Channel 10 Input Gain
+//Map	_control_	Channel 11 Input Gain
+//Map	_control_	Channel 12 Input Gain
+//Map	_control_	Channel 13 Input Gain
+//Map	_control_	Channel 14 Input Gain
+//Map	_control_	Channel 15 Input Gain
+//Map	_control_	Channel 16 Input Gain
+//Map	_control_	Channel 9 Invert Phase
+//Map	_control_	Channel 10 Invert Phase
+//Map	_control_	Channel 11 Invert Phase
+//Map	_control_	Channel 12 Invert Phase
+//Map	_control_	Channel 13 Invert Phase
+//Map	_control_	Channel 14 Invert Phase
+//Map	_control_	Channel 15 Invert Phase
+//Map	_control_	Channel 16 Invert Phase
+//Map	_control_	Channel 1 FX1 Pre Fader
+//Map	_control_	Channel 2 FX1 Pre Fader
+//Map	_control_	Channel 3 FX1 Pre Fader
+//Map	_control_	Channel 4 FX1 Pre Fader
+//Map	_control_	Channel 5 FX1 Pre Fader
+//Map	_control_	Channel 6 FX1 Pre Fader
+//Map	_control_	Channel 7 FX1 Pre Fader
+//Map	_control_	Channel 8 FX1 Pre Fader
+//Map	_control_	Channel 9 FX1 Pre Fader
+//Map	_control_	Channel 10 FX1 Pre Fader
+//Map	_control_	Channel 11 FX1 Pre Fader
+//Map	_control_	Channel 12 FX1 Pre Fader
+//Map	_control_	Channel 13 FX1 Pre Fader
+//Map	_control_	Channel 14 FX1 Pre Fader
+//Map	_control_	Channel 15 FX1 Pre Fader
+//Map	_control_	Channel 16 FX1 Pre Fader
+//Map	_control_	Channel 1 FX2 Pre Fader
+//Map	_control_	Channel 2 FX2 Pre Fader
+//Map	_control_	Channel 3 FX2 Pre Fader
+//Map	_control_	Channel 4 FX2 Pre Fader
+//Map	_control_	Channel 5 FX2 Pre Fader
+//Map	_control_	Channel 6 FX2 Pre Fader
+//Map	_control_	Channel 7 FX2 Pre Fader
+//Map	_control_	Channel 8 FX2 Pre Fader
+//Map	_control_	Channel 9 FX2 Pre Fader
+//Map	_control_	Channel 10 FX2 Pre Fader
+//Map	_control_	Channel 11 FX2 Pre Fader
+//Map	_control_	Channel 12 FX2 Pre Fader
+//Map	_control_	Channel 13 FX2 Pre Fader
+//Map	_control_	Channel 14 FX2 Pre Fader
+//Map	_control_	Channel 15 FX2 Pre Fader
+//Map	_control_	Channel 16 FX2 Pre Fader
+//Map	_control_	Channel 9 Channel Name
+//Map	_control_	Channel 10 Channel Name
+//Map	_control_	Channel 11 Channel Name
+//Map	_control_	Channel 12 Channel Name
+//Map	_control_	Channel 13 Channel Name
+//Map	_control_	Channel 14 Channel Name
+//Map	_control_	Channel 15 Channel Name
+//Map	_control_	Channel 16 Channel Name
+//Map	_control_	Channel 1 Select Prev Insert FX Patch
+//Map	_control_	Channel 1 Select Next Insert FX Patch
+//Map	_control_	Channel 1 FX3 Pre Fader
+//Map	_control_	Channel 1 FX4 Pre Fader
+//Map	_control_	Channel 1 FX5 Pre Fader
+//Map	_control_	Channel 1 FX6 Pre Fader
+//Map	_control_	Channel 1 FX7 Pre Fader
+//Map	_control_	Channel 1 FX8 Pre Fader
+//Map	_control_	Channel 2 Filters Dyn S/C
+//Map	_control_	Channel 2 Select Prev Insert FX Patch
+//Map	_control_	Channel 2 Select Next Insert FX Patch
+//Map	_control_	Channel 2 FX3 Pre Fader
+//Map	_control_	Channel 2 FX4 Pre Fader
+//Map	_control_	Channel 2 FX5 Pre Fader
+//Map	_control_	Channel 2 FX6 Pre Fader
+//Map	_control_	Channel 2 FX7 Pre Fader
+//Map	_control_	Channel 2 FX8 Pre Fader
+//Map	_control_	Channel 2 HMF Q
+//Map	_control_	Channel 2 LMF Q
+//Map	_control_	Channel 3 Filters Dyn S/C
+//Map	_control_	Channel 3 Select Prev Insert FX Patch
+//Map	_control_	Channel 3 Select Next Insert FX Patch
+//Map	_control_	Channel 3 FX3 Pre Fader
+//Map	_control_	Channel 3 FX4 Pre Fader
+//Map	_control_	Channel 3 FX5 Pre Fader
+//Map	_control_	Channel 3 FX6 Pre Fader
+//Map	_control_	Channel 3 FX7 Pre Fader
+//Map	_control_	Channel 3 FX8 Pre Fader
+//Map	_control_	Channel 3 HMF Q
+//Map	_control_	Channel 3 LMF Q
+//Map	_control_	Channel 4 Filters Dyn S/C
+//Map	_control_	Channel 4 Select Prev Insert FX Patch
+//Map	_control_	Channel 4 Select Next Insert FX Patch
+//Map	_control_	Channel 4 FX3 Pre Fader
+//Map	_control_	Channel 4 FX4 Pre Fader
+//Map	_control_	Channel 4 FX5 Pre Fader
+//Map	_control_	Channel 4 FX6 Pre Fader
+//Map	_control_	Channel 4 FX7 Pre Fader
+//Map	_control_	Channel 4 FX8 Pre Fader
+//Map	_control_	Channel 4 HMF Q
+//Map	_control_	Channel 4 LMF Q
+//Map	_control_	Channel 5 Filters Dyn S/C
+//Map	_control_	Channel 5 Select Prev Insert FX Patch
+//Map	_control_	Channel 5 Select Next Insert FX Patch
+//Map	_control_	Channel 5 FX3 Pre Fader
+//Map	_control_	Channel 5 FX4 Pre Fader
+//Map	_control_	Channel 5 FX5 Pre Fader
+//Map	_control_	Channel 5 FX6 Pre Fader
+//Map	_control_	Channel 5 FX7 Pre Fader
+//Map	_control_	Channel 5 FX8 Pre Fader
+//Map	_control_	Channel 5 HMF Q
+//Map	_control_	Channel 5 LMF Q
+//Map	_control_	Channel 6 Filters Dyn S/C
+//Map	_control_	Channel 6 Select Prev Insert FX Patch
+//Map	_control_	Channel 6 Select Next Insert FX Patch
+//Map	_control_	Channel 6 FX3 Pre Fader
+//Map	_control_	Channel 6 FX4 Pre Fader
+//Map	_control_	Channel 6 FX5 Pre Fader
+//Map	_control_	Channel 6 FX6 Pre Fader
+//Map	_control_	Channel 6 FX7 Pre Fader
+//Map	_control_	Channel 6 FX8 Pre Fader
+//Map	_control_	Channel 6 HMF Q
+//Map	_control_	Channel 6 LMF Q
+//Map	_control_	Channel 7 Filters Dyn S/C
+//Map	_control_	Channel 7 Select Prev Insert FX Patch
+//Map	_control_	Channel 7 Select Next Insert FX Patch
+//Map	_control_	Channel 7 FX3 Pre Fader
+//Map	_control_	Channel 7 FX4 Pre Fader
+//Map	_control_	Channel 7 FX5 Pre Fader
+//Map	_control_	Channel 7 FX6 Pre Fader
+//Map	_control_	Channel 7 FX7 Pre Fader
+//Map	_control_	Channel 7 FX8 Pre Fader
+//Map	_control_	Channel 7 HMF Q
+//Map	_control_	Channel 7 LMF Q
+//Map	_control_	Channel 8 Filters Dyn S/C
+//Map	_control_	Channel 8 Select Prev Insert FX Patch
+//Map	_control_	Channel 8 Select Next Insert FX Patch
+//Map	_control_	Channel 8 FX3 Pre Fader
+//Map	_control_	Channel 8 FX4 Pre Fader
+//Map	_control_	Channel 8 FX5 Pre Fader
+//Map	_control_	Channel 8 FX6 Pre Fader
+//Map	_control_	Channel 8 FX7 Pre Fader
+//Map	_control_	Channel 8 FX8 Pre Fader
+//Map	_control_	Channel 8 HMF Q
+//Map	_control_	Channel 8 LMF Q
+//Map	_control_	Channel 9 LPF Frequency
+//Map	_control_	Channel 9 HPF Frequency
+//Map	_control_	Channel 9 Rotary 2
+//Map	_control_	Channel 9 Rotary 3
+//Map	_control_	Channel 9 Rotary 4
+//Map	_control_	Channel 9 LPF On
+//Map	_control_	Channel 9 HPF On
+//Map	_control_	Channel 9 Button 1
+//Map	_control_	Channel 9 Button 2
+//Map	_control_	Channel 9 Button 3
+//Map	_control_	Channel 9 Button 4
+//Map	_control_	Channel 9 Bypass Insert FX
+//Map	_control_	Channel 9 Insert Pre
+//Map	_control_	Channel 9 Filters Dyn S/C
+//Map	_control_	Channel 9 Select Prev Insert FX Patch
+//Map	_control_	Channel 9 Select Next Insert FX Patch
+//Map	_control_	Channel 9 FX3 Send Level
+//Map	_control_	Channel 9 FX4 Send Level
+//Map	_control_	Channel 9 FX5 Send Level
+//Map	_control_	Channel 9 FX6 Send Level
+//Map	_control_	Channel 9 FX7 Send Level
+//Map	_control_	Channel 9 FX8 Send Level
+//Map	_control_	Channel 9 FX3 Send On
+//Map	_control_	Channel 9 FX4 Send On
+//Map	_control_	Channel 9 FX5 Send On
+//Map	_control_	Channel 9 FX6 Send On
+//Map	_control_	Channel 9 FX7 Send On
+//Map	_control_	Channel 9 FX8 Send On
+//Map	_control_	Channel 9 FX3 Pre Fader
+//Map	_control_	Channel 9 FX4 Pre Fader
+//Map	_control_	Channel 9 FX5 Pre Fader
+//Map	_control_	Channel 9 FX6 Pre Fader
+//Map	_control_	Channel 9 FX7 Pre Fader
+//Map	_control_	Channel 9 FX8 Pre Fader
+//Map	_control_	Channel 9 HF Gain
+//Map	_control_	Channel 9 HF Frequency
+//Map	_control_	Channel 9 HMF Gain
+//Map	_control_	Channel 9 HMF Frequency
+//Map	_control_	Channel 9 HMF Q
+//Map	_control_	Channel 9 LMF Gain
+//Map	_control_	Channel 9 LMF Frequency
+//Map	_control_	Channel 9 LMF Q
+//Map	_control_	Channel 9 LF Gain
+//Map	_control_	Channel 9 LF Frequency
+//Map	_control_	Channel 9 EQ On
+//Map	_control_	Channel 9 EQ E Mode
+//Map	_control_	Channel 9 HF Bell
+//Map	_control_	Channel 9 Dyn Post EQ
+//Map	_control_	Channel 9 LF Bell
+//Map	_control_	Channel 9 C Ratio
+//Map	_control_	Channel 9 C Threshold
+//Map	_control_	Channel 9 C Release
+//Map	_control_	Channel 9 G Range
+//Map	_control_	Channel 9 G Threshold
+//Map	_control_	Channel 9 G Release
+//Map	_control_	Channel 9 G Hold
+//Map	_control_	Channel 9 Comp On
+//Map	_control_	Channel 9 C Peak
+//Map	_control_	Channel 9 C Fast Atk
+//Map	_control_	Channel 9 Key On
+//Map	_control_	Channel 9 Gate On
+//Map	_control_	Channel 9 G Fast Atk
+//Map	_control_	Channel 10 LPF Frequency
+//Map	_control_	Channel 10 HPF Frequency
+//Map	_control_	Channel 10 Rotary 2
+//Map	_control_	Channel 10 Rotary 3
+//Map	_control_	Channel 10 Rotary 4
+//Map	_control_	Channel 10 LPF On
+//Map	_control_	Channel 10 HPF On
+//Map	_control_	Channel 10 Button 1
+//Map	_control_	Channel 10 Button 2
+//Map	_control_	Channel 10 Button 3
+//Map	_control_	Channel 10 Button 4
+//Map	_control_	Channel 10 Bypass Insert FX
+//Map	_control_	Channel 10 Insert Pre
+//Map	_control_	Channel 10 Filters Dyn S/C
+//Map	_control_	Channel 10 Select Prev Insert FX Patch
+//Map	_control_	Channel 10 Select Next Insert FX Patch
+//Map	_control_	Channel 10 FX3 Send Level
+//Map	_control_	Channel 10 FX4 Send Level
+//Map	_control_	Channel 10 FX5 Send Level
+//Map	_control_	Channel 10 FX6 Send Level
+//Map	_control_	Channel 10 FX7 Send Level
+//Map	_control_	Channel 10 FX8 Send Level
+//Map	_control_	Channel 10 FX3 Send On
+//Map	_control_	Channel 10 FX4 Send On
+//Map	_control_	Channel 10 FX5 Send On
+//Map	_control_	Channel 10 FX6 Send On
+//Map	_control_	Channel 10 FX7 Send On
+//Map	_control_	Channel 10 FX8 Send On
+//Map	_control_	Channel 10 FX3 Pre Fader
+//Map	_control_	Channel 10 FX4 Pre Fader
+//Map	_control_	Channel 10 FX5 Pre Fader
+//Map	_control_	Channel 10 FX6 Pre Fader
+//Map	_control_	Channel 10 FX7 Pre Fader
+//Map	_control_	Channel 10 FX8 Pre Fader
+//Map	_control_	Channel 10 HF Gain
+//Map	_control_	Channel 10 HF Frequency
+//Map	_control_	Channel 10 HMF Gain
+//Map	_control_	Channel 10 HMF Frequency
+//Map	_control_	Channel 10 HMF Q
+//Map	_control_	Channel 10 LMF Gain
+//Map	_control_	Channel 10 LMF Frequency
+//Map	_control_	Channel 10 LMF Q
+//Map	_control_	Channel 10 LF Gain
+//Map	_control_	Channel 10 LF Frequency
+//Map	_control_	Channel 10 EQ On
+//Map	_control_	Channel 10 EQ E Mode
+//Map	_control_	Channel 10 HF Bell
+//Map	_control_	Channel 10 Dyn Post EQ
+//Map	_control_	Channel 10 LF Bell
+//Map	_control_	Channel 10 C Ratio
+//Map	_control_	Channel 10 C Threshold
+//Map	_control_	Channel 10 C Release
+//Map	_control_	Channel 10 G Range
+//Map	_control_	Channel 10 G Threshold
+//Map	_control_	Channel 10 G Release
+//Map	_control_	Channel 10 G Hold
+//Map	_control_	Channel 10 Comp On
+//Map	_control_	Channel 10 C Peak
+//Map	_control_	Channel 10 C Fast Atk
+//Map	_control_	Channel 10 Key On
+//Map	_control_	Channel 10 Gate On
+//Map	_control_	Channel 10 G Fast Atk
+//Map	_control_	Channel 11 LPF Frequency
+//Map	_control_	Channel 11 HPF Frequency
+//Map	_control_	Channel 11 Rotary 2
+//Map	_control_	Channel 11 Rotary 3
+//Map	_control_	Channel 11 Rotary 4
+//Map	_control_	Channel 11 LPF On
+//Map	_control_	Channel 11 HPF On
+//Map	_control_	Channel 11 Button 1
+//Map	_control_	Channel 11 Button 2
+//Map	_control_	Channel 11 Button 3
+//Map	_control_	Channel 11 Button 4
+//Map	_control_	Channel 11 Bypass Insert FX
+//Map	_control_	Channel 11 Insert Pre
+//Map	_control_	Channel 11 Filters Dyn S/C
+//Map	_control_	Channel 11 Select Prev Insert FX Patch
+//Map	_control_	Channel 11 Select Next Insert FX Patch
+//Map	_control_	Channel 11 FX3 Send Level
+//Map	_control_	Channel 11 FX4 Send Level
+//Map	_control_	Channel 11 FX5 Send Level
+//Map	_control_	Channel 11 FX6 Send Level
+//Map	_control_	Channel 11 FX7 Send Level
+//Map	_control_	Channel 11 FX8 Send Level
+//Map	_control_	Channel 11 FX3 Send On
+//Map	_control_	Channel 11 FX4 Send On
+//Map	_control_	Channel 11 FX5 Send On
+//Map	_control_	Channel 11 FX6 Send On
+//Map	_control_	Channel 11 FX7 Send On
+//Map	_control_	Channel 11 FX8 Send On
+//Map	_control_	Channel 11 FX3 Pre Fader
+//Map	_control_	Channel 11 FX4 Pre Fader
+//Map	_control_	Channel 11 FX5 Pre Fader
+//Map	_control_	Channel 11 FX6 Pre Fader
+//Map	_control_	Channel 11 FX7 Pre Fader
+//Map	_control_	Channel 11 FX8 Pre Fader
+//Map	_control_	Channel 11 HF Gain
+//Map	_control_	Channel 11 HF Frequency
+//Map	_control_	Channel 11 HMF Gain
+//Map	_control_	Channel 11 HMF Frequency
+//Map	_control_	Channel 11 HMF Q
+//Map	_control_	Channel 11 LMF Gain
+//Map	_control_	Channel 11 LMF Frequency
+//Map	_control_	Channel 11 LMF Q
+//Map	_control_	Channel 11 LF Gain
+//Map	_control_	Channel 11 LF Frequency
+//Map	_control_	Channel 11 EQ On
+//Map	_control_	Channel 11 EQ E Mode
+//Map	_control_	Channel 11 HF Bell
+//Map	_control_	Channel 11 Dyn Post EQ
+//Map	_control_	Channel 11 LF Bell
+//Map	_control_	Channel 11 C Ratio
+//Map	_control_	Channel 11 C Threshold
+//Map	_control_	Channel 11 C Release
+//Map	_control_	Channel 11 G Range
+//Map	_control_	Channel 11 G Threshold
+//Map	_control_	Channel 11 G Release
+//Map	_control_	Channel 11 G Hold
+//Map	_control_	Channel 11 Comp On
+//Map	_control_	Channel 11 C Peak
+//Map	_control_	Channel 11 C Fast Atk
+//Map	_control_	Channel 11 Key On
+//Map	_control_	Channel 11 Gate On
+//Map	_control_	Channel 11 G Fast Atk
+//Map	_control_	Channel 12 LPF Frequency
+//Map	_control_	Channel 12 HPF Frequency
+//Map	_control_	Channel 12 Rotary 2
+//Map	_control_	Channel 12 Rotary 3
+//Map	_control_	Channel 12 Rotary 4
+//Map	_control_	Channel 12 LPF On
+//Map	_control_	Channel 12 HPF On
+//Map	_control_	Channel 12 Button 1
+//Map	_control_	Channel 12 Button 2
+//Map	_control_	Channel 12 Button 3
+//Map	_control_	Channel 12 Button 4
+//Map	_control_	Channel 12 Bypass Insert FX
+//Map	_control_	Channel 12 Insert Pre
+//Map	_control_	Channel 12 Filters Dyn S/C
+//Map	_control_	Channel 12 Select Prev Insert FX Patch
+//Map	_control_	Channel 12 Select Next Insert FX Patch
+//Map	_control_	Channel 12 FX3 Send Level
+//Map	_control_	Channel 12 FX4 Send Level
+//Map	_control_	Channel 12 FX5 Send Level
+//Map	_control_	Channel 12 FX6 Send Level
+//Map	_control_	Channel 12 FX7 Send Level
+//Map	_control_	Channel 12 FX8 Send Level
+//Map	_control_	Channel 12 FX3 Send On
+//Map	_control_	Channel 12 FX4 Send On
+//Map	_control_	Channel 12 FX5 Send On
+//Map	_control_	Channel 12 FX6 Send On
+//Map	_control_	Channel 12 FX7 Send On
+//Map	_control_	Channel 12 FX8 Send On
+//Map	_control_	Channel 12 FX3 Pre Fader
+//Map	_control_	Channel 12 FX4 Pre Fader
+//Map	_control_	Channel 12 FX5 Pre Fader
+//Map	_control_	Channel 12 FX6 Pre Fader
+//Map	_control_	Channel 12 FX7 Pre Fader
+//Map	_control_	Channel 12 FX8 Pre Fader
+//Map	_control_	Channel 12 HF Gain
+//Map	_control_	Channel 12 HF Frequency
+//Map	_control_	Channel 12 HMF Gain
+//Map	_control_	Channel 12 HMF Frequency
+//Map	_control_	Channel 12 HMF Q
+//Map	_control_	Channel 12 LMF Gain
+//Map	_control_	Channel 12 LMF Frequency
+//Map	_control_	Channel 12 LMF Q
+//Map	_control_	Channel 12 LF Gain
+//Map	_control_	Channel 12 LF Frequency
+//Map	_control_	Channel 12 EQ On
+//Map	_control_	Channel 12 EQ E Mode
+//Map	_control_	Channel 12 HF Bell
+//Map	_control_	Channel 12 Dyn Post EQ
+//Map	_control_	Channel 12 LF Bell
+//Map	_control_	Channel 12 C Ratio
+//Map	_control_	Channel 12 C Threshold
+//Map	_control_	Channel 12 C Release
+//Map	_control_	Channel 12 G Range
+//Map	_control_	Channel 12 G Threshold
+//Map	_control_	Channel 12 G Release
+//Map	_control_	Channel 12 G Hold
+//Map	_control_	Channel 12 Comp On
+//Map	_control_	Channel 12 C Peak
+//Map	_control_	Channel 12 C Fast Atk
+//Map	_control_	Channel 12 Key On
+//Map	_control_	Channel 12 Gate On
+//Map	_control_	Channel 12 G Fast Atk
+//Map	_control_	Channel 13 LPF Frequency
+//Map	_control_	Channel 13 HPF Frequency
+//Map	_control_	Channel 13 Rotary 2
+//Map	_control_	Channel 13 Rotary 3
+//Map	_control_	Channel 13 Rotary 4
+//Map	_control_	Channel 13 LPF On
+//Map	_control_	Channel 13 HPF On
+//Map	_control_	Channel 13 Button 1
+//Map	_control_	Channel 13 Button 2
+//Map	_control_	Channel 13 Button 3
+//Map	_control_	Channel 13 Button 4
+//Map	_control_	Channel 13 Bypass Insert FX
+//Map	_control_	Channel 13 Insert Pre
+//Map	_control_	Channel 13 Filters Dyn S/C
+//Map	_control_	Channel 13 Select Prev Insert FX Patch
+//Map	_control_	Channel 13 Select Next Insert FX Patch
+//Map	_control_	Channel 13 FX3 Send Level
+//Map	_control_	Channel 13 FX4 Send Level
+//Map	_control_	Channel 13 FX5 Send Level
+//Map	_control_	Channel 13 FX6 Send Level
+//Map	_control_	Channel 13 FX7 Send Level
+//Map	_control_	Channel 13 FX8 Send Level
+//Map	_control_	Channel 13 FX3 Send On
+//Map	_control_	Channel 13 FX4 Send On
+//Map	_control_	Channel 13 FX5 Send On
+//Map	_control_	Channel 13 FX6 Send On
+//Map	_control_	Channel 13 FX7 Send On
+//Map	_control_	Channel 13 FX8 Send On
+//Map	_control_	Channel 13 FX3 Pre Fader
+//Map	_control_	Channel 13 FX4 Pre Fader
+//Map	_control_	Channel 13 FX5 Pre Fader
+//Map	_control_	Channel 13 FX6 Pre Fader
+//Map	_control_	Channel 13 FX7 Pre Fader
+//Map	_control_	Channel 13 FX8 Pre Fader
+//Map	_control_	Channel 13 HF Gain
+//Map	_control_	Channel 13 HF Frequency
+//Map	_control_	Channel 13 HMF Gain
+//Map	_control_	Channel 13 HMF Frequency
+//Map	_control_	Channel 13 HMF Q
+//Map	_control_	Channel 13 LMF Gain
+//Map	_control_	Channel 13 LMF Frequency
+//Map	_control_	Channel 13 LMF Q
+//Map	_control_	Channel 13 LF Gain
+//Map	_control_	Channel 13 LF Frequency
+//Map	_control_	Channel 13 EQ On
+//Map	_control_	Channel 13 EQ E Mode
+//Map	_control_	Channel 13 HF Bell
+//Map	_control_	Channel 13 Dyn Post EQ
+//Map	_control_	Channel 13 LF Bell
+//Map	_control_	Channel 13 C Ratio
+//Map	_control_	Channel 13 C Threshold
+//Map	_control_	Channel 13 C Release
+//Map	_control_	Channel 13 G Range
+//Map	_control_	Channel 13 G Threshold
+//Map	_control_	Channel 13 G Release
+//Map	_control_	Channel 13 G Hold
+//Map	_control_	Channel 13 Comp On
+//Map	_control_	Channel 13 C Peak
+//Map	_control_	Channel 13 C Fast Atk
+//Map	_control_	Channel 13 Key On
+//Map	_control_	Channel 13 Gate On
+//Map	_control_	Channel 13 G Fast Atk
+//Map	_control_	Channel 14 LPF Frequency
+//Map	_control_	Channel 14 HPF Frequency
+//Map	_control_	Channel 14 Rotary 2
+//Map	_control_	Channel 14 Rotary 3
+//Map	_control_	Channel 14 Rotary 4
+//Map	_control_	Channel 14 LPF On
+//Map	_control_	Channel 14 HPF On
+//Map	_control_	Channel 14 Button 1
+//Map	_control_	Channel 14 Button 2
+//Map	_control_	Channel 14 Button 3
+//Map	_control_	Channel 14 Button 4
+//Map	_control_	Channel 14 Bypass Insert FX
+//Map	_control_	Channel 14 Insert Pre
+//Map	_control_	Channel 14 Filters Dyn S/C
+//Map	_control_	Channel 14 Select Prev Insert FX Patch
+//Map	_control_	Channel 14 Select Next Insert FX Patch
+//Map	_control_	Channel 14 FX3 Send Level
+//Map	_control_	Channel 14 FX4 Send Level
+//Map	_control_	Channel 14 FX5 Send Level
+//Map	_control_	Channel 14 FX6 Send Level
+//Map	_control_	Channel 14 FX7 Send Level
+//Map	_control_	Channel 14 FX8 Send Level
+//Map	_control_	Channel 14 FX3 Send On
+//Map	_control_	Channel 14 FX4 Send On
+//Map	_control_	Channel 14 FX5 Send On
+//Map	_control_	Channel 14 FX6 Send On
+//Map	_control_	Channel 14 FX7 Send On
+//Map	_control_	Channel 14 FX8 Send On
+//Map	_control_	Channel 14 FX3 Pre Fader
+//Map	_control_	Channel 14 FX4 Pre Fader
+//Map	_control_	Channel 14 FX5 Pre Fader
+//Map	_control_	Channel 14 FX6 Pre Fader
+//Map	_control_	Channel 14 FX7 Pre Fader
+//Map	_control_	Channel 14 FX8 Pre Fader
+//Map	_control_	Channel 14 HF Gain
+//Map	_control_	Channel 14 HF Frequency
+//Map	_control_	Channel 14 HMF Gain
+//Map	_control_	Channel 14 HMF Frequency
+//Map	_control_	Channel 14 HMF Q
+//Map	_control_	Channel 14 LMF Gain
+//Map	_control_	Channel 14 LMF Frequency
+//Map	_control_	Channel 14 LMF Q
+//Map	_control_	Channel 14 LF Gain
+//Map	_control_	Channel 14 LF Frequency
+//Map	_control_	Channel 14 EQ On
+//Map	_control_	Channel 14 EQ E Mode
+//Map	_control_	Channel 14 HF Bell
+//Map	_control_	Channel 14 Dyn Post EQ
+//Map	_control_	Channel 14 LF Bell
+//Map	_control_	Channel 14 C Ratio
+//Map	_control_	Channel 14 C Threshold
+//Map	_control_	Channel 14 C Release
+//Map	_control_	Channel 14 G Range
+//Map	_control_	Channel 14 G Threshold
+//Map	_control_	Channel 14 G Release
+//Map	_control_	Channel 14 G Hold
+//Map	_control_	Channel 14 Comp On
+//Map	_control_	Channel 14 C Peak
+//Map	_control_	Channel 14 C Fast Atk
+//Map	_control_	Channel 14 Key On
+//Map	_control_	Channel 14 Gate On
+//Map	_control_	Channel 14 G Fast Atk
+//Map	_control_	Channel 15 LPF Frequency
+//Map	_control_	Channel 15 HPF Frequency
+//Map	_control_	Channel 15 Rotary 2
+//Map	_control_	Channel 15 Rotary 3
+//Map	_control_	Channel 15 Rotary 4
+//Map	_control_	Channel 15 LPF On
+//Map	_control_	Channel 15 HPF On
+//Map	_control_	Channel 15 Button 1
+//Map	_control_	Channel 15 Button 2
+//Map	_control_	Channel 15 Button 3
+//Map	_control_	Channel 15 Button 4
+//Map	_control_	Channel 15 Bypass Insert FX
+//Map	_control_	Channel 15 Insert Pre
+//Map	_control_	Channel 15 Filters Dyn S/C
+//Map	_control_	Channel 15 Select Prev Insert FX Patch
+//Map	_control_	Channel 15 Select Next Insert FX Patch
+//Map	_control_	Channel 15 FX3 Send Level
+//Map	_control_	Channel 15 FX4 Send Level
+//Map	_control_	Channel 15 FX5 Send Level
+//Map	_control_	Channel 15 FX6 Send Level
+//Map	_control_	Channel 15 FX7 Send Level
+//Map	_control_	Channel 15 FX8 Send Level
+//Map	_control_	Channel 15 FX3 Send On
+//Map	_control_	Channel 15 FX4 Send On
+//Map	_control_	Channel 15 FX5 Send On
+//Map	_control_	Channel 15 FX6 Send On
+//Map	_control_	Channel 15 FX7 Send On
+//Map	_control_	Channel 15 FX8 Send On
+//Map	_control_	Channel 15 FX3 Pre Fader
+//Map	_control_	Channel 15 FX4 Pre Fader
+//Map	_control_	Channel 15 FX5 Pre Fader
+//Map	_control_	Channel 15 FX6 Pre Fader
+//Map	_control_	Channel 15 FX7 Pre Fader
+//Map	_control_	Channel 15 FX8 Pre Fader
+//Map	_control_	Channel 15 HF Gain
+//Map	_control_	Channel 15 HF Frequency
+//Map	_control_	Channel 15 HMF Gain
+//Map	_control_	Channel 15 HMF Frequency
+//Map	_control_	Channel 15 HMF Q
+//Map	_control_	Channel 15 LMF Gain
+//Map	_control_	Channel 15 LMF Frequency
+//Map	_control_	Channel 15 LMF Q
+//Map	_control_	Channel 15 LF Gain
+//Map	_control_	Channel 15 LF Frequency
+//Map	_control_	Channel 15 EQ On
+//Map	_control_	Channel 15 EQ E Mode
+//Map	_control_	Channel 15 HF Bell
+//Map	_control_	Channel 15 Dyn Post EQ
+//Map	_control_	Channel 15 LF Bell
+//Map	_control_	Channel 15 C Ratio
+//Map	_control_	Channel 15 C Threshold
+//Map	_control_	Channel 15 C Release
+//Map	_control_	Channel 15 G Range
+//Map	_control_	Channel 15 G Threshold
+//Map	_control_	Channel 15 G Release
+//Map	_control_	Channel 15 G Hold
+//Map	_control_	Channel 15 Comp On
+//Map	_control_	Channel 15 C Peak
+//Map	_control_	Channel 15 C Fast Atk
+//Map	_control_	Channel 15 Key On
+//Map	_control_	Channel 15 Gate On
+//Map	_control_	Channel 15 G Fast Atk
+//Map	_control_	Channel 16 LPF Frequency
+//Map	_control_	Channel 16 HPF Frequency
+//Map	_control_	Channel 16 Rotary 2
+//Map	_control_	Channel 16 Rotary 3
+//Map	_control_	Channel 16 Rotary 4
+//Map	_control_	Channel 16 LPF On
+//Map	_control_	Channel 16 HPF On
+//Map	_control_	Channel 16 Button 1
+//Map	_control_	Channel 16 Button 2
+//Map	_control_	Channel 16 Button 3
+//Map	_control_	Channel 16 Button 4
+//Map	_control_	Channel 16 Bypass Insert FX
+//Map	_control_	Channel 16 Insert Pre
+//Map	_control_	Channel 16 Filters Dyn S/C
+//Map	_control_	Channel 16 Select Prev Insert FX Patch
+//Map	_control_	Channel 16 Select Next Insert FX Patch
+//Map	_control_	Channel 16 FX3 Send Level
+//Map	_control_	Channel 16 FX4 Send Level
+//Map	_control_	Channel 16 FX5 Send Level
+//Map	_control_	Channel 16 FX6 Send Level
+//Map	_control_	Channel 16 FX7 Send Level
+//Map	_control_	Channel 16 FX8 Send Level
+//Map	_control_	Channel 16 FX3 Send On
+//Map	_control_	Channel 16 FX4 Send On
+//Map	_control_	Channel 16 FX5 Send On
+//Map	_control_	Channel 16 FX6 Send On
+//Map	_control_	Channel 16 FX7 Send On
+//Map	_control_	Channel 16 FX8 Send On
+//Map	_control_	Channel 16 FX3 Pre Fader
+//Map	_control_	Channel 16 FX4 Pre Fader
+//Map	_control_	Channel 16 FX5 Pre Fader
+//Map	_control_	Channel 16 FX6 Pre Fader
+//Map	_control_	Channel 16 FX7 Pre Fader
+//Map	_control_	Channel 16 FX8 Pre Fader
+//Map	_control_	Channel 16 HF Gain
+//Map	_control_	Channel 16 HF Frequency
+//Map	_control_	Channel 16 HMF Gain
+//Map	_control_	Channel 16 HMF Frequency
+//Map	_control_	Channel 16 HMF Q
+//Map	_control_	Channel 16 LMF Gain
+//Map	_control_	Channel 16 LMF Frequency
+//Map	_control_	Channel 16 LMF Q
+//Map	_control_	Channel 16 LF Gain
+//Map	_control_	Channel 16 LF Frequency
+//Map	_control_	Channel 16 EQ On
+//Map	_control_	Channel 16 EQ E Mode
+//Map	_control_	Channel 16 HF Bell
+//Map	_control_	Channel 16 Dyn Post EQ
+//Map	_control_	Channel 16 LF Bell
+//Map	_control_	Channel 16 C Ratio
+//Map	_control_	Channel 16 C Threshold
+//Map	_control_	Channel 16 C Release
+//Map	_control_	Channel 16 G Range
+//Map	_control_	Channel 16 G Threshold
+//Map	_control_	Channel 16 G Release
+//Map	_control_	Channel 16 G Hold
+//Map	_control_	Channel 16 Comp On
+//Map	_control_	Channel 16 C Peak
+//Map	_control_	Channel 16 C Fast Atk
+//Map	_control_	Channel 16 Key On
+//Map	_control_	Channel 16 Gate On
+//Map	_control_	Channel 16 G Fast Atk
+//Map	_control_	Type=Simple
+//Map	_control_	Type=Complex
+//Map	_control_	Channel 17 Input Gain
+//Map	_control_	Channel 18 Input Gain
+//Map	_control_	Channel 19 Input Gain
+//Map	_control_	Channel 20 Input Gain
+//Map	_control_	Channel 21 Input Gain
+//Map	_control_	Channel 22 Input Gain
+//Map	_control_	Channel 23 Input Gain
+//Map	_control_	Channel 24 Input Gain
+//Map	_control_	Channel 25 Input Gain
+//Map	_control_	Channel 26 Input Gain
+//Map	_control_	Channel 27 Input Gain
+//Map	_control_	Channel 28 Input Gain
+//Map	_control_	Channel 29 Input Gain
+//Map	_control_	Channel 30 Input Gain
+//Map	_control_	Channel 31 Input Gain
+//Map	_control_	Channel 32 Input Gain
+//Map	_control_	Channel 33 Input Gain
+//Map	_control_	Channel 34 Input Gain
+//Map	_control_	Channel 35 Input Gain
+//Map	_control_	Channel 36 Input Gain
+//Map	_control_	Channel 37 Input Gain
+//Map	_control_	Channel 38 Input Gain
+//Map	_control_	Channel 39 Input Gain
+//Map	_control_	Channel 40 Input Gain
+//Map	_control_	Channel 41 Input Gain
+//Map	_control_	Channel 42 Input Gain
+//Map	_control_	Channel 43 Input Gain
+//Map	_control_	Channel 44 Input Gain
+//Map	_control_	Channel 45 Input Gain
+//Map	_control_	Channel 46 Input Gain
+//Map	_control_	Channel 47 Input Gain
+//Map	_control_	Channel 48 Input Gain
+//Map	_control_	Channel 49 Input Gain
+//Map	_control_	Channel 50 Input Gain
+//Map	_control_	Channel 51 Input Gain
+//Map	_control_	Channel 52 Input Gain
+//Map	_control_	Channel 53 Input Gain
+//Map	_control_	Channel 54 Input Gain
+//Map	_control_	Channel 55 Input Gain
+//Map	_control_	Channel 56 Input Gain
+//Map	_control_	Channel 57 Input Gain
+//Map	_control_	Channel 58 Input Gain
+//Map	_control_	Channel 59 Input Gain
+//Map	_control_	Channel 60 Input Gain
+//Map	_control_	Channel 61 Input Gain
+//Map	_control_	Channel 62 Input Gain
+//Map	_control_	Channel 63 Input Gain
+//Map	_control_	Channel 64 Input Gain
+//Map	_control_	Channel 57 FX1 Send On
+//Map	_control_	Channel 58 FX1 Send On
+//Map	_control_	Channel 59 FX1 Send On
+//Map	_control_	Channel 60 FX1 Send On
+//Map	_control_	Channel 61 FX1 Send On
+//Map	_control_	Channel 62 FX1 Send On
+//Map	_control_	Channel 63 FX1 Send On
+//Map	_control_	Channel 64 FX1 Send On
+//Map	_control_	9 A
+//Map	_control_	10 A
+//Map	_control_	11 A
+//Map	_control_	??
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF
+//Map	_control_	ControlSet=Main
+//Map	_control_	ControlSet=FX
+//Map	_control_	ControlSet=Ins
+//Map	_control_	ControlSet=Dyn
+//Map	_control_	ControlSet=In

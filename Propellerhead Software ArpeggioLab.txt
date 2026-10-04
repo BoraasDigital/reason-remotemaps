@@ -1,0 +1,34 @@
+Scope	Propellerhead Software	se.propellerheads.ArpeggioLab
+//Map	_control_	Anchor Pattern
+//Map	_control_	Anchor Note Length
+//Map	_control_	Anchor Octave
+//Map	_control_	Anchor Velocity Offset
+//Map	_control_	Movement Density
+//Map	_control_	Movement Shape
+//Map	_control_	Movement Shift Rhythm
+//Map	_control_	Steps
+//Map	_control_	Movement Note Length
+//Map	_control_	Movement Velocity Offset
+//Map	_control_	Movement Octave
+//Map	_control_	Movement Humanize
+//Map	_control_	Rhythm Mod Amount
+//Map	_control_	Rhythm Mod Notes
+//Map	_control_	Octave Mod Amount
+//Map	_control_	Octave Mod Transpose
+//Map	_control_	Hold On
+//Map	_control_	Rhythm Modifier On
+//Map	_control_	Octave Modifier On
+//Map	_control_	Play Mode
+//Map	_control_	Rhythm Mod Movement Only
+//Map	_control_	Octave Mod Movement Only
+//Map	_control_	Hold Mode
+//Map	_control_	Movement Fixed Velocity
+//Map	_control_	Movement Velocity Mode
+//Map	_control_	Anchor Fixed Velocity
+//Map	_control_	Anchor On
+//Map	_control_	Movement On
+//Map	_control_	Anchor Velocity Mode
+//Map	_control_	Device Name
+//Map	_control_	Patch Name
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch

@@ -1,0 +1,145 @@
+Scope	Propellerheads	Record Main Mixer Channel
+//Map	_control_	Rotary 1
+//Map	_control_	Rotary 2
+//Map	_control_	Rotary 3
+//Map	_control_	Rotary 4
+//Map	_control_	LPF Frequency
+//Map	_control_	HPF Frequency
+//Map	_control_	Pan
+//Map	_control_	Level
+//Map	_control_	Button 1
+//Map	_control_	Button 2
+//Map	_control_	Button 3
+//Map	_control_	Button 4
+//Map	_control_	LPF On
+//Map	_control_	HPF On
+//Map	_control_	Mute
+//Map	_control_	Solo
+//Map	_control_	LF Gain
+//Map	_control_	LF Frequency
+//Map	_control_	LMF Gain
+//Map	_control_	LMF Frequency
+//Map	_control_	HMF Gain
+//Map	_control_	HMF Frequency
+//Map	_control_	HF Gain
+//Map	_control_	HF Frequency
+//Map	_control_	EQ On
+//Map	_control_	EQ E Mode
+//Map	_control_	FX1 Send Level
+//Map	_control_	FX2 Send Level
+//Map	_control_	FX3 Send Level
+//Map	_control_	FX4 Send Level
+//Map	_control_	FX5 Send Level
+//Map	_control_	FX6 Send Level
+//Map	_control_	FX7 Send Level
+//Map	_control_	FX8 Send Level
+//Map	_control_	FX1 Send On
+//Map	_control_	FX2 Send On
+//Map	_control_	FX3 Send On
+//Map	_control_	FX4 Send On
+//Map	_control_	FX5 Send On
+//Map	_control_	FX6 Send On
+//Map	_control_	FX7 Send On
+//Map	_control_	FX8 Send On
+//Map	_control_	Input Gain
+//Map	_control_	C Ratio
+//Map	_control_	C Threshold
+//Map	_control_	C Release
+//Map	_control_	G Range
+//Map	_control_	G Threshold
+//Map	_control_	G Release
+//Map	_control_	G Hold
+//Map	_control_	Invert Phase
+//Map	_control_	Comp On
+//Map	_control_	C Peak
+//Map	_control_	C Fast Atk
+//Map	_control_	Gate On
+//Map	_control_	Expander
+//Map	_control_	G Fast Atk
+//Map	_control_	Key On
+//Map	_control_	Width
+//Map	_control_	Bypass Insert FX
+//Map	_control_	LMF Q
+//Map	_control_	HMF Q
+//Map	_control_	LF Bell
+//Map	_control_	HF Bell
+//Map	_control_	Select Prev Insert FX Patch
+//Map	_control_	Select Next Insert FX Patch
+//Map	_control_	VU Meter
+//Map	_control_	Comp Gain Reduction
+//Map	_control_	Insert Pre
+//Map	_control_	FX1 Pre Fader
+//Map	_control_	FX2 Pre Fader
+//Map	_control_	FX3 Pre Fader
+//Map	_control_	FX4 Pre Fader
+//Map	_control_	FX5 Pre Fader
+//Map	_control_	FX6 Pre Fader
+//Map	_control_	FX7 Pre Fader
+//Map	_control_	FX8 Pre Fader
+//Map	_control_	Dyn Post EQ
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	TheGroup=Pan
+//Map	_control_	TheGroup=Sends1
+//Map	_control_	TheGroup=EQ1
+//Map	_control_	TheGroup=Ins1
+//Map	_control_	TheGroup=Dyn1
+//Map	_control_	TheGroup=Sends2
+//Map	_control_	TheGroup=EQ2
+//Map	_control_	TheGroup=Ins2
+//Map	_control_	TheGroup=Dyn2
+//Map	_control_	Channel Name
+//Map	_control_	Insert FX Patch Name
+//Map	_control_	Filters Dyn S/C
+//Map	_control_	Variation=Eq
+//Map	_control_	Variation=Inserts
+//Map	_control_	Variation=FX Sends
+//Map	_control_	Variation=Dyn
+//Map	_control_	Keyboard Shortcut Variations=EQ
+//Map	_control_	Keyboard Shortcut Variations=Dynamics
+//Map	_control_	Gate Gain Reduction
+//Map	_control_	HMF On
+//Map	_control_	LMF On
+//Map	_control_	HF On
+//Map	_control_	LF On
+//Map	_control_	Dyn_vars=Comp
+//Map	_control_	Dyn_vars=Gate
+//Map	_control_	Send_vars=On
+//Map	_control_	Send_vars=Pre
+//Map	_control_	Send_vars=Level
+//Map	_control_	EQ_vars=Top
+//Map	_control_	EQ_vars=Lo
+//Map	_control_	EQ_vars=Hi
+//Map	_control_	Channel name
+//Map	_control_	Flip=Flip Off
+//Map	_control_	Flip=Flip On
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	button_vars=Pre
+//Map	_control_	button_vars=Send_On
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Rotaries=FXSends
+//Map	_control_	Rotaries=EQ
+//Map	_control_	Rotaries=Ins+Pan
+//Map	_control_	Rotaries=Dyn
+//Map	_control_	Rotaries=FX+Pan
+//Map	_control_	10 A
+//Map	_control_	5 A
+//Map	_control_	8 A
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF
+//Map	_control_	ControlSet=Main
+//Map	_control_	ControlSet=FX Sends
+//Map	_control_	ControlSet=Inserts
+//Map	_control_	ControlSet=Eq

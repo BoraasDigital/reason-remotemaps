@@ -1,0 +1,75 @@
+Scope	Propellerheads	Pulveriser
+//Map	_control_	Select Next Patch
+//Map	_control_	Select Previous Patch
+//Map	_control_	Routing
+//Map	_control_	Follower Trig
+//Map	_control_	Sync
+//Map	_control_	Tremor Spread
+//Map	_control_	Enabled
+//Map	_control_	Squash
+//Map	_control_	Dirt
+//Map	_control_	Filter Frequency
+//Map	_control_	Peak
+//Map	_control_	Tremor Rate
+//Map	_control_	Follower Threshold
+//Map	_control_	Follower Attack
+//Map	_control_	Follower Release
+//Map	_control_	Volume
+//Map	_control_	Filter Mode
+//Map	_control_	Release
+//Map	_control_	Tone
+//Map	_control_	Tremor Waveform
+//Map	_control_	Tremor Lag
+//Map	_control_	Tremor to Frequency
+//Map	_control_	Follower to Rate
+//Map	_control_	Follower to Frequency
+//Map	_control_	Tremor to Volume
+//Map	_control_	Blend
+//Map	_control_	Device Name
+//Map	_control_	Patch Name
+//Map	_control_	Follow
+//Map	_control_	Input Peak Meter
+//Map	_control_	TheGroup=Default
+//Map	_control_	TheGroup=Filter
+//Map	_control_	TheGroup=Tremor
+//Map	_control_	TheGroup=Follow
+//Map	_control_	TheGroup=Other
+//Map	_control_	TheGroup=Bottom
+//Map	_control_	Button
+//Map	_control_	TheGroup=Follow2
+//Map	_control_	Variation=Var0
+//Map	_control_	Variation=Var1
+//Map	_control_	Keyboard Shortcut Variations=Main
+//Map	_control_	Keyboard Shortcut Variations=Follower
+//Map	_control_	Keyboard Shortcut Variations=Tremor
+//Map	_control_	Keyboard Shortcut Variations=
+//Map	_control_	Select Patch Delta
+//Map	_control_	7_2
+//Map	_control_	Layers=Main
+//Map	_control_	Layers=SetA
+//Map	_control_	Layers=SetB
+//Map	_control_	Layers=Extra
+//Map	_control_	Layers=Var1
+//Map	_control_	Layers=Var2
+//Map	_control_	Layers=Var3
+//Map	_control_	7 Rec Bank 1
+//Map	_control_	8 Rec Bank 1
+//Map	_control_	X
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	3 Rec Bank 1
+//Map	_control_	4 Rec Bank 1
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF
+//Map	_control_	ControlSet=Main
+//Map	_control_	ControlSet=Filter
+//Map	_control_	ControlSet=Follower
+//Map	_control_	ControlSet=LFO

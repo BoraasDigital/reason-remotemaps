@@ -1,0 +1,56 @@
+Scope	Propellerhead Software	se.propellerheads.Polytone
+//Map	_control_	Osc 1 Shape A
+//Map	_control_	Osc 2 Shape A
+//Map	_control_	FM Amt A
+//Map	_control_	Osc Mix A
+//Map	_control_	Filter Freq A
+//Map	_control_	Filter Reso A
+//Map	_control_	Layer Balance
+//Map	_control_	Master Volume
+//Map	_control_	Osc 1 Shape B
+//Map	_control_	Osc 2 Shape B
+//Map	_control_	FM Amt B
+//Map	_control_	Osc Mix B
+//Map	_control_	Filter Freq B
+//Map	_control_	Filter Reso B
+//Map	_control_	Chorus Amount
+//Map	_control_	Reverb Amount
+//Map	_control_	Osc 1 Wave A
+//Map	_control_	Osc 2 Wave A
+//Map	_control_	Osc Sync A
+//Map	_control_	Portamento Mode A
+//Map	_control_	Osc 1 Wave B
+//Map	_control_	Osc 2 Wave B
+//Map	_control_	Osc Sync B
+//Map	_control_	Chorus Type
+//Map	_control_	Reverb Type
+//Map	_control_	Osc 1 Pitch A
+//Map	_control_	Noise Level A
+//Map	_control_	Global LFO Rate
+//Map	_control_	Filter Env Attack A
+//Map	_control_	Filter Env Decay A
+//Map	_control_	Filter Env Sustain A
+//Map	_control_	Filter Env Release A
+//Map	_control_	Filter Type A
+//Map	_control_	Filter Env Amt A
+//Map	_control_	Amp Env Attack A
+//Map	_control_	Amp Env Decay A
+//Map	_control_	Amp Env Sustain A
+//Map	_control_	Amp Env Release A
+//Map	_control_	Osc 1 Pitch B
+//Map	_control_	Noise Level B
+//Map	_control_	Reverb Decay
+//Map	_control_	Filter Env Attack B
+//Map	_control_	Filter Env Decay B
+//Map	_control_	Filter Env Sustain B
+//Map	_control_	Filter Env Release B
+//Map	_control_	Filter Type B
+//Map	_control_	Filter Env Amt B
+//Map	_control_	Amp Env Attack B
+//Map	_control_	Amp Env Decay B
+//Map	_control_	Amp Env Sustain B
+//Map	_control_	Amp Env Release B
+//Map	_control_	Device Name
+//Map	_control_	Patch Name
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch

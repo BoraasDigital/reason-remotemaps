@@ -1,0 +1,57 @@
+Scope	Propellerheads	Neptune Pitch Adjuster
+//Map	_control_	Pitch Adjust On/Off
+//Map	_control_	Scale Memory
+//Map	_control_	Transpose On/Off
+//Map	_control_	Formant On/Off
+//Map	_control_	Low Freq Input
+//Map	_control_	Wide Vibrato
+//Map	_control_	Live Mode
+//Map	_control_	MIDI Destination
+//Map	_control_	Correction Speed
+//Map	_control_	Preserve Expression
+//Map	_control_	Semitones
+//Map	_control_	Formant Shift
+//Map	_control_	Vibrato Rate
+//Map	_control_	Pitched Signal Level
+//Map	_control_	Voice Synth Level
+//Map	_control_	Cent
+//Map	_control_	Enabled
+//Map	_control_	Pitch Bend Range
+//Map	_control_	Mod Wheel
+//Map	_control_	Catch Zone
+//Map	_control_	Pitch Adjust Amount
+//Map	_control_	Vibrato rate
+//Map	_control_	Mod wheel
+//Map	_control_	pitch bend
+//Map	_control_	Device Name
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	Select Patch Delta
+//Map	_control_	Pitch Bend
+//Map	_control_	Midi Destination
+//Map	_control_	Flip=Flip Off
+//Map	_control_	Flip=Flip On
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	X
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	3 Rec Bank 1
+//Map	_control_	4 Rec Bank 1
+//Map	_control_	5 Rec Bank 1
+//Map	_control_	6 Rec Bank 1
+//Map	_control_	7 Rec Bank 1
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF

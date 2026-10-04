@@ -1,0 +1,39 @@
+Scope	Propellerhead Software	se.propellerheads.ElectricBass
+//Map	_control_	EQ Band 1
+//Map	_control_	EQ Band 2
+//Map	_control_	EQ Band 3
+//Map	_control_	EQ Band 4
+//Map	_control_	EQ Band 5
+//Map	_control_	EQ Gain
+//Map	_control_	Bass
+//Map	_control_	Volume
+//Map	_control_	Compressor Attack
+//Map	_control_	Compressor Sustain
+//Map	_control_	Compressor Level
+//Map	_control_	Drive Dist Dist
+//Map	_control_	Drive Dist Tone
+//Map	_control_	Drive Dist Level
+//Map	_control_	Source Mix
+//Map	_control_	Chorus Rate
+//Map	_control_	Chorus Depth
+//Map	_control_	Chorus Level
+//Map	_control_	Reamp Gain
+//Map	_control_	EQ On/Off
+//Map	_control_	Compressor On/Off
+//Map	_control_	Drive Dist On/Off
+//Map	_control_	Chorus On/Off
+//Map	_control_	Reamp On/Off
+//Map	_control_	Hammer On
+//Map	_control_	Glissando
+//Map	_control_	Reamp Bass
+//Map	_control_	Reamp Mid
+//Map	_control_	Reamp Treble
+//Map	_control_	Pickup Mix
+//Map	_control_	Reamp Pre Effects
+//Map	_control_	Amp & Mic
+//Map	_control_	Device Name
+//Map	_control_	Randomness
+//Map	_control_	Aftertouch
+//Map	_control_	Patch Name
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch

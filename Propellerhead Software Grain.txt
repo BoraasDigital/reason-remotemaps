@@ -1,0 +1,184 @@
+Scope	Propellerhead Software	se.propellerheads.Grain
+//Map	_control_	Position
+//Map	_control_	Formant
+//Map	_control_	Grain Length
+//Map	_control_	Rate-Spacing
+//Map	_control_	Osc Mod
+//Map	_control_	Osc Level
+//Map	_control_	Filter Freq
+//Map	_control_	Filter Reso
+//Map	_control_	End Pos
+//Map	_control_	Speed
+//Map	_control_	Sample Level
+//Map	_control_	Osc Wave
+//Map	_control_	Mod Effect Amount
+//Map	_control_	Dist Amount
+//Map	_control_	Delay Amount
+//Map	_control_	Reverb Amount
+//Map	_control_	Portamento
+//Map	_control_	Master Volume
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	Scroll
+//Map	_control_	Zoom
+//Map	_control_	Sample To Filter
+//Map	_control_	Filter Type
+//Map	_control_	Filter Env2
+//Map	_control_	Osc On
+//Map	_control_	Osc To Filter
+//Map	_control_	Amp Attack
+//Map	_control_	Amp Decay
+//Map	_control_	Amp Sustain
+//Map	_control_	Amp Release
+//Map	_control_	Phaser On
+//Map	_control_	Dist On
+//Map	_control_	Delay On
+//Map	_control_	Reverb On
+//Map	_control_	Jitter
+//Map	_control_	Oct
+//Map	_control_	Semi
+//Map	_control_	XFade
+//Map	_control_	Pan Spread
+//Map	_control_	Pitch Jitter
+//Map	_control_	Harm Snap
+//Map	_control_	Harm Filter
+//Map	_control_	Mod Effect Rate
+//Map	_control_	Dist Drive
+//Map	_control_	Env 1 Rate
+//Map	_control_	Env 2 Rate
+//Map	_control_	Env 3 Rate
+//Map	_control_	Env 4 Rate
+//Map	_control_	LFO 1 Rate
+//Map	_control_	LFO 2 Rate
+//Map	_control_	LFO 3 Rate
+//Map	_control_	Delay Sync
+//Map	_control_	Delay PingPong
+//Map	_control_	Comp On
+//Map	_control_	Eq On
+//Map	_control_	Delay Time
+//Map	_control_	Delay Synced Time
+//Map	_control_	Delay Pan
+//Map	_control_	Delay FB
+//Map	_control_	Reverb Decay
+//Map	_control_	Effect On
+//Map	_control_	Curve On
+//Map	_control_	Tune
+//Map	_control_	Mod1 Dest1 Amt
+//Map	_control_	Mod1 Dest2 Amt
+//Map	_control_	Mod1 Scale Amt
+//Map	_control_	Mod1 Scale
+//Map	_control_	LFO 1 SyncRate
+//Map	_control_	LFO 1 Delay
+//Map	_control_	LFO 1 TempoSync
+//Map	_control_	LFO 1 KeySync
+//Map	_control_	LFO 1 Global
+//Map	_control_	Mod2 Dest1 Amt
+//Map	_control_	Mod2 Dest2 Amt
+//Map	_control_	Mod2 Scale Amt
+//Map	_control_	Mod2 Scale
+//Map	_control_	LFO 2 SyncRate
+//Map	_control_	LFO 2 Delay
+//Map	_control_	LFO 2 TempoSync
+//Map	_control_	LFO 2 KeySync
+//Map	_control_	LFO 2 Global
+//Map	_control_	Mod3 Dest1 Amt
+//Map	_control_	Mod3 Dest2 Amt
+//Map	_control_	Mod3 Scale Amt
+//Map	_control_	Mod3 Scale
+//Map	_control_	LFO 3 SyncRate
+//Map	_control_	LFO 3 Delay
+//Map	_control_	LFO 3 TempoSync
+//Map	_control_	LFO 3 KeySync
+//Map	_control_	LFO 3 Global
+//Map	_control_	Filter Vel
+//Map	_control_	Filter Kbd
+//Map	_control_	Mod Effect Depth
+//Map	_control_	Reverb Size
+//Map	_control_	Reverb Damp
+//Map	_control_	Comp Attack
+//Map	_control_	Comp Threshold
+//Map	_control_	Dist Tone
+//Map	_control_	Comp Release
+//Map	_control_	Comp Ratio
+//Map	_control_	EQ Freq
+//Map	_control_	EQ Q
+//Map	_control_	EQ Gain
+//Map	_control_	Amp Gain
+//Map	_control_	Parameters=Osc
+//Map	_control_	Parameters=Filters+FX
+//Map	_control_	Key Mode
+//Map	_control_	Formant Tune
+//Map	_control_	FFT Size
+//Map	_control_	Osc Oct
+//Map	_control_	Global Position
+//Map	_control_	Motion
+//Map	_control_	Algorithm
+//Map	_control_	Dist Type
+//Map	_control_	Mod Effect Type
+//Map	_control_	Device Name
+//Map	_control_	Lfo 1 Rate
+//Map	_control_	Aftertouch
+//Map	_control_	Patch Name
+//Map	_control_	Varation=Var1
+//Map	_control_	Varation=Var2
+//Map	_control_	Varation=Sync
+//Map	_control_	Varation=Var3
+//Map	_control_	Env 2 Syncrate
+//Map	_control_	Pitch KBD
+//Map	_control_	Osc to Filter
+//Map	_control_	Sample to Filter
+//Map	_control_	Reverb on
+//Map	_control_	Delay on
+//Map	_control_	Varation=Amp
+//Map	_control_	Varation=Env
+//Map	_control_	Varation=Osc
+//Map	_control_	Varation=Filters
+//Map	_control_	EQ On
+//Map	_control_	Filter KBD
+//Map	_control_	Pitch Kbd
+//Map	_control_	Xfade
+//Map	_control_	Pitch Bend
+//Map	_control_	Mod Wheel
+//Map	_control_	7 Rec Bank 1
+//Map	_control_	8 Rec Bank 1
+//Map	_control_	X
+//Map	_control_	Y
+//Map	_control_	2 Bank 3
+//Map	_control_	3 Bank 3
+//Map	_control_	4 Bank 3
+//Map	_control_	5 Bank 3
+//Map	_control_	6 Bank 3
+//Map	_control_	7 Bank 3
+//Map	_control_	8 Bank 3
+//Map	_control_	1 Bank 3
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	3 Rec Bank 1
+//Map	_control_	4 Rec Bank 1
+//Map	_control_	5 Rec Bank 1
+//Map	_control_	6 Rec Bank 1
+//Map	_control_	1 Rec Bank 2
+//Map	_control_	2 Rec Bank 2
+//Map	_control_	3 Rec Bank 2
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Effect Select
+//Map	_control_	Env Select
+//Map	_control_	LFO Select
+//Map	_control_	Record Sample
+//Map	_control_	Play Pos
+//Map	_control_	Mod4 Dest1 Amt
+//Map	_control_	Mod5 Dest1 Amt
+//Map	_control_	Mod6 Dest1 Amt
+//Map	_control_	Mod7 Dest1 Amt
+//Map	_control_	Mod8 Dest1 Amt
+//Map	_control_	Curve Amt
+//Map	_control_	Mod Effect Spread
+//Map	_control_	Mod4 Dest2 Amt
+//Map	_control_	Mod5 Dest2 Amt
+//Map	_control_	Mod6 Dest2 Amt
+//Map	_control_	Mod7 Dest2 Amt
+//Map	_control_	Mod8 Dest2 Amt
+//Map	_control_	Portamento Mode

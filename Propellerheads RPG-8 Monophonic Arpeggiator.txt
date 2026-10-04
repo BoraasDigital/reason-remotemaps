@@ -1,0 +1,81 @@
+Scope	Propellerheads	RPG-8 Monophonic Arpeggiator
+//Map	_control_	Arpeggiator Enable
+//Map	_control_	Hold
+//Map	_control_	Pattern Enable
+//Map	_control_	Pattern Length Down
+//Map	_control_	Pattern Length Up
+//Map	_control_	Single Note Repeat
+//Map	_control_	Rate
+//Map	_control_	Gate Length
+//Map	_control_	Mode
+//Map	_control_	Velocity/Manual
+//Map	_control_	Octave
+//Map	_control_	Insert
+//Map	_control_	Shuffle
+//Map	_control_	Octave Shift
+//Map	_control_	Sync
+//Map	_control_	Pattern Step 1
+//Map	_control_	Pattern Step 2
+//Map	_control_	Pattern Step 3
+//Map	_control_	Pattern Step 4
+//Map	_control_	Pattern Step 5
+//Map	_control_	Pattern Step 6
+//Map	_control_	Pattern Step 7
+//Map	_control_	Pattern Step 8
+//Map	_control_	Pattern Step 9
+//Map	_control_	Pattern Step 10
+//Map	_control_	Pattern Step 11
+//Map	_control_	Pattern Step 12
+//Map	_control_	Aftertouch
+//Map	_control_	Expression
+//Map	_control_	Breath
+//Map	_control_	Manual Velocity
+//Map	_control_	Device Name
+//Map	_control_	Pattern Step 13
+//Map	_control_	Pattern Step 14
+//Map	_control_	Pattern Step 15
+//Map	_control_	Pattern Step 16
+//Map	_control_	Pattern Step Count
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	Mod Wheel
+//Map	_control_	Select Patch Delta
+//Map	_control_	Keyboard Shortcut Variations=v1
+//Map	_control_	Keyboard Shortcut Variations=v2
+//Map	_control_	Keyboard Shortcut Variations=v3
+//Map	_control_	Octave 1
+//Map	_control_	Octave 2
+//Map	_control_	Octave 3
+//Map	_control_	Octave 4
+//Map	_control_	Octave Shift Up
+//Map	_control_	Octave Shift Down
+//Map	_control_	Insert Off
+//Map	_control_	Insert Low
+//Map	_control_	Insert High
+//Map	_control_	Insert 3-1
+//Map	_control_	Insert 4-2
+//Map	_control_	Flip=Flip Off
+//Map	_control_	Flip=Flip On
+//Map	_control_	Steps=1-8
+//Map	_control_	Steps=9-16
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	X
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF
+//Map	_control_	ControlSet=Main
+//Map	_control_	ControlSet=Pattern

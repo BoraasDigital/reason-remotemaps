@@ -1,0 +1,23 @@
+Scope	Propellerheads	ReBirth Input Machine
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	Device Name
+//Map	_control_	Peak Channel 1
+//Map	_control_	Peak Channel 2
+//Map	_control_	Peak Channel 3
+//Map	_control_	Peak Channel 4
+//Map	_control_	Peak Channel 5
+//Map	_control_	Peak Channel 6
+//Map	_control_	Peak Channel 7
+//Map	_control_	Peak Channel 8
+//Map	_control_	Peak Channel 9
+//Map	_control_	Peak Channel 10
+//Map	_control_	Peak Channel 11
+//Map	_control_	Peak Channel 12
+//Map	_control_	Peak Channel 13
+//Map	_control_	Peak Channel 14
+//Map	_control_	Peak Channel 15
+//Map	_control_	Peak Channel 16
+//Map	_control_	Peak Channel 17
+//Map	_control_	Peak Channel 18
+//Map	_control_	Active

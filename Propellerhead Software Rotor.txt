@@ -1,0 +1,21 @@
+Scope	Propellerhead Software	se.propellerheads.Rotor
+//Map	_control_	Drive
+//Map	_control_	X-Over Frequency
+//Map	_control_	Slow Speed
+//Map	_control_	Fast Speed
+//Map	_control_	Doppler
+//Map	_control_	Dry Wet
+//Map	_control_	Blend
+//Map	_control_	Volume
+//Map	_control_	Distance
+//Map	_control_	Slow Fast
+//Map	_control_	Acceleration
+//Map	_control_	Drive Type
+//Map	_control_	Rotor Lamp
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	Enabled
+//Map	_control_	Stop
+//Map	_control_	Device Name
+//Map	_control_	Patch Name
+//Map	_control_	X-over Frequency

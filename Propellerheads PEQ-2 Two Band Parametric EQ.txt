@@ -1,0 +1,38 @@
+Scope	Propellerheads	PEQ-2 Two Band Parametric EQ
+//Map	_control_	Filter A Freq
+//Map	_control_	Filter A Q
+//Map	_control_	Filter A Gain
+//Map	_control_	Filter B On/Off
+//Map	_control_	Filter B Freq
+//Map	_control_	Filter B Q
+//Map	_control_	Filter B Gain
+//Map	_control_	Enabled
+//Map	_control_	Device Name
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	Filter=FilterA
+//Map	_control_	Filter=FilterB
+//Map	_control_	C-1
+//Map	_control_	C#-1
+//Map	_control_	Select Patch Delta
+//Map	_control_	Flip=Flip Off
+//Map	_control_	Flip=Flip On
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	X
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Peak Meter
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF

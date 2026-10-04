@@ -1,0 +1,9 @@
+Scope	Propellerhead Software	se.propellerheads.NoteEcho
+//Map	_control_	Patch Name
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	On/Off
+//Map	_control_	Tempo Sync
+//Map	_control_	Step Length Free
+//Map	_control_	Repeats
+//Map	_control_	Velocity

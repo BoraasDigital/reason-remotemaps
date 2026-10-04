@@ -1,0 +1,40 @@
+Scope	Propellerhead Software	se.propellerheads.Quartet
+//Map	_control_	Chorus Depth
+//Map	_control_	Chorus Rate
+//Map	_control_	Chorus Feedback
+//Map	_control_	FFT Depth
+//Map	_control_	BBD Rate
+//Map	_control_	BBD Depth
+//Map	_control_	Grain Depth
+//Map	_control_	Grain Density
+//Map	_control_	BBD Noise
+//Map	_control_	BBD DryWet
+//Map	_control_	FFT End
+//Map	_control_	FFT Start
+//Map	_control_	FFT DryWet
+//Map	_control_	Enabled
+//Map	_control_	Effect Select
+//Map	_control_	Grain Phase
+//Map	_control_	Stereo Mode
+//Map	_control_	Chorus Delay
+//Map	_control_	Chorus DryWet
+//Map	_control_	Grain DryWet
+//Map	_control_	Grain Jitter
+//Map	_control_	Grain Size
+//Map	_control_	FFT Size
+//Map	_control_	Grain Width
+//Map	_control_	FFT Width
+//Map	_control_	BBD Delay
+//Map	_control_	Chorus Width
+//Map	_control_	BBD Width
+//Map	_control_	Device Name
+//Map	_control_	Patch Name
+//Map	_control_	Varation=BF
+//Map	_control_	Varation=CG
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	7 Rec Bank 1
+//Map	_control_	8 Rec Bank 1
+//Map	_control_	X
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1

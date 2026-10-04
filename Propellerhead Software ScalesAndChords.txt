@@ -1,0 +1,12 @@
+Scope	Propellerhead Software	se.propellerheads.ScalesAndChords
+//Map	_control_	Patch Name
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	On/Off
+//Map	_control_	Chords
+//Map	_control_	Filter Notes
+//Map	_control_	Open Chords
+//Map	_control_	Add Octave Up
+//Map	_control_	Add Octave Down
+//Map	_control_	Add Color
+//Map	_control_	Alter

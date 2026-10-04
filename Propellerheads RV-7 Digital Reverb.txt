@@ -1,0 +1,32 @@
+Scope	Propellerheads	RV-7 Digital Reverb
+//Map	_control_	Algorithm
+//Map	_control_	Size
+//Map	_control_	Decay
+//Map	_control_	Damping
+//Map	_control_	Dry/Wet
+//Map	_control_	Enabled
+//Map	_control_	Device Name
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	Side=Left
+//Map	_control_	Side=Right
+//Map	_control_	C#-1
+//Map	_control_	Select Patch Delta
+//Map	_control_	Flip=Flip Off
+//Map	_control_	Flip=Flip On
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	X
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Peak Meter
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF

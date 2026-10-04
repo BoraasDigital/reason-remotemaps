@@ -1,0 +1,68 @@
+Scope	Propellerheads	RV7000 Advanced Reverb
+//Map	_control_	Decay
+//Map	_control_	HF Damp
+//Map	_control_	Hi EQ
+//Map	_control_	Dry/Wet
+//Map	_control_	Gate On/Off
+//Map	_control_	EQ On/Off
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	Soft Knob 1
+//Map	_control_	Soft Knob 2
+//Map	_control_	Soft Knob 3
+//Map	_control_	Soft Knob 4
+//Map	_control_	Soft Knob 5
+//Map	_control_	Soft Knob 6
+//Map	_control_	Soft Knob 7
+//Map	_control_	Soft Knob 8
+//Map	_control_	Enabled
+//Map	_control_	Edit Mode
+//Map	_control_	Device Name
+//Map	_control_	Patch Name
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	EncUse=Default
+//Map	_control_	EncUse=SoftLevel1
+//Map	_control_	EncUse=SoftLevel2
+//Map	_control_	EncUse=SoftLevel3
+//Map	_control_	EncUse=SoftLevel4
+//Map	_control_	C0
+//Map	_control_	C#0
+//Map	_control_	D0
+//Map	_control_	D#0
+//Map	_control_	C-1
+//Map	_control_	C#-1
+//Map	_control_	Channel 1
+//Map	_control_	Variation=Soft
+//Map	_control_	Variation=Main
+//Map	_control_	Select Patch Delta
+//Map	_control_	Layers=Main
+//Map	_control_	Layers=Soft
+//Map	_control_	Flip=Flip Off
+//Map	_control_	Flip=Flip On
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	7 Rec Bank 1
+//Map	_control_	8 Rec Bank 1
+//Map	_control_	X
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	3 Rec Bank 1
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Edit Mode Name
+//Map	_control_	Input Peak Meter
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF
+//Map	_control_	ControlSet=Main
+//Map	_control_	ControlSet=SoftKnobs

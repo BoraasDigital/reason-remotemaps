@@ -1,0 +1,56 @@
+Scope	Propellerheads	NN-XT Advanced Sampler
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	Filter Freq
+//Map	_control_	Filter Res
+//Map	_control_	Amp Env Attack
+//Map	_control_	Amp Env Decay
+//Map	_control_	Amp Env Release
+//Map	_control_	Mod Env Decay
+//Map	_control_	External Controller
+//Map	_control_	Master Volume
+//Map	_control_	Sample
+//Map	_control_	Select Patch Delta
+//Map	_control_	Mod wheel
+//Map	_control_	External controller
+//Map	_control_	Mod Wheel
+//Map	_control_	Master volume
+//Map	_control_	Mod env Decay
+//Map	_control_	Device Name
+//Map	_control_	External Controller Source
+//Map	_control_	High Quality Interpolation
+//Map	_control_	Patch Name
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	theMode=Wheel
+//Map	_control_	theMode=Filter/Mod
+//Map	_control_	theMode=AmpEnv
+//Map	_control_	Pitch Bend
+//Map	_control_	Portamento
+//Map	_control_	C-1
+//Map	_control_	C#-1
+//Map	_control_	Keyboard Shortcut Variations=v1
+//Map	_control_	Keyboard Shortcut Variations=v2
+//Map	_control_	Keyboard Shortcut Variations=v3
+//Map	_control_	Flip=Flip Off
+//Map	_control_	Flip=Flip On
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	7 Rec Bank 1
+//Map	_control_	8 Rec Bank 1
+//Map	_control_	X
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Note On Indicator
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF

@@ -1,0 +1,261 @@
+Scope	Propellerheads	ReGroove Mixer
+//Map	_control_	A1 Groove Amount
+//Map	_control_	A2 Groove Amount
+//Map	_control_	A3 Groove Amount
+//Map	_control_	A4 Groove Amount
+//Map	_control_	A5 Groove Amount
+//Map	_control_	A6 Groove Amount
+//Map	_control_	A7 Groove Amount
+//Map	_control_	A8 Groove Amount
+//Map	_control_	A1 Pre-Align
+//Map	_control_	A2 Pre-Align
+//Map	_control_	A3 Pre-Align
+//Map	_control_	A4 Pre-Align
+//Map	_control_	A5 Pre-Align
+//Map	_control_	A6 Pre-Align
+//Map	_control_	A7 Pre-Align
+//Map	_control_	A8 Pre-Align
+//Map	_control_	A1 Shuffle
+//Map	_control_	A2 Shuffle
+//Map	_control_	A3 Shuffle
+//Map	_control_	A4 Shuffle
+//Map	_control_	A5 Shuffle
+//Map	_control_	A6 Shuffle
+//Map	_control_	A7 Shuffle
+//Map	_control_	A8 Shuffle
+//Map	_control_	A1 Use Global Shuffle
+//Map	_control_	A2 Use Global Shuffle
+//Map	_control_	A3 Use Global Shuffle
+//Map	_control_	A4 Use Global Shuffle
+//Map	_control_	A5 Use Global Shuffle
+//Map	_control_	A6 Use Global Shuffle
+//Map	_control_	A7 Use Global Shuffle
+//Map	_control_	A8 Use Global Shuffle
+//Map	_control_	A1 Slide
+//Map	_control_	A2 Slide
+//Map	_control_	A3 Slide
+//Map	_control_	A4 Slide
+//Map	_control_	A5 Slide
+//Map	_control_	A6 Slide
+//Map	_control_	A7 Slide
+//Map	_control_	A8 Slide
+//Map	_control_	Pattern Shuffle
+//Map	_control_	B1 Groove Amount
+//Map	_control_	B2 Groove Amount
+//Map	_control_	B3 Groove Amount
+//Map	_control_	B4 Groove Amount
+//Map	_control_	B5 Groove Amount
+//Map	_control_	B6 Groove Amount
+//Map	_control_	B7 Groove Amount
+//Map	_control_	B8 Groove Amount
+//Map	_control_	B1 Slide
+//Map	_control_	B2 Slide
+//Map	_control_	B3 Slide
+//Map	_control_	B4 Slide
+//Map	_control_	B5 Slide
+//Map	_control_	B6 Slide
+//Map	_control_	B7 Slide
+//Map	_control_	B8 Slide
+//Map	_control_	B1 Shuffle
+//Map	_control_	B2 Shuffle
+//Map	_control_	B3 Shuffle
+//Map	_control_	B4 Shuffle
+//Map	_control_	B5 Shuffle
+//Map	_control_	B6 Shuffle
+//Map	_control_	B7 Shuffle
+//Map	_control_	B8 Shuffle
+//Map	_control_	B1 Pre-Align
+//Map	_control_	B2 Pre-Align
+//Map	_control_	B3 Pre-Align
+//Map	_control_	B4 Pre-Align
+//Map	_control_	B5 Pre-Align
+//Map	_control_	B6 Pre-Align
+//Map	_control_	B7 Pre-Align
+//Map	_control_	B8 Pre-Align
+//Map	_control_	C1 Groove Amount
+//Map	_control_	C2 Groove Amount
+//Map	_control_	C3 Groove Amount
+//Map	_control_	C4 Groove Amount
+//Map	_control_	C1 Shuffle
+//Map	_control_	C2 Shuffle
+//Map	_control_	C3 Shuffle
+//Map	_control_	C4 Shuffle
+//Map	_control_	C1 Slide
+//Map	_control_	C2 Slide
+//Map	_control_	C3 Slide
+//Map	_control_	C4 Slide
+//Map	_control_	D1 Groove Amount
+//Map	_control_	D2 Groove Amount
+//Map	_control_	D3 Groove Amount
+//Map	_control_	D4 Groove Amount
+//Map	_control_	D1 Shuffle
+//Map	_control_	D2 Shuffle
+//Map	_control_	D3 Shuffle
+//Map	_control_	D4 Shuffle
+//Map	_control_	D1 Slide
+//Map	_control_	D2 Slide
+//Map	_control_	D3 Slide
+//Map	_control_	D4 Slide
+//Map	_control_	Variation=Shuffle
+//Map	_control_	Variation=Slide
+//Map	_control_	Sliders=Shuffle
+//Map	_control_	Sliders=Slide
+//Map	_control_	Sliders=Amount
+//Map	_control_	A1 Groove Ch On
+//Map	_control_	A2 Groove Ch On
+//Map	_control_	A3 Groove Ch On
+//Map	_control_	A4 Groove Ch On
+//Map	_control_	A5 Groove Ch On
+//Map	_control_	A6 Groove Ch On
+//Map	_control_	A7 Groove Ch On
+//Map	_control_	A8 Groove Ch On
+//Map	_control_	Knobs=Slide
+//Map	_control_	Knobs=Shuffle
+//Map	_control_	B1 Groove Ch On
+//Map	_control_	B2 Groove Ch On
+//Map	_control_	B3 Groove Ch On
+//Map	_control_	B4 Groove Ch On
+//Map	_control_	B5 Groove Ch On
+//Map	_control_	B6 Groove Ch On
+//Map	_control_	B7 Groove Ch On
+//Map	_control_	B8 Groove Ch On
+//Map	_control_	C1 Groove Ch On
+//Map	_control_	C2 Groove Ch On
+//Map	_control_	C3 Groove Ch On
+//Map	_control_	C4 Groove Ch On
+//Map	_control_	C5 Groove Ch On
+//Map	_control_	C5 Groove Amount
+//Map	_control_	C6 Groove Ch On
+//Map	_control_	C6 Groove Amount
+//Map	_control_	C7 Groove Ch On
+//Map	_control_	C7 Groove Amount
+//Map	_control_	C8 Groove Ch On
+//Map	_control_	C8 Groove Amount
+//Map	_control_	D1 Groove Ch On
+//Map	_control_	D2 Groove Ch On
+//Map	_control_	D3 Groove Ch On
+//Map	_control_	D4 Groove Ch On
+//Map	_control_	D5 Groove Ch On
+//Map	_control_	D5 Groove Amount
+//Map	_control_	D6 Groove Ch On
+//Map	_control_	D6 Groove Amount
+//Map	_control_	D7 Groove Ch On
+//Map	_control_	D7 Groove Amount
+//Map	_control_	D8 Groove Ch On
+//Map	_control_	D8 Groove Amount
+//Map	_control_	A1 Select Patch
+//Map	_control_	A2 Select Patch
+//Map	_control_	A3 Select Patch
+//Map	_control_	A4 Select Patch
+//Map	_control_	A5 Select Patch
+//Map	_control_	A6 Select Patch
+//Map	_control_	A7 Select Patch
+//Map	_control_	A8 Select Patch
+//Map	_control_	B1 Select Patch
+//Map	_control_	B2 Select Patch
+//Map	_control_	B3 Select Patch
+//Map	_control_	B4 Select Patch
+//Map	_control_	B5 Select Patch
+//Map	_control_	B6 Select Patch
+//Map	_control_	B7 Select Patch
+//Map	_control_	B8 Select Patch
+//Map	_control_	C5 Slide
+//Map	_control_	C6 Slide
+//Map	_control_	C7 Slide
+//Map	_control_	C8 Slide
+//Map	_control_	C5 Shuffle
+//Map	_control_	C6 Shuffle
+//Map	_control_	C7 Shuffle
+//Map	_control_	C8 Shuffle
+//Map	_control_	C1 Select Patch
+//Map	_control_	C2 Select Patch
+//Map	_control_	C3 Select Patch
+//Map	_control_	C4 Select Patch
+//Map	_control_	C5 Select Patch
+//Map	_control_	C6 Select Patch
+//Map	_control_	C7 Select Patch
+//Map	_control_	C8 Select Patch
+//Map	_control_	D5 Slide
+//Map	_control_	D6 Slide
+//Map	_control_	D7 Slide
+//Map	_control_	D8 Slide
+//Map	_control_	D5 Shuffle
+//Map	_control_	D6 Shuffle
+//Map	_control_	D7 Shuffle
+//Map	_control_	D8 Shuffle
+//Map	_control_	D1 Select Patch
+//Map	_control_	D2 Select Patch
+//Map	_control_	D3 Select Patch
+//Map	_control_	D4 Select Patch
+//Map	_control_	D5 Select Patch
+//Map	_control_	D6 Select Patch
+//Map	_control_	D7 Select Patch
+//Map	_control_	D8 Select Patch
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Rotaries=Shuffle
+//Map	_control_	Rotaries=Slide
+//Map	_control_	Bank=BankA
+//Map	_control_	Bank=BankB
+//Map	_control_	Bank=BankC
+//Map	_control_	Bank=BankD
+//Map	_control_	C1 Pre-Align
+//Map	_control_	C2 Pre-Align
+//Map	_control_	C3 Pre-Align
+//Map	_control_	C4 Pre-Align
+//Map	_control_	C5 Pre-Align
+//Map	_control_	C6 Pre-Align
+//Map	_control_	C7 Pre-Align
+//Map	_control_	C8 Pre-Align
+//Map	_control_	D1 Pre-Align
+//Map	_control_	D2 Pre-Align
+//Map	_control_	D3 Pre-Align
+//Map	_control_	D4 Pre-Align
+//Map	_control_	D5 Pre-Align
+//Map	_control_	D6 Pre-Align
+//Map	_control_	D7 Pre-Align
+//Map	_control_	D8 Pre-Align
+//Map	_control_	B1 Use Global Shuffle
+//Map	_control_	B2 Use Global Shuffle
+//Map	_control_	B3 Use Global Shuffle
+//Map	_control_	B4 Use Global Shuffle
+//Map	_control_	B5 Use Global Shuffle
+//Map	_control_	B6 Use Global Shuffle
+//Map	_control_	B7 Use Global Shuffle
+//Map	_control_	B8 Use Global Shuffle
+//Map	_control_	C1 Use Global Shuffle
+//Map	_control_	C2 Use Global Shuffle
+//Map	_control_	C3 Use Global Shuffle
+//Map	_control_	C4 Use Global Shuffle
+//Map	_control_	C5 Use Global Shuffle
+//Map	_control_	C6 Use Global Shuffle
+//Map	_control_	C7 Use Global Shuffle
+//Map	_control_	C8 Use Global Shuffle
+//Map	_control_	D1 Use Global Shuffle
+//Map	_control_	D2 Use Global Shuffle
+//Map	_control_	D3 Use Global Shuffle
+//Map	_control_	D4 Use Global Shuffle
+//Map	_control_	D5 Use Global Shuffle
+//Map	_control_	D6 Use Global Shuffle
+//Map	_control_	D7 Use Global Shuffle
+//Map	_control_	D8 Use Global Shuffle
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF
+//Map	_control_	ControlSet=Main
+//Map	_control_	ControlSet=Amount
+//Map	_control_	ControlSet=Slide
+//Map	_control_	ControlSet=Shuffle
+//Map	_control_	A1 Select Previous Patch
+//Map	_control_	A1 Select Next Patch

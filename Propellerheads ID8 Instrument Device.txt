@@ -1,0 +1,47 @@
+Scope	Propellerheads	ID8 Instrument Device
+//Map	_control_	Select Previous Preset
+//Map	_control_	Select Next Preset
+//Map	_control_	Sound A
+//Map	_control_	Sound B
+//Map	_control_	Sound C
+//Map	_control_	Sound D
+//Map	_control_	Select Previous Category
+//Map	_control_	Select Next Category
+//Map	_control_	Parameter 1
+//Map	_control_	Parameter 2
+//Map	_control_	Volume
+//Map	_control_	Device Name
+//Map	_control_	Preset
+//Map	_control_	Sound
+//Map	_control_	Category
+//Map	_control_	Shift=ShiftDown
+//Map	_control_	Shift=ShiftUp
+//Map	_control_	Sound Name
+//Map	_control_	Pitch Bend
+//Map	_control_	Mod Wheel
+//Map	_control_	C-1
+//Map	_control_	C#-1
+//Map	_control_	Select Previous Sound
+//Map	_control_	Select Next Sound
+//Map	_control_	Flip=Flip Off
+//Map	_control_	Flip=Flip On
+//Map	_control_	Active=On
+//Map	_control_	Active=Off
+//Map	_control_	Category Name
+//Map	_control_	5 Rec Bank 1
+//Map	_control_	6 Rec Bank 1
+//Map	_control_	7 Rec Bank 1
+//Map	_control_	8 Rec Bank 1
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Note On Indicator
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF

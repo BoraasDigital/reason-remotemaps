@@ -1,0 +1,188 @@
+Scope	Propellerhead Software	se.propellerheads.Algoritm
+//Map	_control_	EQ On
+//Map	_control_	EQ Freq
+//Map	_control_	EQ Gain
+//Map	_control_	EQ Hi Gain
+//Map	_control_	EQ Lo Gain
+//Map	_control_	Delay On
+//Map	_control_	Delay PingPong
+//Map	_control_	Delay Sync
+//Map	_control_	Delay Amount
+//Map	_control_	Delay Feedback
+//Map	_control_	Delay Synced Time
+//Map	_control_	Delay Time
+//Map	_control_	LFO 1 Delay
+//Map	_control_	LFO 2 Delay
+//Map	_control_	LFO 3 Delay
+//Map	_control_	LFO Select
+//Map	_control_	Feedback
+//Map	_control_	Master
+//Map	_control_	Reverb Amount
+//Map	_control_	Reverb Size
+//Map	_control_	Reverb Decay
+//Map	_control_	Comp Threshold
+//Map	_control_	Comp Attack
+//Map	_control_	Comp Ratio
+//Map	_control_	Comp Release
+//Map	_control_	Resonator On
+//Map	_control_	Dist On
+//Map	_control_	Phaser On
+//Map	_control_	Comp On
+//Map	_control_	Reverb On
+//Map	_control_	Unison On
+//Map	_control_	Attack 1
+//Map	_control_	Decay 1
+//Map	_control_	Sustain 1
+//Map	_control_	Release 1
+//Map	_control_	Attack 2
+//Map	_control_	Decay 2
+//Map	_control_	Sustain 2
+//Map	_control_	Release 2
+//Map	_control_	Attack 3
+//Map	_control_	Decay 3
+//Map	_control_	Sustain 3
+//Map	_control_	Release 3
+//Map	_control_	Attack 4
+//Map	_control_	Decay 4
+//Map	_control_	Sustain 4
+//Map	_control_	Release 4
+//Map	_control_	Attack 5
+//Map	_control_	Decay 5
+//Map	_control_	Sustain 5
+//Map	_control_	Release 5
+//Map	_control_	Attack 6
+//Map	_control_	Decay 6
+//Map	_control_	Sustain 6
+//Map	_control_	Release 6
+//Map	_control_	Attack 7
+//Map	_control_	Decay 7
+//Map	_control_	Sustain 7
+//Map	_control_	Release 7
+//Map	_control_	Attack 8
+//Map	_control_	Decay 8
+//Map	_control_	Sustain 8
+//Map	_control_	Release 8
+//Map	_control_	Attack 9
+//Map	_control_	Decay 9
+//Map	_control_	Sustain 9
+//Map	_control_	Release 9
+//Map	_control_	Level 1
+//Map	_control_	LFO 1 Rate
+//Map	_control_	LFO 1 Sync Rate
+//Map	_control_	Curve 1 Length
+//Map	_control_	Level 2
+//Map	_control_	Level 3
+//Map	_control_	Resonator Decay
+//Map	_control_	Resonator Width
+//Map	_control_	Resonator Mix
+//Map	_control_	Level 4
+//Map	_control_	LFO 2 Rate
+//Map	_control_	LFO 2 Sync Rate
+//Map	_control_	Curve 2 Length
+//Map	_control_	Level 5
+//Map	_control_	Dist Drive
+//Map	_control_	Dist Tone
+//Map	_control_	Dist Amount
+//Map	_control_	Level 6
+//Map	_control_	Mod Effect Spread
+//Map	_control_	Mod Effect Feedback
+//Map	_control_	Mod Effect Amount
+//Map	_control_	Level 7
+//Map	_control_	LFO 3 Rate
+//Map	_control_	LFO 3 Sync Rate
+//Map	_control_	Level 8
+//Map	_control_	Level 9
+//Map	_control_	FM Amount Offset
+//Map	_control_	Decay/Release Offset
+//Map	_control_	Unison Detune
+//Map	_control_	Unison Spread
+//Map	_control_	Unison Blend
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	Key Mode
+//Map	_control_	Device Name
+//Map	_control_	EQ Q
+//Map	_control_	Portamento
+//Map	_control_	FM Key Scale
+//Map	_control_	Rate Key Scale
+//Map	_control_	Aftertouch
+//Map	_control_	Unison Timing
+//Map	_control_	Portamento Mode
+//Map	_control_	Patch Name
+//Map	_control_	Freq 1
+//Map	_control_	Freq 2
+//Map	_control_	Freq 3
+//Map	_control_	Freq 4
+//Map	_control_	Freq 5
+//Map	_control_	Freq 6
+//Map	_control_	Freq 7
+//Map	_control_	Freq 8
+//Map	_control_	Freq 9
+//Map	_control_	Button Group=Channels
+//Map	_control_	Button Group=Effects
+//Map	_control_	Button Group=LFOs
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Mode1
+//Map	_control_	Mode2
+//Map	_control_	Mode3
+//Map	_control_	Mode4
+//Map	_control_	Mode5
+//Map	_control_	Mode6
+//Map	_control_	Mode7
+//Map	_control_	Mode8
+//Map	_control_	Out 1
+//Map	_control_	Out 2
+//Map	_control_	Out 3
+//Map	_control_	Out 4
+//Map	_control_	Out 5
+//Map	_control_	Out 6
+//Map	_control_	Out 7
+//Map	_control_	Out 8
+//Map	_control_	Mode9
+//Map	_control_	Out 9
+//Map	_control_	Osc Sync
+//Map	_control_	Octave
+//Map	_control_	Sustain Pedal
+//Map	_control_	Effect Select
+//Map	_control_	Unison Count
+//Map	_control_	Resonator Pitch
+//Map	_control_	Resonator Select
+//Map	_control_	Dist Type
+//Map	_control_	Mod Effect Type
+//Map	_control_	Curve 1 Sync Rate
+//Map	_control_	Curve 2 Sync Rate
+//Map	_control_	Curve 1 Global
+//Map	_control_	Curve 2 Global
+//Map	_control_	LFO 1 Tempo Sync
+//Map	_control_	LFO 2 Tempo Sync
+//Map	_control_	LFO 3 Tempo Sync
+//Map	_control_	Curve 1 Tempo Sync
+//Map	_control_	Curve 2 Tempo Sync
+//Map	_control_	Curve 1 OneShot
+//Map	_control_	Curve 2 Oneshot
+//Map	_control_	Curve 1 Bipolar
+//Map	_control_	LFO 1 Wave
+//Map	_control_	LFO 2 Wave
+//Map	_control_	LFO 3 Wave
+//Map	_control_	LFO 1 Global
+//Map	_control_	LFO 2 Global
+//Map	_control_	LFO 3 Global
+//Map	_control_	LFO 1 Key Sync
+//Map	_control_	LFO 2 Key Sync
+//Map	_control_	LFO 3 Key Sync
+//Map	_control_	Curve 1 Key Sync
+//Map	_control_	Curve 2 Key Sync
+//Map	_control_	Curve 1 Stepped
+//Map	_control_	Curve 2 Stepped
+//Map	_control_	Curve 2 Bipolar
+//Map	_control_	Curve 1 Rate
+//Map	_control_	Curve 2 Rate
+//Map	_control_	pp1
+//Map	_control_	pp2
+//Map	_control_	Pitch Bend Range
+//Map	_control_	Breath Control
+//Map	_control_	Reverb Damp
+//Map	_control_	Reverb Early Reflections

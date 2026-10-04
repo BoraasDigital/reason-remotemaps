@@ -1,0 +1,19 @@
+Scope	Propellerhead Software	se.propellerheads.BeatMap
+//Map	_control_	Kick Density
+//Map	_control_	Snare Density
+//Map	_control_	Hat Density
+//Map	_control_	Perc Density
+//Map	_control_	X Position
+//Map	_control_	Y Position
+//Map	_control_	Kick Mirror Velocity
+//Map	_control_	Snare Mirror Velocity
+//Map	_control_	Hat Mirror Velocity
+//Map	_control_	Perc Mirror Velocity
+//Map	_control_	Beat Map
+//Map	_control_	Shuffle
+//Map	_control_	Kick Hit Indication
+//Map	_control_	Snare Hit Indication
+//Map	_control_	Hat Hit Indication
+//Map	_control_	Perc Hit Indication
+//Map	_control_	R7
+//Map	_control_	R9

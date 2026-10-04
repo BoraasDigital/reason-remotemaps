@@ -1,0 +1,164 @@
+Scope	Propellerheads	Alligator
+//Map	_control_	Select Next Patch
+//Map	_control_	Select Previous Patch
+//Map	_control_	Pattern Enable
+//Map	_control_	Gate 1 Trig
+//Map	_control_	Gate 2 Trig
+//Map	_control_	Gate 3 Trig
+//Map	_control_	Shuffle
+//Map	_control_	High Pass Filter On
+//Map	_control_	Band Pass Filter On
+//Map	_control_	Low Pass Filter On
+//Map	_control_	LFOSync
+//Map	_control_	DelaySync
+//Map	_control_	Enabled
+//Map	_control_	Pattern
+//Map	_control_	Resolution
+//Map	_control_	Shift
+//Map	_control_	LFO Freq
+//Map	_control_	LFO Waveform
+//Map	_control_	Delay Pan
+//Map	_control_	Delay Time
+//Map	_control_	Delay Feedback
+//Map	_control_	High Pass Frequency
+//Map	_control_	Band Pass Frequency
+//Map	_control_	Low Pass Frequency
+//Map	_control_	High Pass Volume
+//Map	_control_	Band Pass Volume
+//Map	_control_	Low Pass Volume
+//Map	_control_	Master Volume
+//Map	_control_	Ducking
+//Map	_control_	Dry Pan
+//Map	_control_	Dry Volume
+//Map	_control_	High Pass Drive Amount
+//Map	_control_	Band Pass Drive Amount
+//Map	_control_	Low Pass Drive Amount
+//Map	_control_	High Pass Resonance
+//Map	_control_	Band Pass Resonance
+//Map	_control_	Low Pass Resonance
+//Map	_control_	Phaser Rate
+//Map	_control_	Phaser Feedback
+//Map	_control_	High Pass Phaser Amount
+//Map	_control_	Band Pass Phaser Amount
+//Map	_control_	Low Pass Phaser Amount
+//Map	_control_	High Pass Delay Amount
+//Map	_control_	Band Pass Delay Amount
+//Map	_control_	Low Pass Delay Amount
+//Map	_control_	Amp Env Attack
+//Map	_control_	Amp Env Decay
+//Map	_control_	Amp Env Release
+//Map	_control_	Filter Env Attack
+//Map	_control_	Filter Env Decay
+//Map	_control_	Filter Env Release
+//Map	_control_	High Pass Pan
+//Map	_control_	Band Pass Pan
+//Map	_control_	Low Pass Pan
+//Map	_control_	High Pass LFO Amount
+//Map	_control_	Band Pass LFO Amount
+//Map	_control_	Low Pass LFO Amount
+//Map	_control_	High Pass Env Amount
+//Map	_control_	Band Pass Env Amount
+//Map	_control_	Low Pass Env Amount
+//Map	_control_	Parameters=Filter
+//Map	_control_	Parameters=FX
+//Map	_control_	Gate 3 Open
+//Map	_control_	Gate 2 Open
+//Map	_control_	Gate 1 Open
+//Map	_control_	Device Name
+//Map	_control_	Patch Name
+//Map	_control_	Input Peak Meter
+//Map	_control_	Row Button 2
+//Map	_control_	Row Button 3
+//Map	_control_	Row Button 4
+//Map	_control_	Shift=Group1
+//Map	_control_	Shift=Group2
+//Map	_control_	TheGroup=Default
+//Map	_control_	TheGroup=Pat
+//Map	_control_	TheGroup=LFO
+//Map	_control_	TheGroup=Freq
+//Map	_control_	TheGroup=Env
+//Map	_control_	Button
+//Map	_control_	TheGroup=Res
+//Map	_control_	TheGroup=Drive
+//Map	_control_	TheGroup=Phaser
+//Map	_control_	TheGroup=Delay
+//Map	_control_	TheGroup=Pan
+//Map	_control_	TheGroup=Vol
+//Map	_control_	TheGroup=AmpEnv
+//Map	_control_	TheGroup=LFO2
+//Map	_control_	TheGroup=FilterEnv
+//Map	_control_	TheGroup=Delay2
+//Map	_control_	TheGroup=Phaser2
+//Map	_control_	Variation=Var0
+//Map	_control_	Variation=Var1
+//Map	_control_	Variation=Var2
+//Map	_control_	Variation=Var3
+//Map	_control_	Keyboard Shortcut Variations=MainFX
+//Map	_control_	Keyboard Shortcut Variations=High
+//Map	_control_	Keyboard Shortcut Variations=Band
+//Map	_control_	Keyboard Shortcut Variations=Low
+//Map	_control_	Select Patch Delta
+//Map	_control_	Keyboard Shortcut Variations=v1
+//Map	_control_	Keyboard Shortcut Variations=v2
+//Map	_control_	Keyboard Shortcut Variations=v3
+//Map	_control_	Keyboard Shortcut Variations=Page 1
+//Map	_control_	Keyboard Shortcut Variations=Page 2
+//Map	_control_	Keyboard Shortcut Variations=Page 3
+//Map	_control_	Layers=Main
+//Map	_control_	Layers=LFO & Delay
+//Map	_control_	Layers=Res & Pan
+//Map	_control_	Layers=Page1
+//Map	_control_	Layers=LFO & PEnv
+//Map	_control_	Layers=Page2
+//Map	_control_	Layers=Envs
+//Map	_control_	Layers=SetA
+//Map	_control_	Layers=SetB
+//Map	_control_	Layers=Var1
+//Map	_control_	Layers=Var2
+//Map	_control_	Layers=Var3
+//Map	_control_	Layers=Var4
+//Map	_control_	Layers=Var5
+//Map	_control_	Layers=Var6
+//Map	_control_	7 Rec Bank 1
+//Map	_control_	8 Rec Bank 1
+//Map	_control_	X
+//Map	_control_	Y
+//Map	_control_	2 Bank 3
+//Map	_control_	3 Bank 3
+//Map	_control_	4 Bank 3
+//Map	_control_	5 Bank 3
+//Map	_control_	1 Bank 3
+//Map	_control_	6 Bank 3
+//Map	_control_	7 Bank 3
+//Map	_control_	8 Bank 3
+//Map	_control_	1 Rec Bank 1
+//Map	_control_	2 Rec Bank 1
+//Map	_control_	3 Rec Bank 1
+//Map	_control_	4 Rec Bank 1
+//Map	_control_	1 Rec Bank 2
+//Map	_control_	2 Rec Bank 2
+//Map	_control_	3 Rec Bank 2
+//Map	_control_	4 Rec Bank 2
+//Map	_control_	5 Rec Bank 2
+//Map	_control_	Filter_banks=Low_pass
+//Map	_control_	Filter_banks=Band_pass
+//Map	_control_	Filter_banks=High_pass
+//Map	_control_	BlueClickState=BlueClickON
+//Map	_control_	BlueClickState=BlueClickOFF
+//Map	_control_	GreenClickState=GreenClickON
+//Map	_control_	GreenClickState=GreenClickOFF
+//Map	_control_	WhiteClickState=WhiteClickON
+//Map	_control_	WhiteClickState=WhiteClickOFF
+//Map	_control_	RedClickState=RedClickON
+//Map	_control_	RedClickState=RedClickOFF
+//Map	_control_	ShiftState=ShiftON
+//Map	_control_	ShiftState=ShiftOFF
+//Map	_control_	ControlSet=Main
+//Map	_control_	ControlSet=Amp
+//Map	_control_	ControlSet=Filter
+//Map	_control_	ControlSet=Delay
+//Map	_control_	ControlSet=LFO
+//Map	_control_	ControlSet=VolPan
+//Map	_control_	ControlSet=FreqRes
+//Map	_control_	ControlSet=Drive
+//Map	_control_	ControlSet=Phaser

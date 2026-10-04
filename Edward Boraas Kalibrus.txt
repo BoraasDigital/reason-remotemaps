@@ -1,34 +1,15 @@
 Scope	Edward Boraas	ca.boraas.Kalibrus
-
-// ==============================================================================
-// Primary Continuous Controls (Knobs / Rotary Encoders)
-// Standard 8-Control Bank: Pots 1–5
-// ==============================================================================
-//Map	_pot_1_	Output Level
-//Map	_pot_2_	HPF Freq
-//Map	_pot_3_	LPF Freq
-//Map	_pot_4_	Stereo Width
-//Map	_pot_5_	Balance
-
-// ==============================================================================
-// Stepped Mode Selectors (3-Way Switches / Encoders)
-// Standard 8-Control Bank: Pots 6–7
-// ==============================================================================
-//Map	_switch_1_	Noise Type
-//Map	_switch_2_	Channel Mode
-
-// ==============================================================================
-// Transport & Voice Buttons (Pushbuttons / Toggles)
-// Standard 8-Control Bank: Pot 8 / Buttons 1–2
-// ==============================================================================
-//Map	_button_1_	Engage
-//Map	_button_2_	Auto Engage
-
-// ==============================================================================
-// Hardware Feedback & Telemetry (Read-Only Meters / LED Displays)
-// ==============================================================================
-//Map	_meter_peak_l_	Output Peak L
-//Map	_meter_peak_r_	Output Peak R
-//Map	_meter_rms_l_	Output RMS L
-//Map	_meter_rms_r_	Output RMS R
-//Map	_led_note_	Note On
+//Map	_control_	Output Level
+//Map	_control_	Noise Type
+//Map	_control_	Engage
+//Map	_control_	Auto Engage
+//Map	_control_	HPF Freq
+//Map	_control_	LPF Freq
+//Map	_control_	Stereo Width
+//Map	_control_	Balance
+//Map	_control_	Channel Mode
+//Map	_control_	Output Peak L
+//Map	_control_	Output Peak R
+//Map	_control_	Output RMS L
+//Map	_control_	Output RMS R
+//Map	_control_	Note On

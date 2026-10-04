@@ -1,0 +1,135 @@
+Scope	Propellerhead Software	se.propellerheads.BVXVocoder
+//Map	_control_	Reverb On
+//Map	_control_	Unison On
+//Map	_control_	Limiter On
+//Map	_control_	Carrier Mode
+//Map	_control_	Amp Mode
+//Map	_control_	Auto Play
+//Map	_control_	Vocoder Mode
+//Map	_control_	Scale On
+//Map	_control_	Env Attack
+//Map	_control_	Env Decay
+//Map	_control_	Env Sustain
+//Map	_control_	Env Release
+//Map	_control_	Mod1 Amt
+//Map	_control_	Mod2 Amt
+//Map	_control_	Mod3 Amt
+//Map	_control_	Mod4 Amt
+//Map	_control_	Reverb Level
+//Map	_control_	Reverb Decay
+//Map	_control_	Reverb LF Damp
+//Map	_control_	Reverb Early Level
+//Map	_control_	LFO Rate
+//Map	_control_	LFO Synced Rate
+//Map	_control_	Vibrato Delay
+//Map	_control_	Vibrato Rate
+//Map	_control_	Unison Blend
+//Map	_control_	Unison Timing
+//Map	_control_	Unison Detune
+//Map	_control_	Unison Spread
+//Map	_control_	Low Frequency
+//Map	_control_	High Frequency Gain
+//Map	_control_	Formant Shift
+//Map	_control_	Master Volume
+//Map	_control_	Attack
+//Map	_control_	Decay
+//Map	_control_	Modulator Mix
+//Map	_control_	Carrier Mix
+//Map	_control_	Vocoder Mix
+//Map	_control_	Effect P1
+//Map	_control_	Effect P2
+//Map	_control_	Sub Level
+//Map	_control_	Fifth Level
+//Map	_control_	Oct Level
+//Map	_control_	Oct Fifth Level
+//Map	_control_	Level 1
+//Map	_control_	Level 2
+//Map	_control_	Level 3
+//Map	_control_	Level 4
+//Map	_control_	Level 5
+//Map	_control_	Level 6
+//Map	_control_	Level 7
+//Map	_control_	Level 8
+//Map	_control_	Level 9
+//Map	_control_	Level 10
+//Map	_control_	Level 11
+//Map	_control_	Level 12
+//Map	_control_	Level 13
+//Map	_control_	Level 14
+//Map	_control_	Level 15
+//Map	_control_	Level 16
+//Map	_control_	Level 17
+//Map	_control_	Level 18
+//Map	_control_	Level 19
+//Map	_control_	Level 20
+//Map	_control_	Level 21
+//Map	_control_	Level 22
+//Map	_control_	Level 23
+//Map	_control_	Level 24
+//Map	_control_	Modulator Gain
+//Map	_control_	Noise Gate
+//Map	_control_	Band Resonance
+//Map	_control_	Root Level
+//Map	_control_	Band Count
+//Map	_control_	Noise Color
+//Map	_control_	Noise Auto
+//Map	_control_	Noise Mix
+//Map	_control_	Portamento
+//Map	_control_	Effect Mix
+//Map	_control_	Portamento Mode
+//Map	_control_	Enabled
+//Map	_control_	Spectral Spread
+//Map	_control_	Transfer Curve Amount
+//Map	_control_	Transfer Curve Type
+//Map	_control_	Effect On
+//Map	_control_	Hold
+//Map	_control_	Wave Shape
+//Map	_control_	Vibrato Amount
+//Map	_control_	Device Name
+//Map	_control_	Gain Curve On
+//Map	_control_	Level 25
+//Map	_control_	Level 26
+//Map	_control_	Level 27
+//Map	_control_	Level 28
+//Map	_control_	Level 29
+//Map	_control_	Level 30
+//Map	_control_	Level 31
+//Map	_control_	Level 32
+//Map	_control_	Effect Select
+//Map	_control_	Patch Name
+//Map	_control_	LFO Wave
+//Map	_control_	Unison Count
+//Map	_control_	Button Group=Amp1-8
+//Map	_control_	Button Group=Amp9-16
+//Map	_control_	Button Group=Amp17-24
+//Map	_control_	Button Group=Amp25-32
+//Map	_control_	Flip=Flipped
+//Map	_control_	Flip=Normal
+//Map	_control_	Display=DeviceName
+//Map	_control_	Display=ParaName
+//Map	_control_	Select Previous Patch
+//Map	_control_	Select Next Patch
+//Map	_control_	Stereo In
+//Map	_control_	Key Mode
+//Map	_control_	Wave Select
+//Map	_control_	Vibrato Wheel Scale
+//Map	_control_	Octave
+//Map	_control_	Semitone
+//Map	_control_	Pitchbend Range
+//Map	_control_	LFO Beat Sync
+//Map	_control_	LFO Key Sync
+//Map	_control_	Vibrato Wave
+//Map	_control_	FFT Resolution
+//Map	_control_	Mod1 Source
+//Map	_control_	Mod2 Source
+//Map	_control_	Mod3 Source
+//Map	_control_	Mod4 Source
+//Map	_control_	Mod5 Source
+//Map	_control_	Mod6 Source
+//Map	_control_	Mod7 Source
+//Map	_control_	Mod8 Source
+//Map	_control_	Reverb Type
+//Map	_control_	Mod5 Amt
+//Map	_control_	Mod6 Amt
+//Map	_control_	Mod7 Amt
+//Map	_control_	Mod8 Amt

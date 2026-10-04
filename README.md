@@ -1,7 +1,7 @@
 Reason Remote Maps & Templates Archive
 ======================================
 
-An open community collection of Reason Remote control surface mapping templates (`.remotemap`) for Reason Studios devices and third-party Rack Extensions.
+An open community collection of Reason Remote control surface mapping templates (`.remotemap`) covering **225+ devices**: 99 native Reason Studios stock instruments, synthesizers, samplers, drum machines, creative effects, mixer channel strips, and first-party Rack Extensions, alongside 130+ third-party Rack Extensions.
 
 History & Provenance
 -------------------
