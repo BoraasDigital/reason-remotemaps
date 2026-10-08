@@ -1,0 +1,55 @@
+Scope	Edward Boraas	ca.boraas.Hyperbar
+//Map	_control_	Heat
+//Map	_control_	Speed
+//Map	_control_	Squeeze
+//Map	_control_	Thrust
+//Map	_control_	Blend
+//Map	_control_	X-Over Low/Mid
+//Map	_control_	X-Over Mid/High
+//Map	_control_	Crossover Mode
+//Map	_control_	Sub Detector Mode
+//Map	_control_	Upward Gate Mode
+//Map	_control_	Limiter Mode
+//Map	_control_	Low Thresh Bias
+//Map	_control_	Low Upward Depth
+//Map	_control_	Low Downward Depth
+//Map	_control_	Low Deadband
+//Map	_control_	Low Band Gain
+//Map	_control_	Mid Thresh Bias
+//Map	_control_	Mid Upward Depth
+//Map	_control_	Mid Downward Depth
+//Map	_control_	Mid Deadband
+//Map	_control_	Mid Band Gain
+//Map	_control_	High Thresh Bias
+//Map	_control_	High Upward Depth
+//Map	_control_	High Downward Depth
+//Map	_control_	High Deadband
+//Map	_control_	High Band Gain
+//Map	_control_	Low Band Solo
+//Map	_control_	Low Band Mute
+//Map	_control_	Mid Band Solo
+//Map	_control_	Mid Band Mute
+//Map	_control_	High Band Solo
+//Map	_control_	High Band Mute
+//Map	_control_	Input Peak Left
+//Map	_control_	Input Peak Right
+//Map	_control_	Output Peak Left
+//Map	_control_	Output Peak Right
+//Map	_control_	Low Band GR Meter
+//Map	_control_	Low Band Lift Meter
+//Map	_control_	Low Band Input Level
+//Map	_control_	Low Band Output Level
+//Map	_control_	Low Band Dynamics Transfer
+//Map	_control_	Mid Band GR Meter
+//Map	_control_	Mid Band Lift Meter
+//Map	_control_	Mid Band Input Level
+//Map	_control_	Mid Band Output Level
+//Map	_control_	Mid Band Dynamics Transfer
+//Map	_control_	High Band GR Meter
+//Map	_control_	High Band Lift Meter
+//Map	_control_	High Band Input Level
+//Map	_control_	High Band Output Level
+//Map	_control_	High Band Dynamics Transfer
+//Map	_control_	Main GR Meter
+//Map	_control_	Main Lift Meter
+//Map	_control_	Calibration Drawer
