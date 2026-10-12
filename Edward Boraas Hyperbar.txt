@@ -10,6 +10,12 @@ Scope	Edward Boraas	ca.boraas.Hyperbar
 //Map	_control_	Sub Detector Mode
 //Map	_control_	Upward Gate Mode
 //Map	_control_	Limiter Mode
+//Map	_control_	Sub Mono
+//Map	_control_	Spatial Domain
+//Map	_control_	Expanse
+//Map	_control_	Horizon
+//Map	_control_	Channel Mode
+//Map	_control_	Monitor Mode
 //Map	_control_	Low Thresh Bias
 //Map	_control_	Low Upward Depth
 //Map	_control_	Low Downward Depth
