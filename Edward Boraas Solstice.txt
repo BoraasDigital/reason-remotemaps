@@ -11,7 +11,7 @@ Scope	Edward Boraas	ca.boraas.Solstice
 //Map	_control_	Dyn Range Scale
 //Map	_control_	Output Gain
 //Map	_control_	Auto Gain
-//Map	_control_	Delta Listen
+//Map	_control_	Audition Mode (Delta / SC Key)
 //Map	_control_	Phase Invert
 //Map	_control_	HQ 2x Oversample
 //Map	_control_	Solo Band
