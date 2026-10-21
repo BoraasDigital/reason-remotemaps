@@ -1,0 +1,341 @@
+Scope	Edward Boraas	ca.boraas.Solstice
+//Map	_control_	HPF On
+//Map	_control_	HPF Frequency
+//Map	_control_	HPF Slope
+//Map	_control_	LPF On
+//Map	_control_	LPF Frequency
+//Map	_control_	LPF Slope
+//Map	_control_	Side HPF On
+//Map	_control_	Side HPF Freq
+//Map	_control_	EQ Gain Scale
+//Map	_control_	Dyn Range Scale
+//Map	_control_	Output Gain
+//Map	_control_	Auto Gain
+//Map	_control_	Delta Listen
+//Map	_control_	Phase Invert
+//Map	_control_	HQ 2x Oversample
+//Map	_control_	Solo Band
+//Map	_control_	Show Pre Spectrum
+//Map	_control_	Show Post Spectrum
+//Map	_control_	Show SC Spectrum
+//Map	_control_	Freeze Spectrum
+//Map	_control_	Display Range
+//Map	_control_	Selected Band
+//Map	_control_	Hardware Drawer
+//Map	_control_	Analyzer Tilt Slope
+//Map	_control_	Show Peak Hold
+//Map	_control_	Band Solo Active
+//Map	_control_	SC Subtract Self
+//Map	_control_	Panel Height
+//Map	_control_	Band 1 Active
+//Map	_control_	Band 1 Bypass
+//Map	_control_	Band 1 Frequency
+//Map	_control_	Band 1 Gain
+//Map	_control_	Band 1 Q
+//Map	_control_	Band 1 Shape
+//Map	_control_	Band 1 Placement
+//Map	_control_	Band 1 Dyn Range
+//Map	_control_	Band 1 Threshold
+//Map	_control_	Band 1 Ext SC
+//Map	_control_	Band 2 Active
+//Map	_control_	Band 2 Bypass
+//Map	_control_	Band 2 Frequency
+//Map	_control_	Band 2 Gain
+//Map	_control_	Band 2 Q
+//Map	_control_	Band 2 Shape
+//Map	_control_	Band 2 Placement
+//Map	_control_	Band 2 Dyn Range
+//Map	_control_	Band 2 Threshold
+//Map	_control_	Band 2 Ext SC
+//Map	_control_	Band 3 Active
+//Map	_control_	Band 3 Bypass
+//Map	_control_	Band 3 Frequency
+//Map	_control_	Band 3 Gain
+//Map	_control_	Band 3 Q
+//Map	_control_	Band 3 Shape
+//Map	_control_	Band 3 Placement
+//Map	_control_	Band 3 Dyn Range
+//Map	_control_	Band 3 Threshold
+//Map	_control_	Band 3 Ext SC
+//Map	_control_	Band 4 Active
+//Map	_control_	Band 4 Bypass
+//Map	_control_	Band 4 Frequency
+//Map	_control_	Band 4 Gain
+//Map	_control_	Band 4 Q
+//Map	_control_	Band 4 Shape
+//Map	_control_	Band 4 Placement
+//Map	_control_	Band 4 Dyn Range
+//Map	_control_	Band 4 Threshold
+//Map	_control_	Band 4 Ext SC
+//Map	_control_	Band 5 Active
+//Map	_control_	Band 5 Bypass
+//Map	_control_	Band 5 Frequency
+//Map	_control_	Band 5 Gain
+//Map	_control_	Band 5 Q
+//Map	_control_	Band 5 Shape
+//Map	_control_	Band 5 Placement
+//Map	_control_	Band 5 Dyn Range
+//Map	_control_	Band 5 Threshold
+//Map	_control_	Band 5 Ext SC
+//Map	_control_	Band 6 Active
+//Map	_control_	Band 6 Bypass
+//Map	_control_	Band 6 Frequency
+//Map	_control_	Band 6 Gain
+//Map	_control_	Band 6 Q
+//Map	_control_	Band 6 Shape
+//Map	_control_	Band 6 Placement
+//Map	_control_	Band 6 Dyn Range
+//Map	_control_	Band 6 Threshold
+//Map	_control_	Band 6 Ext SC
+//Map	_control_	Band 7 Active
+//Map	_control_	Band 7 Bypass
+//Map	_control_	Band 7 Frequency
+//Map	_control_	Band 7 Gain
+//Map	_control_	Band 7 Q
+//Map	_control_	Band 7 Shape
+//Map	_control_	Band 7 Placement
+//Map	_control_	Band 7 Dyn Range
+//Map	_control_	Band 7 Threshold
+//Map	_control_	Band 7 Ext SC
+//Map	_control_	Band 8 Active
+//Map	_control_	Band 8 Bypass
+//Map	_control_	Band 8 Frequency
+//Map	_control_	Band 8 Gain
+//Map	_control_	Band 8 Q
+//Map	_control_	Band 8 Shape
+//Map	_control_	Band 8 Placement
+//Map	_control_	Band 8 Dyn Range
+//Map	_control_	Band 8 Threshold
+//Map	_control_	Band 8 Ext SC
+//Map	_control_	Band 9 Active
+//Map	_control_	Band 9 Bypass
+//Map	_control_	Band 9 Frequency
+//Map	_control_	Band 9 Gain
+//Map	_control_	Band 9 Q
+//Map	_control_	Band 9 Shape
+//Map	_control_	Band 9 Placement
+//Map	_control_	Band 9 Dyn Range
+//Map	_control_	Band 9 Threshold
+//Map	_control_	Band 9 Ext SC
+//Map	_control_	Band 10 Active
+//Map	_control_	Band 10 Bypass
+//Map	_control_	Band 10 Frequency
+//Map	_control_	Band 10 Gain
+//Map	_control_	Band 10 Q
+//Map	_control_	Band 10 Shape
+//Map	_control_	Band 10 Placement
+//Map	_control_	Band 10 Dyn Range
+//Map	_control_	Band 10 Threshold
+//Map	_control_	Band 10 Ext SC
+//Map	_control_	Band 11 Active
+//Map	_control_	Band 11 Bypass
+//Map	_control_	Band 11 Frequency
+//Map	_control_	Band 11 Gain
+//Map	_control_	Band 11 Q
+//Map	_control_	Band 11 Shape
+//Map	_control_	Band 11 Placement
+//Map	_control_	Band 11 Dyn Range
+//Map	_control_	Band 11 Threshold
+//Map	_control_	Band 11 Ext SC
+//Map	_control_	Band 12 Active
+//Map	_control_	Band 12 Bypass
+//Map	_control_	Band 12 Frequency
+//Map	_control_	Band 12 Gain
+//Map	_control_	Band 12 Q
+//Map	_control_	Band 12 Shape
+//Map	_control_	Band 12 Placement
+//Map	_control_	Band 12 Dyn Range
+//Map	_control_	Band 12 Threshold
+//Map	_control_	Band 12 Ext SC
+//Map	_control_	Band 13 Active
+//Map	_control_	Band 13 Bypass
+//Map	_control_	Band 13 Frequency
+//Map	_control_	Band 13 Gain
+//Map	_control_	Band 13 Q
+//Map	_control_	Band 13 Shape
+//Map	_control_	Band 13 Placement
+//Map	_control_	Band 13 Dyn Range
+//Map	_control_	Band 13 Threshold
+//Map	_control_	Band 13 Ext SC
+//Map	_control_	Band 14 Active
+//Map	_control_	Band 14 Bypass
+//Map	_control_	Band 14 Frequency
+//Map	_control_	Band 14 Gain
+//Map	_control_	Band 14 Q
+//Map	_control_	Band 14 Shape
+//Map	_control_	Band 14 Placement
+//Map	_control_	Band 14 Dyn Range
+//Map	_control_	Band 14 Threshold
+//Map	_control_	Band 14 Ext SC
+//Map	_control_	Band 15 Active
+//Map	_control_	Band 15 Bypass
+//Map	_control_	Band 15 Frequency
+//Map	_control_	Band 15 Gain
+//Map	_control_	Band 15 Q
+//Map	_control_	Band 15 Shape
+//Map	_control_	Band 15 Placement
+//Map	_control_	Band 15 Dyn Range
+//Map	_control_	Band 15 Threshold
+//Map	_control_	Band 15 Ext SC
+//Map	_control_	Band 16 Active
+//Map	_control_	Band 16 Bypass
+//Map	_control_	Band 16 Frequency
+//Map	_control_	Band 16 Gain
+//Map	_control_	Band 16 Q
+//Map	_control_	Band 16 Shape
+//Map	_control_	Band 16 Placement
+//Map	_control_	Band 16 Dyn Range
+//Map	_control_	Band 16 Threshold
+//Map	_control_	Band 16 Ext SC
+//Map	_control_	Band 17 Active
+//Map	_control_	Band 17 Bypass
+//Map	_control_	Band 17 Frequency
+//Map	_control_	Band 17 Gain
+//Map	_control_	Band 17 Q
+//Map	_control_	Band 17 Shape
+//Map	_control_	Band 17 Placement
+//Map	_control_	Band 17 Dyn Range
+//Map	_control_	Band 17 Threshold
+//Map	_control_	Band 17 Ext SC
+//Map	_control_	Band 18 Active
+//Map	_control_	Band 18 Bypass
+//Map	_control_	Band 18 Frequency
+//Map	_control_	Band 18 Gain
+//Map	_control_	Band 18 Q
+//Map	_control_	Band 18 Shape
+//Map	_control_	Band 18 Placement
+//Map	_control_	Band 18 Dyn Range
+//Map	_control_	Band 18 Threshold
+//Map	_control_	Band 18 Ext SC
+//Map	_control_	Band 19 Active
+//Map	_control_	Band 19 Bypass
+//Map	_control_	Band 19 Frequency
+//Map	_control_	Band 19 Gain
+//Map	_control_	Band 19 Q
+//Map	_control_	Band 19 Shape
+//Map	_control_	Band 19 Placement
+//Map	_control_	Band 19 Dyn Range
+//Map	_control_	Band 19 Threshold
+//Map	_control_	Band 19 Ext SC
+//Map	_control_	Band 20 Active
+//Map	_control_	Band 20 Bypass
+//Map	_control_	Band 20 Frequency
+//Map	_control_	Band 20 Gain
+//Map	_control_	Band 20 Q
+//Map	_control_	Band 20 Shape
+//Map	_control_	Band 20 Placement
+//Map	_control_	Band 20 Dyn Range
+//Map	_control_	Band 20 Threshold
+//Map	_control_	Band 20 Ext SC
+//Map	_control_	Band 21 Active
+//Map	_control_	Band 21 Bypass
+//Map	_control_	Band 21 Frequency
+//Map	_control_	Band 21 Gain
+//Map	_control_	Band 21 Q
+//Map	_control_	Band 21 Shape
+//Map	_control_	Band 21 Placement
+//Map	_control_	Band 21 Dyn Range
+//Map	_control_	Band 21 Threshold
+//Map	_control_	Band 21 Ext SC
+//Map	_control_	Band 22 Active
+//Map	_control_	Band 22 Bypass
+//Map	_control_	Band 22 Frequency
+//Map	_control_	Band 22 Gain
+//Map	_control_	Band 22 Q
+//Map	_control_	Band 22 Shape
+//Map	_control_	Band 22 Placement
+//Map	_control_	Band 22 Dyn Range
+//Map	_control_	Band 22 Threshold
+//Map	_control_	Band 22 Ext SC
+//Map	_control_	Band 23 Active
+//Map	_control_	Band 23 Bypass
+//Map	_control_	Band 23 Frequency
+//Map	_control_	Band 23 Gain
+//Map	_control_	Band 23 Q
+//Map	_control_	Band 23 Shape
+//Map	_control_	Band 23 Placement
+//Map	_control_	Band 23 Dyn Range
+//Map	_control_	Band 23 Threshold
+//Map	_control_	Band 23 Ext SC
+//Map	_control_	Band 24 Active
+//Map	_control_	Band 24 Bypass
+//Map	_control_	Band 24 Frequency
+//Map	_control_	Band 24 Gain
+//Map	_control_	Band 24 Q
+//Map	_control_	Band 24 Shape
+//Map	_control_	Band 24 Placement
+//Map	_control_	Band 24 Dyn Range
+//Map	_control_	Band 24 Threshold
+//Map	_control_	Band 24 Ext SC
+//Map	_control_	Band 1 Attack
+//Map	_control_	Band 1 Release
+//Map	_control_	Band 1 Ratio
+//Map	_control_	Band 2 Attack
+//Map	_control_	Band 2 Release
+//Map	_control_	Band 2 Ratio
+//Map	_control_	Band 3 Attack
+//Map	_control_	Band 3 Release
+//Map	_control_	Band 3 Ratio
+//Map	_control_	Band 4 Attack
+//Map	_control_	Band 4 Release
+//Map	_control_	Band 4 Ratio
+//Map	_control_	Band 5 Attack
+//Map	_control_	Band 5 Release
+//Map	_control_	Band 5 Ratio
+//Map	_control_	Band 6 Attack
+//Map	_control_	Band 6 Release
+//Map	_control_	Band 6 Ratio
+//Map	_control_	Band 7 Attack
+//Map	_control_	Band 7 Release
+//Map	_control_	Band 7 Ratio
+//Map	_control_	Band 8 Attack
+//Map	_control_	Band 8 Release
+//Map	_control_	Band 8 Ratio
+//Map	_control_	Band 9 Attack
+//Map	_control_	Band 9 Release
+//Map	_control_	Band 9 Ratio
+//Map	_control_	Band 10 Attack
+//Map	_control_	Band 10 Release
+//Map	_control_	Band 10 Ratio
+//Map	_control_	Band 11 Attack
+//Map	_control_	Band 11 Release
+//Map	_control_	Band 11 Ratio
+//Map	_control_	Band 12 Attack
+//Map	_control_	Band 12 Release
+//Map	_control_	Band 12 Ratio
+//Map	_control_	Band 13 Attack
+//Map	_control_	Band 13 Release
+//Map	_control_	Band 13 Ratio
+//Map	_control_	Band 14 Attack
+//Map	_control_	Band 14 Release
+//Map	_control_	Band 14 Ratio
+//Map	_control_	Band 15 Attack
+//Map	_control_	Band 15 Release
+//Map	_control_	Band 15 Ratio
+//Map	_control_	Band 16 Attack
+//Map	_control_	Band 16 Release
+//Map	_control_	Band 16 Ratio
+//Map	_control_	Band 17 Attack
+//Map	_control_	Band 17 Release
+//Map	_control_	Band 17 Ratio
+//Map	_control_	Band 18 Attack
+//Map	_control_	Band 18 Release
+//Map	_control_	Band 18 Ratio
+//Map	_control_	Band 19 Attack
+//Map	_control_	Band 19 Release
+//Map	_control_	Band 19 Ratio
+//Map	_control_	Band 20 Attack
+//Map	_control_	Band 20 Release
+//Map	_control_	Band 20 Ratio
+//Map	_control_	Band 21 Attack
+//Map	_control_	Band 21 Release
+//Map	_control_	Band 21 Ratio
+//Map	_control_	Band 22 Attack
+//Map	_control_	Band 22 Release
+//Map	_control_	Band 22 Ratio
+//Map	_control_	Band 23 Attack
+//Map	_control_	Band 23 Release
+//Map	_control_	Band 23 Ratio
+//Map	_control_	Band 24 Attack
+//Map	_control_	Band 24 Release
+//Map	_control_	Band 24 Ratio

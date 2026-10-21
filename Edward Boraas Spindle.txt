@@ -1,0 +1,18 @@
+Scope	Edward Boraas	ca.boraas.Spindle
+//Map	_control_	On/Off
+//Map	_control_	Stack Thru
+//Map	_control_	CV Bridge
+//Map	_control_	Link In 1
+//Map	_control_	Link In 2
+//Map	_control_	Link In 3
+//Map	_control_	Link In 4
+//Map	_control_	Link In 5
+//Map	_control_	Link In 6
+//Map	_control_	Link In 7
+//Map	_control_	Link In 8
+//Map	_control_	Active Note
+//Map	_control_	Active Vel
+//Map	_control_	Active Gate
+//Map	_control_	Link Lock Mask
+//Map	_control_	Link Connected Mask
+//Map	_control_	Link Active Mask
