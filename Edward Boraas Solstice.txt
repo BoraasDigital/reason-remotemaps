@@ -1,10 +1,4 @@
 Scope	Edward Boraas	ca.boraas.Solstice
-//Map	_control_	HPF On
-//Map	_control_	HPF Frequency
-//Map	_control_	HPF Slope
-//Map	_control_	LPF On
-//Map	_control_	LPF Frequency
-//Map	_control_	LPF Slope
 //Map	_control_	Side HPF On
 //Map	_control_	Side HPF Freq
 //Map	_control_	EQ Gain Scale
@@ -339,3 +333,51 @@ Scope	Edward Boraas	ca.boraas.Solstice
 //Map	_control_	Band 24 Attack
 //Map	_control_	Band 24 Release
 //Map	_control_	Band 24 Ratio
+//Map	_control_	Band 1 Dyn Mode
+//Map	_control_	Band 2 Dyn Mode
+//Map	_control_	Band 3 Dyn Mode
+//Map	_control_	Band 4 Dyn Mode
+//Map	_control_	Band 5 Dyn Mode
+//Map	_control_	Band 6 Dyn Mode
+//Map	_control_	Band 7 Dyn Mode
+//Map	_control_	Band 8 Dyn Mode
+//Map	_control_	Band 9 Dyn Mode
+//Map	_control_	Band 10 Dyn Mode
+//Map	_control_	Band 11 Dyn Mode
+//Map	_control_	Band 12 Dyn Mode
+//Map	_control_	Band 13 Dyn Mode
+//Map	_control_	Band 14 Dyn Mode
+//Map	_control_	Band 15 Dyn Mode
+//Map	_control_	Band 16 Dyn Mode
+//Map	_control_	Band 17 Dyn Mode
+//Map	_control_	Band 18 Dyn Mode
+//Map	_control_	Band 19 Dyn Mode
+//Map	_control_	Band 20 Dyn Mode
+//Map	_control_	Band 21 Dyn Mode
+//Map	_control_	Band 22 Dyn Mode
+//Map	_control_	Band 23 Dyn Mode
+//Map	_control_	Band 24 Dyn Mode
+//Map	_control_	Band 1 Filter Slope
+//Map	_control_	Band 2 Filter Slope
+//Map	_control_	Band 3 Filter Slope
+//Map	_control_	Band 4 Filter Slope
+//Map	_control_	Band 5 Filter Slope
+//Map	_control_	Band 6 Filter Slope
+//Map	_control_	Band 7 Filter Slope
+//Map	_control_	Band 8 Filter Slope
+//Map	_control_	Band 9 Filter Slope
+//Map	_control_	Band 10 Filter Slope
+//Map	_control_	Band 11 Filter Slope
+//Map	_control_	Band 12 Filter Slope
+//Map	_control_	Band 13 Filter Slope
+//Map	_control_	Band 14 Filter Slope
+//Map	_control_	Band 15 Filter Slope
+//Map	_control_	Band 16 Filter Slope
+//Map	_control_	Band 17 Filter Slope
+//Map	_control_	Band 18 Filter Slope
+//Map	_control_	Band 19 Filter Slope
+//Map	_control_	Band 20 Filter Slope
+//Map	_control_	Band 21 Filter Slope
+//Map	_control_	Band 22 Filter Slope
+//Map	_control_	Band 23 Filter Slope
+//Map	_control_	Band 24 Filter Slope
