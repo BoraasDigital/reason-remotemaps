@@ -10,9 +10,16 @@ Scope	Edward Boraas	ca.boraas.Spindle
 //Map	_control_	Link In 6
 //Map	_control_	Link In 7
 //Map	_control_	Link In 8
+//Map	_control_	Out 1/2 Mode
+//Map	_control_	Out 3/4 Mode
+//Map	_control_	Out 5/6 Mode
+//Map	_control_	Out 7/8 Mode
 //Map	_control_	Active Note
 //Map	_control_	Active Vel
 //Map	_control_	Active Gate
 //Map	_control_	Link Lock Mask
 //Map	_control_	Link Connected Mask
 //Map	_control_	Link Active Mask
+//Map	_control_	Link Out Connected Mask
+//Map	_control_	Active Scale Root
+//Map	_control_	Active Scale Mask
